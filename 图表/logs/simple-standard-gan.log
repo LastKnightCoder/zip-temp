@@ -1,0 +1,2402 @@
+No trained_models found, init new trained_models
+Epoch: 1 / 200 ============================
+D loss: 0.6930626034736633, G loss: 0.7063159346580505, cost time: 3.429844856262207
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 2 / 200 ============================
+D loss: 0.6905219554901123, G loss: 0.6972264647483826, cost time: 3.229422092437744
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 3 / 200 ============================
+D loss: 0.6882537603378296, G loss: 0.6919728517532349, cost time: 4.1003804206848145
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 4 / 200 ============================
+D loss: 0.6856234073638916, G loss: 0.6826813220977783, cost time: 3.4864614009857178
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 5 / 200 ============================
+D loss: 0.6802284717559814, G loss: 0.6705895066261292, cost time: 3.2480032444000244
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 6 / 200 ============================
+D loss: 0.6722617149353027, G loss: 0.658392071723938, cost time: 3.261212110519409
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 7 / 200 ============================
+D loss: 0.6639782190322876, G loss: 0.6525532007217407, cost time: 3.3214499950408936
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 8 / 200 ============================
+D loss: 0.6456995010375977, G loss: 0.6765246391296387, cost time: 3.236537456512451
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 9 / 200 ============================
+D loss: 0.6233346462249756, G loss: 0.7823569178581238, cost time: 3.253258228302002
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 10 / 200 ============================
+D loss: 0.562404990196228, G loss: 0.9633127450942993, cost time: 3.2597944736480713
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 11 / 200 ============================
+D loss: 0.5198456048965454, G loss: 1.3539526462554932, cost time: 3.265000343322754
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 12 / 200 ============================
+D loss: 0.36433321237564087, G loss: 1.8573496341705322, cost time: 3.2216899394989014
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 13 / 200 ============================
+D loss: 0.3418644368648529, G loss: 2.3123831748962402, cost time: 3.238123655319214
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 14 / 200 ============================
+D loss: 0.34219416975975037, G loss: 2.1804656982421875, cost time: 3.3850185871124268
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 15 / 200 ============================
+D loss: 0.18115247786045074, G loss: 2.0032944679260254, cost time: 3.1819982528686523
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 16 / 200 ============================
+D loss: 0.4632783830165863, G loss: 0.621051549911499, cost time: 3.286298990249634
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 17 / 200 ============================
+D loss: 0.7069572806358337, G loss: 0.5975592732429504, cost time: 3.2460110187530518
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 18 / 200 ============================
+D loss: 0.48747706413269043, G loss: 0.9252209067344666, cost time: 3.196399211883545
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 19 / 200 ============================
+D loss: 0.2638470232486725, G loss: 1.3293503522872925, cost time: 3.3099188804626465
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 20 / 200 ============================
+D loss: 0.29257696866989136, G loss: 1.1227582693099976, cost time: 3.2389473915100098
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 21 / 200 ============================
+D loss: 0.3695265054702759, G loss: 0.8791652321815491, cost time: 3.2383365631103516
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 22 / 200 ============================
+D loss: 0.4994717240333557, G loss: 0.5069053173065186, cost time: 3.2240843772888184
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 23 / 200 ============================
+D loss: 1.344049334526062, G loss: 0.41092193126678467, cost time: 3.237248420715332
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 24 / 200 ============================
+D loss: 0.7812058329582214, G loss: 0.5198725461959839, cost time: 3.270930528640747
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 25 / 200 ============================
+D loss: 0.5035289525985718, G loss: 0.7438452243804932, cost time: 3.2499144077301025
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 26 / 200 ============================
+D loss: 0.4021550416946411, G loss: 0.9590410590171814, cost time: 3.2435808181762695
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 27 / 200 ============================
+D loss: 0.37512993812561035, G loss: 1.0312726497650146, cost time: 3.3166234493255615
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 28 / 200 ============================
+D loss: 0.3127858638763428, G loss: 1.0866718292236328, cost time: 3.2363197803497314
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 29 / 200 ============================
+D loss: 0.29516515135765076, G loss: 1.339388370513916, cost time: 3.2713234424591064
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 30 / 200 ============================
+D loss: 0.24264726042747498, G loss: 1.4940941333770752, cost time: 3.259748935699463
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 31 / 200 ============================
+D loss: 0.20795303583145142, G loss: 1.6093372106552124, cost time: 3.1618239879608154
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 32 / 200 ============================
+D loss: 0.21206295490264893, G loss: 1.4554320573806763, cost time: 3.250809669494629
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 33 / 200 ============================
+D loss: 0.3798661231994629, G loss: 0.6811274886131287, cost time: 3.3361167907714844
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 34 / 200 ============================
+D loss: 0.6007755398750305, G loss: 0.5553683042526245, cost time: 3.2390003204345703
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 35 / 200 ============================
+D loss: 0.7483891844749451, G loss: 0.6473314762115479, cost time: 3.247753620147705
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 36 / 200 ============================
+D loss: 0.44632381200790405, G loss: 0.8042269349098206, cost time: 3.302964448928833
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 37 / 200 ============================
+D loss: 0.3115774095058441, G loss: 1.0564978122711182, cost time: 3.259542465209961
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 38 / 200 ============================
+D loss: 0.3416179120540619, G loss: 1.428925633430481, cost time: 3.266434669494629
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 39 / 200 ============================
+D loss: 0.3018503189086914, G loss: 0.9830820560455322, cost time: 3.3169381618499756
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 40 / 200 ============================
+D loss: 0.30765077471733093, G loss: 0.8514682054519653, cost time: 3.326404094696045
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 41 / 200 ============================
+D loss: 0.4112725853919983, G loss: 0.7901028394699097, cost time: 3.229905366897583
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 42 / 200 ============================
+D loss: 0.3138633072376251, G loss: 0.9203189611434937, cost time: 3.294520378112793
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 43 / 200 ============================
+D loss: 0.33634302020072937, G loss: 0.8285510540008545, cost time: 3.221672534942627
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 44 / 200 ============================
+D loss: 0.31379833817481995, G loss: 0.8507702350616455, cost time: 3.1890687942504883
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 45 / 200 ============================
+D loss: 0.3225221037864685, G loss: 0.8736574649810791, cost time: 3.3163950443267822
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 46 / 200 ============================
+D loss: 0.41481515765190125, G loss: 0.8406541347503662, cost time: 3.243236780166626
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 47 / 200 ============================
+D loss: 0.28586912155151367, G loss: 0.92426598072052, cost time: 3.1636431217193604
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 48 / 200 ============================
+D loss: 0.30208268761634827, G loss: 0.8907747268676758, cost time: 3.17060923576355
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 49 / 200 ============================
+D loss: 0.30641257762908936, G loss: 0.8498430252075195, cost time: 3.2527153491973877
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 50 / 200 ============================
+D loss: 0.28752145171165466, G loss: 0.9022681713104248, cost time: 3.3327736854553223
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 51 / 200 ============================
+D loss: 0.37645527720451355, G loss: 1.3487091064453125, cost time: 3.3160345554351807
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 52 / 200 ============================
+D loss: 0.31523868441581726, G loss: 0.8748394846916199, cost time: 3.2339694499969482
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 53 / 200 ============================
+D loss: 0.310905784368515, G loss: 0.8917792439460754, cost time: 3.2866642475128174
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 54 / 200 ============================
+D loss: 0.38669511675834656, G loss: 0.9334310293197632, cost time: 3.2554924488067627
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 55 / 200 ============================
+D loss: 0.12345128506422043, G loss: 1.7905993461608887, cost time: 3.3113043308258057
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 56 / 200 ============================
+D loss: 0.21592608094215393, G loss: 1.3362370729446411, cost time: 3.2650842666625977
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 57 / 200 ============================
+D loss: 0.07610300183296204, G loss: 2.5719656944274902, cost time: 3.204254627227783
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 58 / 200 ============================
+D loss: 0.23598645627498627, G loss: 1.2233705520629883, cost time: 3.1746034622192383
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 59 / 200 ============================
+D loss: 0.13942095637321472, G loss: 3.2881505489349365, cost time: 3.3091273307800293
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 60 / 200 ============================
+D loss: 0.3566015362739563, G loss: 3.292433738708496, cost time: 3.237755537033081
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 61 / 200 ============================
+D loss: 0.1917230188846588, G loss: 2.772251605987549, cost time: 3.2814788818359375
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 62 / 200 ============================
+D loss: 0.11848269402980804, G loss: 2.418400287628174, cost time: 3.14119291305542
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 63 / 200 ============================
+D loss: 0.2228798270225525, G loss: 1.1844968795776367, cost time: 3.2144455909729004
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 64 / 200 ============================
+D loss: 0.1800135225057602, G loss: 1.7029342651367188, cost time: 3.21474552154541
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 65 / 200 ============================
+D loss: 0.24872905015945435, G loss: 1.2025259733200073, cost time: 3.309220314025879
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 66 / 200 ============================
+D loss: 0.06867077946662903, G loss: 2.9663803577423096, cost time: 3.253589153289795
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 67 / 200 ============================
+D loss: 0.3318434953689575, G loss: 1.4678279161453247, cost time: 3.2448089122772217
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 68 / 200 ============================
+D loss: 0.24593833088874817, G loss: 1.4692435264587402, cost time: 3.1801202297210693
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 69 / 200 ============================
+D loss: 0.3943030834197998, G loss: 2.8262219429016113, cost time: 3.2956953048706055
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 70 / 200 ============================
+D loss: 0.08500752598047256, G loss: 2.5004518032073975, cost time: 3.1859991550445557
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 71 / 200 ============================
+D loss: 0.201880544424057, G loss: 1.5000429153442383, cost time: 3.2620689868927
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 72 / 200 ============================
+D loss: 0.1659151166677475, G loss: 4.065354347229004, cost time: 3.3053390979766846
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 73 / 200 ============================
+D loss: 0.153344064950943, G loss: 1.489166259765625, cost time: 3.4471006393432617
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 74 / 200 ============================
+D loss: 0.16471296548843384, G loss: 1.6866648197174072, cost time: 3.393728494644165
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 75 / 200 ============================
+D loss: 0.02523627132177353, G loss: 3.730386972427368, cost time: 5.859482288360596
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 76 / 200 ============================
+D loss: 0.03011588752269745, G loss: 3.5169477462768555, cost time: 3.289613962173462
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 77 / 200 ============================
+D loss: 0.14890776574611664, G loss: 2.996575117111206, cost time: 3.22540020942688
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 78 / 200 ============================
+D loss: 0.14324046671390533, G loss: 1.6056402921676636, cost time: 3.303906202316284
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 79 / 200 ============================
+D loss: 0.6575265526771545, G loss: 1.9179706573486328, cost time: 3.33998441696167
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 80 / 200 ============================
+D loss: 0.19477874040603638, G loss: 1.5516397953033447, cost time: 3.2434539794921875
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 81 / 200 ============================
+D loss: 0.7326633930206299, G loss: 1.7529813051223755, cost time: 3.308830499649048
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 82 / 200 ============================
+D loss: 0.20031094551086426, G loss: 1.7075259685516357, cost time: 3.251511573791504
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 83 / 200 ============================
+D loss: 0.1817554384469986, G loss: 1.5414576530456543, cost time: 3.180119752883911
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 84 / 200 ============================
+D loss: 0.18647244572639465, G loss: 1.7080068588256836, cost time: 3.304050922393799
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 85 / 200 ============================
+D loss: 0.2357204258441925, G loss: 1.5157803297042847, cost time: 3.2918951511383057
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 86 / 200 ============================
+D loss: 0.1119670569896698, G loss: 1.9375742673873901, cost time: 3.222046375274658
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 87 / 200 ============================
+D loss: 0.16462478041648865, G loss: 1.6792454719543457, cost time: 3.2881622314453125
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 88 / 200 ============================
+D loss: 0.097662054002285, G loss: 2.261060953140259, cost time: 3.276289463043213
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 89 / 200 ============================
+D loss: 0.24753494560718536, G loss: 3.5722110271453857, cost time: 3.3219377994537354
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 90 / 200 ============================
+D loss: 0.025489045307040215, G loss: 3.396068811416626, cost time: 3.1917271614074707
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 91 / 200 ============================
+D loss: 0.3807125389575958, G loss: 2.4203405380249023, cost time: 3.2248282432556152
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 92 / 200 ============================
+D loss: 0.13498909771442413, G loss: 1.9683332443237305, cost time: 3.23663067817688
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 93 / 200 ============================
+D loss: 0.10019411146640778, G loss: 3.179527997970581, cost time: 3.148076057434082
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 94 / 200 ============================
+D loss: 0.05579928681254387, G loss: 3.5660176277160645, cost time: 3.3239476680755615
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 95 / 200 ============================
+D loss: 0.08498122543096542, G loss: 4.3021392822265625, cost time: 3.2324025630950928
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 96 / 200 ============================
+D loss: 0.24479560554027557, G loss: 3.353297472000122, cost time: 3.2551372051239014
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 97 / 200 ============================
+D loss: 0.04984666034579277, G loss: 2.829385280609131, cost time: 3.31333327293396
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 98 / 200 ============================
+D loss: 0.09376195073127747, G loss: 2.6365280151367188, cost time: 3.255094528198242
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 99 / 200 ============================
+D loss: 0.16502809524536133, G loss: 2.3064088821411133, cost time: 3.234109878540039
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 100 / 200 ============================
+D loss: 0.013020182028412819, G loss: 4.508261680603027, cost time: 3.243525266647339
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 101 / 200 ============================
+D loss: 0.20651786029338837, G loss: 4.522770881652832, cost time: 3.2052323818206787
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 102 / 200 ============================
+D loss: 0.007787087932229042, G loss: 4.963946342468262, cost time: 3.240067720413208
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 103 / 200 ============================
+D loss: 0.08280491828918457, G loss: 4.13686466217041, cost time: 3.246060848236084
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 104 / 200 ============================
+D loss: 0.018927540630102158, G loss: 3.895476818084717, cost time: 3.2399399280548096
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 105 / 200 ============================
+D loss: 0.04882819950580597, G loss: 3.4487345218658447, cost time: 3.258047580718994
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 106 / 200 ============================
+D loss: 0.098800428211689, G loss: 2.8974905014038086, cost time: 3.170607566833496
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 107 / 200 ============================
+D loss: 0.1670152246952057, G loss: 2.5479736328125, cost time: 3.283876419067383
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 108 / 200 ============================
+D loss: 0.30725428462028503, G loss: 8.968419075012207, cost time: 3.241607666015625
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 109 / 200 ============================
+D loss: 0.09535738080739975, G loss: 4.405153274536133, cost time: 3.1666629314422607
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 110 / 200 ============================
+D loss: 0.2687719166278839, G loss: 4.735877990722656, cost time: 3.2413170337677
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 111 / 200 ============================
+D loss: 0.4959110617637634, G loss: 3.839829921722412, cost time: 3.2222912311553955
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 112 / 200 ============================
+D loss: 0.08447237312793732, G loss: 2.8801069259643555, cost time: 3.2366793155670166
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 113 / 200 ============================
+D loss: 0.05596085265278816, G loss: 2.875206470489502, cost time: 3.260753870010376
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 114 / 200 ============================
+D loss: 0.14349299669265747, G loss: 3.0667943954467773, cost time: 3.237675189971924
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 115 / 200 ============================
+D loss: 0.08849507570266724, G loss: 2.3551535606384277, cost time: 3.183964967727661
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 116 / 200 ============================
+D loss: 0.5051162838935852, G loss: 1.9309899806976318, cost time: 3.2403547763824463
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 117 / 200 ============================
+D loss: 0.21737037599086761, G loss: 2.619363784790039, cost time: 3.177138566970825
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 118 / 200 ============================
+D loss: 0.2708193063735962, G loss: 1.8569459915161133, cost time: 3.326063871383667
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 119 / 200 ============================
+D loss: 0.12643396854400635, G loss: 1.9412028789520264, cost time: 3.2256131172180176
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 120 / 200 ============================
+D loss: 0.21096277236938477, G loss: 1.8409947156906128, cost time: 3.2890963554382324
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 121 / 200 ============================
+D loss: 0.13778388500213623, G loss: 2.3584671020507812, cost time: 3.2656068801879883
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 122 / 200 ============================
+D loss: 0.14868459105491638, G loss: 2.6141366958618164, cost time: 3.199944496154785
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 123 / 200 ============================
+D loss: 0.4893649220466614, G loss: 2.5714638233184814, cost time: 3.232436180114746
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 124 / 200 ============================
+D loss: 0.1506948620080948, G loss: 2.169908046722412, cost time: 3.149256706237793
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 125 / 200 ============================
+D loss: 0.11603060364723206, G loss: 1.9402607679367065, cost time: 3.2416486740112305
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 126 / 200 ============================
+D loss: 0.23137103021144867, G loss: 1.983447790145874, cost time: 3.178262948989868
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 127 / 200 ============================
+D loss: 0.15465112030506134, G loss: 3.068422794342041, cost time: 3.306929588317871
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 128 / 200 ============================
+D loss: 0.251180499792099, G loss: 5.068938732147217, cost time: 3.2771990299224854
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 129 / 200 ============================
+D loss: 0.1805606186389923, G loss: 2.0854077339172363, cost time: 3.246812105178833
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 130 / 200 ============================
+D loss: 0.08229096233844757, G loss: 2.5839123725891113, cost time: 3.243100643157959
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 131 / 200 ============================
+D loss: 0.07727189362049103, G loss: 2.6096901893615723, cost time: 3.2630727291107178
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 132 / 200 ============================
+D loss: 0.06388373672962189, G loss: 3.6586551666259766, cost time: 3.2572922706604004
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 133 / 200 ============================
+D loss: 0.0384148433804512, G loss: 4.81800651550293, cost time: 3.3294451236724854
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 134 / 200 ============================
+D loss: 0.16838032007217407, G loss: 2.862178325653076, cost time: 3.186652660369873
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 135 / 200 ============================
+D loss: 0.18020784854888916, G loss: 3.275693416595459, cost time: 3.241691827774048
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 136 / 200 ============================
+D loss: 0.10841035097837448, G loss: 3.117867946624756, cost time: 3.307288646697998
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 137 / 200 ============================
+D loss: 0.07303942739963531, G loss: 3.1993355751037598, cost time: 3.181018114089966
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 138 / 200 ============================
+D loss: 0.08197721838951111, G loss: 3.6059155464172363, cost time: 3.321463108062744
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 139 / 200 ============================
+D loss: 0.01807398721575737, G loss: 4.334725379943848, cost time: 3.1667680740356445
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 140 / 200 ============================
+D loss: 0.17433658242225647, G loss: 4.666712760925293, cost time: 3.3073933124542236
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 141 / 200 ============================
+D loss: 0.07440492510795593, G loss: 2.9492299556732178, cost time: 3.27732253074646
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 142 / 200 ============================
+D loss: 0.15377996861934662, G loss: 3.5744552612304688, cost time: 3.2091786861419678
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 143 / 200 ============================
+D loss: 0.05604235455393791, G loss: 3.451235294342041, cost time: 3.2460644245147705
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 144 / 200 ============================
+D loss: 0.5170893669128418, G loss: 3.0562806129455566, cost time: 3.229482650756836
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 145 / 200 ============================
+D loss: 0.12355618923902512, G loss: 2.978546142578125, cost time: 3.2554996013641357
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 146 / 200 ============================
+D loss: 0.5513411164283752, G loss: 3.797909736633301, cost time: 3.2575876712799072
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 147 / 200 ============================
+D loss: 0.4021301865577698, G loss: 2.614389181137085, cost time: 3.2208616733551025
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 148 / 200 ============================
+D loss: 0.1256822645664215, G loss: 2.321380615234375, cost time: 3.262773275375366
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 149 / 200 ============================
+D loss: 0.09565897285938263, G loss: 2.732872486114502, cost time: 3.28994083404541
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 150 / 200 ============================
+D loss: 0.1481662541627884, G loss: 2.1910905838012695, cost time: 3.2857346534729004
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 151 / 200 ============================
+D loss: 0.22926577925682068, G loss: 2.838999032974243, cost time: 3.26286244392395
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 152 / 200 ============================
+D loss: 0.3351812958717346, G loss: 1.9427549839019775, cost time: 3.2415359020233154
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 153 / 200 ============================
+D loss: 0.18294289708137512, G loss: 2.2551004886627197, cost time: 3.1899099349975586
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 154 / 200 ============================
+D loss: 0.32823312282562256, G loss: 4.191551208496094, cost time: 3.405565023422241
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 155 / 200 ============================
+D loss: 0.6430326700210571, G loss: 3.1729531288146973, cost time: 3.132045030593872
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 156 / 200 ============================
+D loss: 0.16992336511611938, G loss: 1.7699384689331055, cost time: 3.2567973136901855
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 157 / 200 ============================
+D loss: 0.45713502168655396, G loss: 2.182093620300293, cost time: 3.2744972705841064
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 158 / 200 ============================
+D loss: 0.14086779952049255, G loss: 3.5473687648773193, cost time: 3.3286631107330322
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 159 / 200 ============================
+D loss: 0.2434021532535553, G loss: 1.7715541124343872, cost time: 3.298541307449341
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 160 / 200 ============================
+D loss: 0.24787166714668274, G loss: 2.6158077716827393, cost time: 3.2978851795196533
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 161 / 200 ============================
+D loss: 0.3170543313026428, G loss: 2.7357606887817383, cost time: 3.260172128677368
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 162 / 200 ============================
+D loss: 0.15934371948242188, G loss: 2.0977935791015625, cost time: 3.282564878463745
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 163 / 200 ============================
+D loss: 0.18686197698116302, G loss: 4.944942951202393, cost time: 3.270461082458496
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 164 / 200 ============================
+D loss: 0.16840147972106934, G loss: 10.93886947631836, cost time: 3.2552096843719482
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 165 / 200 ============================
+D loss: 0.12404239177703857, G loss: 4.026706695556641, cost time: 3.263256072998047
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 166 / 200 ============================
+D loss: 2.1930902004241943, G loss: 8.269787788391113, cost time: 3.226604700088501
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 167 / 200 ============================
+D loss: 1.1570879220962524, G loss: 9.000391006469727, cost time: 3.2890045642852783
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 168 / 200 ============================
+D loss: 4.027636528015137, G loss: 6.556056499481201, cost time: 3.2699880599975586
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 169 / 200 ============================
+D loss: 1.9564719200134277, G loss: 3.6950197219848633, cost time: 3.3100032806396484
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 170 / 200 ============================
+D loss: 1.5390516519546509, G loss: 1.9876630306243896, cost time: 3.2744638919830322
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 171 / 200 ============================
+D loss: 1.1243185997009277, G loss: 1.3823044300079346, cost time: 3.256786584854126
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 172 / 200 ============================
+D loss: 0.9086076021194458, G loss: 1.1332253217697144, cost time: 3.3275134563446045
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 173 / 200 ============================
+D loss: 0.797613799571991, G loss: 1.031172275543213, cost time: 3.25974178314209
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 174 / 200 ============================
+D loss: 0.7329999208450317, G loss: 0.9802650809288025, cost time: 3.245654344558716
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 175 / 200 ============================
+D loss: 0.6966230273246765, G loss: 0.9496402740478516, cost time: 3.249438762664795
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 176 / 200 ============================
+D loss: 0.68044114112854, G loss: 0.9127535223960876, cost time: 3.243978977203369
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 177 / 200 ============================
+D loss: 0.6638809442520142, G loss: 0.8588385581970215, cost time: 3.2655982971191406
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 178 / 200 ============================
+D loss: 0.6245520114898682, G loss: 1.011244535446167, cost time: 3.3430440425872803
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 179 / 200 ============================
+D loss: 0.6333844661712646, G loss: 0.9664689302444458, cost time: 3.2377448081970215
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 180 / 200 ============================
+D loss: 0.6082166433334351, G loss: 1.0250964164733887, cost time: 3.256528377532959
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 181 / 200 ============================
+D loss: 0.585674524307251, G loss: 1.0542738437652588, cost time: 3.2826216220855713
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 182 / 200 ============================
+D loss: 0.5856664180755615, G loss: 1.0041978359222412, cost time: 3.2413930892944336
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 183 / 200 ============================
+D loss: 0.6058644652366638, G loss: 1.2533063888549805, cost time: 3.273264169692993
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 184 / 200 ============================
+D loss: 0.5568335056304932, G loss: 1.2311416864395142, cost time: 3.2192940711975098
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 185 / 200 ============================
+D loss: 0.552459180355072, G loss: 1.2822129726409912, cost time: 3.293670177459717
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 186 / 200 ============================
+D loss: 0.5379313826560974, G loss: 1.1038901805877686, cost time: 3.1003735065460205
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 187 / 200 ============================
+D loss: 0.5386682748794556, G loss: 1.4177395105361938, cost time: 3.24621844291687
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 188 / 200 ============================
+D loss: 0.4734766185283661, G loss: 1.357485055923462, cost time: 3.231255292892456
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 189 / 200 ============================
+D loss: 0.4824623763561249, G loss: 1.450500726699829, cost time: 3.2501511573791504
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 190 / 200 ============================
+D loss: 0.4583057165145874, G loss: 1.3343582153320312, cost time: 3.2321884632110596
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 191 / 200 ============================
+D loss: 0.5835820436477661, G loss: 0.9552472829818726, cost time: 3.2613601684570312
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 192 / 200 ============================
+D loss: 0.4583175778388977, G loss: 1.9111735820770264, cost time: 3.287430763244629
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 193 / 200 ============================
+D loss: 0.34119200706481934, G loss: 2.0852975845336914, cost time: 3.209581136703491
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 194 / 200 ============================
+D loss: 0.3633652627468109, G loss: 2.2546706199645996, cost time: 3.2997515201568604
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 195 / 200 ============================
+D loss: 0.24522235989570618, G loss: 2.313033103942871, cost time: 3.243305206298828
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 196 / 200 ============================
+D loss: 0.24842776358127594, G loss: 2.2136120796203613, cost time: 3.2621634006500244
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 197 / 200 ============================
+D loss: 0.26670944690704346, G loss: 1.9511659145355225, cost time: 3.248802423477173
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 198 / 200 ============================
+D loss: 0.49348872900009155, G loss: 1.5153732299804688, cost time: 3.233628034591675
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 199 / 200 ============================
+D loss: 0.22830654680728912, G loss: 4.99442195892334, cost time: 3.2729079723358154
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 200 / 200 ============================
+D loss: 0.16018152236938477, G loss: 3.404100179672241, cost time: 3.3197221755981445
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Models load from standard-simple-generator.pth & standard-simple-discriminator.pth
+Epoch: 201 / 800 ============================
+D loss: 0.24509522318840027, G loss: 3.2106878757476807, cost time: 0.9509179592132568
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 202 / 800 ============================
+D loss: 0.15255135297775269, G loss: 2.1499624252319336, cost time: 0.8296911716461182
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 203 / 800 ============================
+D loss: 0.40074390172958374, G loss: 1.0931235551834106, cost time: 0.714423418045044
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 204 / 800 ============================
+D loss: 0.09414039552211761, G loss: 4.618828773498535, cost time: 0.8286328315734863
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 205 / 800 ============================
+D loss: 0.300473690032959, G loss: 1.5186033248901367, cost time: 0.8487944602966309
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 206 / 800 ============================
+D loss: 0.15992799401283264, G loss: 2.2861433029174805, cost time: 0.7836382389068604
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 207 / 800 ============================
+D loss: 0.13433003425598145, G loss: 2.453679323196411, cost time: 0.7547347545623779
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 208 / 800 ============================
+D loss: 0.1829473078250885, G loss: 1.857553482055664, cost time: 1.0415165424346924
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 209 / 800 ============================
+D loss: 0.1751777082681656, G loss: 2.6413979530334473, cost time: 1.2186846733093262
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 210 / 800 ============================
+D loss: 0.17006921768188477, G loss: 2.558586359024048, cost time: 0.8506360054016113
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 211 / 800 ============================
+D loss: 0.11736591160297394, G loss: 2.230846405029297, cost time: 0.8440897464752197
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 212 / 800 ============================
+D loss: 0.2294839769601822, G loss: 2.8533802032470703, cost time: 0.8426616191864014
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 213 / 800 ============================
+D loss: 0.06141979619860649, G loss: 2.9199395179748535, cost time: 0.7905154228210449
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 214 / 800 ============================
+D loss: 0.060544468462467194, G loss: 3.017333745956421, cost time: 0.8452286720275879
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 215 / 800 ============================
+D loss: 0.14286230504512787, G loss: 2.1532373428344727, cost time: 0.6770923137664795
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 216 / 800 ============================
+D loss: 0.05760369822382927, G loss: 3.7579779624938965, cost time: 0.8269374370574951
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 217 / 800 ============================
+D loss: 0.136578768491745, G loss: 3.855134963989258, cost time: 1.064054012298584
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 218 / 800 ============================
+D loss: 0.023007815703749657, G loss: 3.6896116733551025, cost time: 0.8584513664245605
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 219 / 800 ============================
+D loss: 0.03634219244122505, G loss: 4.225214004516602, cost time: 0.7583587169647217
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 220 / 800 ============================
+D loss: 0.28690168261528015, G loss: 2.099416971206665, cost time: 0.7395327091217041
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 221 / 800 ============================
+D loss: 0.03720393776893616, G loss: 3.9746103286743164, cost time: 0.7492208480834961
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 222 / 800 ============================
+D loss: 0.03613477200269699, G loss: 3.719846487045288, cost time: 0.7471263408660889
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 223 / 800 ============================
+D loss: 0.1822485327720642, G loss: 3.7149829864501953, cost time: 0.8337421417236328
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 224 / 800 ============================
+D loss: 0.020301345735788345, G loss: 3.4276976585388184, cost time: 0.8123397827148438
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 225 / 800 ============================
+D loss: 0.026885194703936577, G loss: 3.3976902961730957, cost time: 0.8200638294219971
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 226 / 800 ============================
+D loss: 0.036713697016239166, G loss: 3.145806074142456, cost time: 0.8361876010894775
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 227 / 800 ============================
+D loss: 0.0479186549782753, G loss: 3.0172407627105713, cost time: 0.7759337425231934
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 228 / 800 ============================
+D loss: 0.05728630721569061, G loss: 3.131920337677002, cost time: 0.844372034072876
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 229 / 800 ============================
+D loss: 0.05514254793524742, G loss: 3.3278400897979736, cost time: 0.7460248470306396
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 230 / 800 ============================
+D loss: 0.03788141533732414, G loss: 3.865433931350708, cost time: 1.266505479812622
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 231 / 800 ============================
+D loss: 0.0829058438539505, G loss: 3.364392042160034, cost time: 1.1506388187408447
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 232 / 800 ============================
+D loss: 0.022174999117851257, G loss: 6.500781059265137, cost time: 0.6943576335906982
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 233 / 800 ============================
+D loss: 0.02031702734529972, G loss: 4.176220893859863, cost time: 0.7457766532897949
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 234 / 800 ============================
+D loss: 0.0070264204405248165, G loss: 6.074364185333252, cost time: 0.8265235424041748
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 235 / 800 ============================
+D loss: 2.0650477409362793, G loss: 3.5385384559631348, cost time: 0.8673512935638428
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 236 / 800 ============================
+D loss: 21.35141372680664, G loss: 2.1911580562591553, cost time: 0.7499682903289795
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 237 / 800 ============================
+D loss: 0.0446162112057209, G loss: 8.71530818939209, cost time: 0.7637224197387695
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 238 / 800 ============================
+D loss: 0.08858036994934082, G loss: 2.490154266357422, cost time: 0.7337679862976074
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 239 / 800 ============================
+D loss: 0.08191345632076263, G loss: 2.3115108013153076, cost time: 0.7817986011505127
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 240 / 800 ============================
+D loss: 0.08089055120944977, G loss: 2.5750513076782227, cost time: 0.7451093196868896
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 241 / 800 ============================
+D loss: 0.06567548215389252, G loss: 2.8674025535583496, cost time: 0.8406786918640137
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 242 / 800 ============================
+D loss: 0.04613316059112549, G loss: 3.258725166320801, cost time: 1.1634283065795898
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 243 / 800 ============================
+D loss: 0.04102350026369095, G loss: 3.3749032020568848, cost time: 1.220879316329956
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 244 / 800 ============================
+D loss: 0.025777554139494896, G loss: 3.6322245597839355, cost time: 0.845883846282959
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 245 / 800 ============================
+D loss: 0.024536803364753723, G loss: 3.6927430629730225, cost time: 0.8451557159423828
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 246 / 800 ============================
+D loss: 0.025682419538497925, G loss: 3.744824171066284, cost time: 0.8519377708435059
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 247 / 800 ============================
+D loss: 0.035185620188713074, G loss: 3.459990978240967, cost time: 0.7773351669311523
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 248 / 800 ============================
+D loss: 0.03301141411066055, G loss: 3.489375352859497, cost time: 0.7452261447906494
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 249 / 800 ============================
+D loss: 0.04207213968038559, G loss: 3.444340705871582, cost time: 0.8348941802978516
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 250 / 800 ============================
+D loss: 0.015943452715873718, G loss: 5.182929992675781, cost time: 0.8387153148651123
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 251 / 800 ============================
+D loss: 0.017697248607873917, G loss: 5.017918586730957, cost time: 0.8025500774383545
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 252 / 800 ============================
+D loss: 0.037106990814208984, G loss: 5.160661697387695, cost time: 0.7771086692810059
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 253 / 800 ============================
+D loss: 0.02766886167228222, G loss: 5.0516767501831055, cost time: 0.738610029220581
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 254 / 800 ============================
+D loss: 0.011934288777410984, G loss: 4.8199591636657715, cost time: 0.9560203552246094
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 255 / 800 ============================
+D loss: 0.008629236370325089, G loss: 4.77254581451416, cost time: 0.6812493801116943
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 256 / 800 ============================
+D loss: 0.008742885664105415, G loss: 4.5088934898376465, cost time: 0.8278906345367432
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 257 / 800 ============================
+D loss: 0.014134977012872696, G loss: 3.9745333194732666, cost time: 0.7608487606048584
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 258 / 800 ============================
+D loss: 0.019643079489469528, G loss: 3.3199563026428223, cost time: 0.7566642761230469
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 259 / 800 ============================
+D loss: 0.11052637547254562, G loss: 2.9677648544311523, cost time: 0.8399674892425537
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 260 / 800 ============================
+D loss: 0.057453788816928864, G loss: 5.745089530944824, cost time: 0.754237174987793
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 261 / 800 ============================
+D loss: 0.02067873254418373, G loss: 5.5162553787231445, cost time: 0.8526248931884766
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 262 / 800 ============================
+D loss: 0.014896392822265625, G loss: 6.051928520202637, cost time: 0.7331693172454834
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 263 / 800 ============================
+D loss: 0.010098597034811974, G loss: 6.222968578338623, cost time: 0.765671968460083
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 264 / 800 ============================
+D loss: 0.015375647693872452, G loss: 6.05488395690918, cost time: 0.825364351272583
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 265 / 800 ============================
+D loss: 0.02832309529185295, G loss: 5.607712268829346, cost time: 0.7794349193572998
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 266 / 800 ============================
+D loss: 0.007770787924528122, G loss: 5.011069297790527, cost time: 0.7424685955047607
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 267 / 800 ============================
+D loss: 0.007003741338849068, G loss: 4.777475357055664, cost time: 0.7888829708099365
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 268 / 800 ============================
+D loss: 0.008995629847049713, G loss: 4.144227981567383, cost time: 0.8630919456481934
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 269 / 800 ============================
+D loss: 0.02413257583975792, G loss: 3.9537861347198486, cost time: 0.8215742111206055
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 270 / 800 ============================
+D loss: 0.03209208324551582, G loss: 4.673487186431885, cost time: 0.8572533130645752
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 271 / 800 ============================
+D loss: 0.010977663099765778, G loss: 4.831218719482422, cost time: 0.8453319072723389
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 272 / 800 ============================
+D loss: 0.008982603438198566, G loss: 5.038088798522949, cost time: 0.8375563621520996
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 273 / 800 ============================
+D loss: 0.02323751151561737, G loss: 4.248700141906738, cost time: 0.7639780044555664
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 274 / 800 ============================
+D loss: 0.008130183443427086, G loss: 12.656665802001953, cost time: 0.7570996284484863
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 275 / 800 ============================
+D loss: 0.0058682686649262905, G loss: 7.388756275177002, cost time: 0.8359496593475342
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 276 / 800 ============================
+D loss: 0.005020117852836847, G loss: 7.6095991134643555, cost time: 0.8629710674285889
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 277 / 800 ============================
+D loss: 0.002634788863360882, G loss: 7.639718055725098, cost time: 0.8440108299255371
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 278 / 800 ============================
+D loss: 0.0031094844453036785, G loss: 7.733642578125, cost time: 0.784569501876831
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 279 / 800 ============================
+D loss: 0.004084059037268162, G loss: 7.637972831726074, cost time: 0.808234691619873
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 280 / 800 ============================
+D loss: 0.004444514866918325, G loss: 7.477961540222168, cost time: 0.7040314674377441
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 281 / 800 ============================
+D loss: 0.0024859653785824776, G loss: 7.416150093078613, cost time: 0.8942246437072754
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 282 / 800 ============================
+D loss: 0.002949958201497793, G loss: 7.328234672546387, cost time: 0.86374831199646
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 283 / 800 ============================
+D loss: 0.0021076686680316925, G loss: 7.175041675567627, cost time: 0.8428769111633301
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 284 / 800 ============================
+D loss: 0.0021918034180998802, G loss: 6.756908416748047, cost time: 0.8507282733917236
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 285 / 800 ============================
+D loss: 0.009717756882309914, G loss: 5.899497985839844, cost time: 0.8404898643493652
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 286 / 800 ============================
+D loss: 0.0021148775704205036, G loss: 6.565275192260742, cost time: 0.8016469478607178
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 287 / 800 ============================
+D loss: 0.0017433445900678635, G loss: 6.908572673797607, cost time: 0.9519076347351074
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 288 / 800 ============================
+D loss: 0.001423904555849731, G loss: 7.221990585327148, cost time: 0.8310689926147461
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 289 / 800 ============================
+D loss: 0.0012000674614682794, G loss: 7.262981414794922, cost time: 0.7542946338653564
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 290 / 800 ============================
+D loss: 0.0013301654253154993, G loss: 7.325976371765137, cost time: 0.7474288940429688
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 291 / 800 ============================
+D loss: 0.002223794814199209, G loss: 7.4734697341918945, cost time: 0.7733571529388428
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 292 / 800 ============================
+D loss: 0.0013060104101896286, G loss: 7.235361099243164, cost time: 0.816098690032959
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 293 / 800 ============================
+D loss: 0.03576063737273216, G loss: 6.333958625793457, cost time: 0.7667090892791748
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 294 / 800 ============================
+D loss: 0.0024339931551367044, G loss: 5.949664115905762, cost time: 0.7424542903900146
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 295 / 800 ============================
+D loss: 0.001992667792364955, G loss: 5.718130111694336, cost time: 0.8337714672088623
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 296 / 800 ============================
+D loss: 0.0022437344305217266, G loss: 5.608960151672363, cost time: 0.8501095771789551
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 297 / 800 ============================
+D loss: 0.0024364993441849947, G loss: 5.563271522521973, cost time: 0.8637664318084717
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 298 / 800 ============================
+D loss: 0.002823143731802702, G loss: 5.624266624450684, cost time: 0.7662334442138672
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 299 / 800 ============================
+D loss: 0.0027747817803174257, G loss: 5.545200347900391, cost time: 0.7623536586761475
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 300 / 800 ============================
+D loss: 0.002789297141134739, G loss: 5.539769172668457, cost time: 0.7499744892120361
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 301 / 800 ============================
+D loss: 0.0026358296163380146, G loss: 5.577938556671143, cost time: 0.7951595783233643
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 302 / 800 ============================
+D loss: 0.0034610724542289972, G loss: 5.61781644821167, cost time: 0.8573637008666992
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 303 / 800 ============================
+D loss: 0.002622615545988083, G loss: 5.59201192855835, cost time: 0.8497915267944336
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 304 / 800 ============================
+D loss: 0.0023440304212272167, G loss: 5.681258201599121, cost time: 0.7649586200714111
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 305 / 800 ============================
+D loss: 0.0022107178810983896, G loss: 5.790480613708496, cost time: 0.7443742752075195
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 306 / 800 ============================
+D loss: 0.002382411854341626, G loss: 5.748824119567871, cost time: 0.7830908298492432
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 307 / 800 ============================
+D loss: 0.0019397484138607979, G loss: 5.786147117614746, cost time: 0.8110370635986328
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 308 / 800 ============================
+D loss: 0.002983533311635256, G loss: 5.785923004150391, cost time: 0.7963643074035645
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 309 / 800 ============================
+D loss: 0.0019792793318629265, G loss: 5.724201679229736, cost time: 0.8243937492370605
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 310 / 800 ============================
+D loss: 0.0023589488118886948, G loss: 5.65791130065918, cost time: 0.8190059661865234
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 311 / 800 ============================
+D loss: 0.0016375449486076832, G loss: 5.926337718963623, cost time: 1.1770122051239014
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 312 / 800 ============================
+D loss: 0.0035335198044776917, G loss: 5.313592910766602, cost time: 0.9970264434814453
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 313 / 800 ============================
+D loss: 0.003590141888707876, G loss: 5.730283737182617, cost time: 0.8705058097839355
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 314 / 800 ============================
+D loss: 0.0008011641912162304, G loss: 7.704818248748779, cost time: 0.7705702781677246
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 315 / 800 ============================
+D loss: 0.0012976553989574313, G loss: 7.751302719116211, cost time: 0.7597002983093262
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 316 / 800 ============================
+D loss: 0.0005931142368353903, G loss: 7.874523162841797, cost time: 0.7515935897827148
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 317 / 800 ============================
+D loss: 0.0004984187544323504, G loss: 7.802562713623047, cost time: 0.8432667255401611
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 318 / 800 ============================
+D loss: 0.0027828209567815065, G loss: 7.447798252105713, cost time: 0.769597053527832
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 319 / 800 ============================
+D loss: 0.0010562861571088433, G loss: 6.895277976989746, cost time: 0.7742111682891846
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 320 / 800 ============================
+D loss: 0.003969695884734392, G loss: 5.039655685424805, cost time: 0.7641005516052246
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 321 / 800 ============================
+D loss: 0.00033030251506716013, G loss: 65.24754333496094, cost time: 0.7990837097167969
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 322 / 800 ============================
+D loss: 0.00042750374996103346, G loss: 100.0, cost time: 0.7524528503417969
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 323 / 800 ============================
+D loss: 0.0004627276794053614, G loss: 100.0, cost time: 0.7972228527069092
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 324 / 800 ============================
+D loss: 0.0016746268374845386, G loss: 100.00000762939453, cost time: 0.6349420547485352
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 325 / 800 ============================
+D loss: 0.00039809849113225937, G loss: 100.0, cost time: 0.7331593036651611
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 326 / 800 ============================
+D loss: 0.00024078754358924925, G loss: 100.0, cost time: 0.7938592433929443
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 327 / 800 ============================
+D loss: 0.00023688301735091954, G loss: 100.0, cost time: 0.7452023029327393
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 328 / 800 ============================
+D loss: 0.00027195821166969836, G loss: 100.0, cost time: 0.7611510753631592
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 329 / 800 ============================
+D loss: 0.000676541356369853, G loss: 100.0, cost time: 0.7590646743774414
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 330 / 800 ============================
+D loss: 0.0003234220785088837, G loss: 100.0, cost time: 0.720102071762085
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 331 / 800 ============================
+D loss: 0.0005568962078541517, G loss: 100.0, cost time: 0.7865898609161377
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 332 / 800 ============================
+D loss: 0.0010907670948654413, G loss: 100.0, cost time: 0.7429826259613037
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 333 / 800 ============================
+D loss: 0.0011520555708557367, G loss: 100.0, cost time: 0.759692907333374
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 334 / 800 ============================
+D loss: 0.0001982756075449288, G loss: 100.0, cost time: 0.8378722667694092
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 335 / 800 ============================
+D loss: 0.00018827877647709101, G loss: 100.0, cost time: 0.714104413986206
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 336 / 800 ============================
+D loss: 0.011941800825297832, G loss: 100.0, cost time: 0.7972989082336426
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 337 / 800 ============================
+D loss: 0.014458579942584038, G loss: 100.0, cost time: 0.7570016384124756
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 338 / 800 ============================
+D loss: 0.00013456432498060167, G loss: 100.0, cost time: 0.7696208953857422
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 339 / 800 ============================
+D loss: 9.467083873460069e-05, G loss: 100.0, cost time: 0.7549192905426025
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 340 / 800 ============================
+D loss: 0.00012494986003730446, G loss: 100.0, cost time: 0.7622497081756592
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 341 / 800 ============================
+D loss: 0.00014157415716908872, G loss: 100.0, cost time: 0.7544100284576416
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 342 / 800 ============================
+D loss: 5.920064722886309e-05, G loss: 100.0, cost time: 0.7545888423919678
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 343 / 800 ============================
+D loss: 7.994234329089522e-05, G loss: 100.0, cost time: 0.7807927131652832
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 344 / 800 ============================
+D loss: 7.628140156157315e-05, G loss: 100.0, cost time: 0.8057651519775391
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 345 / 800 ============================
+D loss: 0.00035929272416979074, G loss: 100.0, cost time: 0.8791611194610596
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 346 / 800 ============================
+D loss: 0.0002650683745741844, G loss: 100.0, cost time: 0.7563667297363281
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 347 / 800 ============================
+D loss: 0.00011516943050082773, G loss: 100.0, cost time: 0.8566074371337891
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 348 / 800 ============================
+D loss: 0.0001439822226529941, G loss: 100.0, cost time: 0.7684938907623291
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 349 / 800 ============================
+D loss: 5.289125328999944e-05, G loss: 100.0, cost time: 0.736605167388916
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 350 / 800 ============================
+D loss: 0.0005647989455610514, G loss: 100.0, cost time: 0.7560427188873291
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 351 / 800 ============================
+D loss: 0.0002127527550328523, G loss: 100.0, cost time: 0.7947614192962646
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 352 / 800 ============================
+D loss: 0.00010459288023412228, G loss: 100.0, cost time: 0.7976667881011963
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 353 / 800 ============================
+D loss: 6.278991349972785e-05, G loss: 100.0, cost time: 0.8142735958099365
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 354 / 800 ============================
+D loss: 4.2377512727398425e-05, G loss: 100.0, cost time: 0.8809194564819336
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 355 / 800 ============================
+D loss: 7.949097198434174e-05, G loss: 100.0, cost time: 0.730832576751709
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 356 / 800 ============================
+D loss: 6.317892984952778e-05, G loss: 100.0, cost time: 0.7943871021270752
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 357 / 800 ============================
+D loss: 0.00010301486327080056, G loss: 100.0, cost time: 0.7476017475128174
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 358 / 800 ============================
+D loss: 6.139824108686298e-05, G loss: 100.0, cost time: 0.7484533786773682
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 359 / 800 ============================
+D loss: 0.0003047884674742818, G loss: 100.0, cost time: 0.7703366279602051
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 360 / 800 ============================
+D loss: 8.445252024102956e-05, G loss: 100.0, cost time: 0.7614331245422363
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 361 / 800 ============================
+D loss: 4.056297620991245e-05, G loss: 100.0, cost time: 0.8274281024932861
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 362 / 800 ============================
+D loss: 0.0001246083265868947, G loss: 100.0, cost time: 0.7313103675842285
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 363 / 800 ============================
+D loss: 9.899472206598148e-05, G loss: 100.0, cost time: 0.8779230117797852
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 364 / 800 ============================
+D loss: 8.793587039690465e-05, G loss: 100.0, cost time: 0.7597887516021729
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 365 / 800 ============================
+D loss: 4.898681800113991e-05, G loss: 100.0, cost time: 0.764857292175293
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 366 / 800 ============================
+D loss: 7.757536513963714e-05, G loss: 100.0, cost time: 0.7476730346679688
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 367 / 800 ============================
+D loss: 6.394991942215711e-05, G loss: 100.0, cost time: 0.7608461380004883
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 368 / 800 ============================
+D loss: 0.00014218545402400196, G loss: 100.0, cost time: 0.7776556015014648
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 369 / 800 ============================
+D loss: 6.219173519639298e-05, G loss: 100.0, cost time: 0.8254106044769287
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 370 / 800 ============================
+D loss: 6.97480863891542e-05, G loss: 100.0, cost time: 0.7571001052856445
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 371 / 800 ============================
+D loss: 0.00010596564970910549, G loss: 100.0, cost time: 0.7554590702056885
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 372 / 800 ============================
+D loss: 5.4813881433801726e-05, G loss: 100.0, cost time: 0.777174711227417
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 373 / 800 ============================
+D loss: 4.5559365389635786e-05, G loss: 100.0, cost time: 0.7986485958099365
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 374 / 800 ============================
+D loss: 0.00010095319157699123, G loss: 100.0, cost time: 0.7923583984375
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 375 / 800 ============================
+D loss: 0.00030075147515162826, G loss: 100.0, cost time: 0.759606122970581
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 376 / 800 ============================
+D loss: 3.67924221791327e-05, G loss: 100.0, cost time: 0.7482092380523682
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 377 / 800 ============================
+D loss: 0.00024905847385525703, G loss: 100.0, cost time: 0.7470757961273193
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 378 / 800 ============================
+D loss: 7.623075362062082e-05, G loss: 100.0, cost time: 0.7489669322967529
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 379 / 800 ============================
+D loss: 4.99142988701351e-05, G loss: 100.0, cost time: 0.7751529216766357
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 380 / 800 ============================
+D loss: 0.003076567081734538, G loss: 100.0, cost time: 0.8327617645263672
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 381 / 800 ============================
+D loss: 7.496731996070594e-05, G loss: 100.0, cost time: 0.7702202796936035
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 382 / 800 ============================
+D loss: 0.0019867541268467903, G loss: 100.0, cost time: 0.8139200210571289
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 383 / 800 ============================
+D loss: 2.9095388526911847e-05, G loss: 100.0, cost time: 0.8786871433258057
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 384 / 800 ============================
+D loss: 5.5353732022922486e-05, G loss: 100.0, cost time: 0.7851920127868652
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 385 / 800 ============================
+D loss: 4.532131424639374e-05, G loss: 100.0, cost time: 0.8040065765380859
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 386 / 800 ============================
+D loss: 4.66929268441163e-05, G loss: 100.00000762939453, cost time: 0.767327070236206
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 387 / 800 ============================
+D loss: 5.765340756624937e-05, G loss: 100.0, cost time: 0.870553731918335
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 388 / 800 ============================
+D loss: 5.305948798195459e-05, G loss: 100.0, cost time: 0.7808644771575928
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 389 / 800 ============================
+D loss: 4.100676960661076e-05, G loss: 100.0, cost time: 0.7372748851776123
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 390 / 800 ============================
+D loss: 2.9438160709105432e-05, G loss: 100.0, cost time: 0.8362159729003906
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 391 / 800 ============================
+D loss: 6.076059798942879e-05, G loss: 100.0, cost time: 0.768075704574585
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 392 / 800 ============================
+D loss: 6.507337093353271e-05, G loss: 100.0, cost time: 0.8171219825744629
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 393 / 800 ============================
+D loss: 5.4503147111972794e-05, G loss: 100.0, cost time: 0.8573601245880127
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 394 / 800 ============================
+D loss: 5.163610330782831e-05, G loss: 100.0, cost time: 0.790154218673706
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 395 / 800 ============================
+D loss: 6.131327245384455e-05, G loss: 100.0, cost time: 0.845792293548584
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 396 / 800 ============================
+D loss: 4.393843119032681e-05, G loss: 100.0, cost time: 0.8491706848144531
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 397 / 800 ============================
+D loss: 7.005831866990775e-05, G loss: 100.0, cost time: 0.7693562507629395
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 398 / 800 ============================
+D loss: 4.508277925197035e-05, G loss: 100.0, cost time: 0.8053357601165771
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 399 / 800 ============================
+D loss: 5.3010619012638927e-05, G loss: 100.0, cost time: 0.8042123317718506
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 400 / 800 ============================
+D loss: 3.6934081435902044e-05, G loss: 100.0, cost time: 0.7178816795349121
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 401 / 800 ============================
+D loss: 3.79253615392372e-05, G loss: 100.0, cost time: 0.7454941272735596
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 402 / 800 ============================
+D loss: 5.393486935645342e-05, G loss: 100.0, cost time: 0.8399229049682617
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 403 / 800 ============================
+D loss: 6.406591273844242e-05, G loss: 100.0, cost time: 0.7937400341033936
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 404 / 800 ============================
+D loss: 4.7731155063956976e-05, G loss: 100.0, cost time: 0.8183531761169434
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 405 / 800 ============================
+D loss: 3.769846080103889e-05, G loss: 100.0, cost time: 0.7660720348358154
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 406 / 800 ============================
+D loss: 5.232228431850672e-05, G loss: 100.0, cost time: 0.8613953590393066
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 407 / 800 ============================
+D loss: 4.689885099651292e-05, G loss: 100.0, cost time: 0.8419332504272461
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 408 / 800 ============================
+D loss: 7.409307727357373e-05, G loss: 100.0, cost time: 0.8424451351165771
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 409 / 800 ============================
+D loss: 5.1173708925489336e-05, G loss: 100.0, cost time: 0.8774518966674805
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 410 / 800 ============================
+D loss: 5.5895248806336895e-05, G loss: 100.0, cost time: 0.7514011859893799
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 411 / 800 ============================
+D loss: 4.0060480387182906e-05, G loss: 100.0, cost time: 0.7576963901519775
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 412 / 800 ============================
+D loss: 0.00021348230075091124, G loss: 100.0, cost time: 0.8566462993621826
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 413 / 800 ============================
+D loss: 4.955828990205191e-05, G loss: 100.0, cost time: 0.8434576988220215
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 414 / 800 ============================
+D loss: 2.7418951503932476e-05, G loss: 100.0, cost time: 0.7713701725006104
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 415 / 800 ============================
+D loss: 4.814965359400958e-05, G loss: 100.0, cost time: 0.8559095859527588
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 416 / 800 ============================
+D loss: 4.839814209844917e-05, G loss: 100.0, cost time: 0.7694571018218994
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 417 / 800 ============================
+D loss: 0.0009839327540248632, G loss: 100.0, cost time: 0.7334330081939697
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 418 / 800 ============================
+D loss: 5.1742070354521275e-05, G loss: 100.0, cost time: 0.858396053314209
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 419 / 800 ============================
+D loss: 4.311562224756926e-05, G loss: 100.0, cost time: 0.7528336048126221
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 420 / 800 ============================
+D loss: 5.0264115998288617e-05, G loss: 100.0, cost time: 0.7678351402282715
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 421 / 800 ============================
+D loss: 6.0098063840996474e-05, G loss: 100.0, cost time: 0.8225924968719482
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 422 / 800 ============================
+D loss: 3.372266291989945e-05, G loss: 100.0, cost time: 0.7905092239379883
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 423 / 800 ============================
+D loss: 5.630713712889701e-05, G loss: 100.0, cost time: 0.7321455478668213
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 424 / 800 ============================
+D loss: 2.029582901741378e-05, G loss: 100.0, cost time: 0.7564527988433838
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 425 / 800 ============================
+D loss: 4.242580325808376e-05, G loss: 100.0, cost time: 0.8554716110229492
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 426 / 800 ============================
+D loss: 3.558311072993092e-05, G loss: 100.0, cost time: 0.848412036895752
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 427 / 800 ============================
+D loss: 4.145727143622935e-05, G loss: 100.0, cost time: 0.8489429950714111
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 428 / 800 ============================
+D loss: 2.3253835024661385e-05, G loss: 100.0, cost time: 0.7492105960845947
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 429 / 800 ============================
+D loss: 4.0411396184936166e-05, G loss: 100.0, cost time: 0.8523457050323486
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 430 / 800 ============================
+D loss: 5.8403114962857217e-05, G loss: 100.0, cost time: 0.7663285732269287
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 431 / 800 ============================
+D loss: 4.5876731746830046e-05, G loss: 100.0, cost time: 0.7779591083526611
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 432 / 800 ============================
+D loss: 3.689364530146122e-05, G loss: 100.0, cost time: 0.8254101276397705
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 433 / 800 ============================
+D loss: 0.00012585466902237386, G loss: 100.0, cost time: 0.7659401893615723
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 434 / 800 ============================
+D loss: 4.954582982463762e-05, G loss: 100.0, cost time: 0.8110847473144531
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 435 / 800 ============================
+D loss: 4.252428698237054e-05, G loss: 100.0, cost time: 0.8793649673461914
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 436 / 800 ============================
+D loss: 4.0527454984840006e-05, G loss: 100.0, cost time: 0.7515449523925781
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 437 / 800 ============================
+D loss: 7.525835098931566e-05, G loss: 100.0, cost time: 0.8513681888580322
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 438 / 800 ============================
+D loss: 3.224005195079371e-05, G loss: 100.0, cost time: 0.7425591945648193
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 439 / 800 ============================
+D loss: 4.976237687515095e-05, G loss: 100.0, cost time: 0.8320136070251465
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 440 / 800 ============================
+D loss: 6.385627784766257e-05, G loss: 100.0, cost time: 0.8380191326141357
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 441 / 800 ============================
+D loss: 6.758134259143844e-05, G loss: 100.0, cost time: 0.796961784362793
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 442 / 800 ============================
+D loss: 3.066795034101233e-05, G loss: 100.0, cost time: 0.7477290630340576
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 443 / 800 ============================
+D loss: 0.00020338105969130993, G loss: 100.0, cost time: 0.7622437477111816
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 444 / 800 ============================
+D loss: 4.004902802989818e-05, G loss: 100.0, cost time: 0.7546894550323486
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 445 / 800 ============================
+D loss: 2.7620350010693073e-05, G loss: 100.0, cost time: 0.8371241092681885
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 446 / 800 ============================
+D loss: 3.701643436215818e-05, G loss: 100.0, cost time: 0.8617267608642578
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 447 / 800 ============================
+D loss: 5.561246143770404e-05, G loss: 100.0, cost time: 0.8361160755157471
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 448 / 800 ============================
+D loss: 3.830952846328728e-05, G loss: 100.00000762939453, cost time: 0.6674020290374756
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 449 / 800 ============================
+D loss: 4.093226743862033e-05, G loss: 100.0, cost time: 0.7582342624664307
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 450 / 800 ============================
+D loss: 3.514594573061913e-05, G loss: 100.0, cost time: 0.8416135311126709
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 451 / 800 ============================
+D loss: 2.443872108415235e-05, G loss: 100.0, cost time: 0.7409064769744873
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 452 / 800 ============================
+D loss: 0.0001733180833980441, G loss: 100.0, cost time: 0.7492856979370117
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 453 / 800 ============================
+D loss: 0.001432917546480894, G loss: 100.0, cost time: 0.8547914028167725
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 454 / 800 ============================
+D loss: 2.7769301595981233e-05, G loss: 100.0, cost time: 0.8271381855010986
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 455 / 800 ============================
+D loss: 3.3302327210549265e-05, G loss: 100.0, cost time: 0.8957765102386475
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 456 / 800 ============================
+D loss: 2.3209226128528826e-05, G loss: 100.0, cost time: 0.8175239562988281
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 457 / 800 ============================
+D loss: 2.4751596356509253e-05, G loss: 100.0, cost time: 0.8438799381256104
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 458 / 800 ============================
+D loss: 0.0001100467488868162, G loss: 100.0, cost time: 0.7832930088043213
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 459 / 800 ============================
+D loss: 0.0024267530534416437, G loss: 100.0, cost time: 0.7671129703521729
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 460 / 800 ============================
+D loss: 2.5064553483389318e-05, G loss: 100.0, cost time: 0.7347099781036377
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 461 / 800 ============================
+D loss: 4.992580579710193e-05, G loss: 100.0, cost time: 0.7583510875701904
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 462 / 800 ============================
+D loss: 2.6536839868640527e-05, G loss: 100.0, cost time: 0.7758529186248779
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 463 / 800 ============================
+D loss: 2.0370425772853196e-05, G loss: 100.0, cost time: 0.8065147399902344
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 464 / 800 ============================
+D loss: 2.220338865299709e-05, G loss: 100.0, cost time: 0.7942116260528564
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 465 / 800 ============================
+D loss: 5.700756446458399e-05, G loss: 100.0, cost time: 0.7394976615905762
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 466 / 800 ============================
+D loss: 2.0459789084270597e-05, G loss: 100.0, cost time: 0.7438297271728516
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 467 / 800 ============================
+D loss: 2.088448491122108e-05, G loss: 100.0, cost time: 0.7871248722076416
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 468 / 800 ============================
+D loss: 0.0006145028164610267, G loss: 100.0, cost time: 0.7554395198822021
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 469 / 800 ============================
+D loss: 3.668495628517121e-05, G loss: 100.0, cost time: 0.7401177883148193
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 470 / 800 ============================
+D loss: 5.326493555912748e-05, G loss: 100.0, cost time: 0.7419431209564209
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 471 / 800 ============================
+D loss: 7.652060594409704e-05, G loss: 100.0, cost time: 0.7701935768127441
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 472 / 800 ============================
+D loss: 5.416048952611163e-05, G loss: 100.0, cost time: 0.7425305843353271
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 473 / 800 ============================
+D loss: 2.2732487195753492e-05, G loss: 100.0, cost time: 0.7893204689025879
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 474 / 800 ============================
+D loss: 0.00015849413466639817, G loss: 100.0, cost time: 0.8307819366455078
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 475 / 800 ============================
+D loss: 2.516137101338245e-05, G loss: 100.0, cost time: 0.7740135192871094
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 476 / 800 ============================
+D loss: 3.187937545590103e-05, G loss: 100.0, cost time: 0.8223741054534912
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 477 / 800 ============================
+D loss: 3.3987758797593415e-05, G loss: 100.0, cost time: 0.6938557624816895
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 478 / 800 ============================
+D loss: 2.3894750484032556e-05, G loss: 100.0, cost time: 0.8289799690246582
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 479 / 800 ============================
+D loss: 1.8738850485533476e-05, G loss: 100.0, cost time: 0.759674072265625
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 480 / 800 ============================
+D loss: 1.798618905013427e-05, G loss: 100.0, cost time: 0.8174543380737305
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 481 / 800 ============================
+D loss: 3.679304427350871e-05, G loss: 100.0, cost time: 0.8176748752593994
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 482 / 800 ============================
+D loss: 4.557635838864371e-05, G loss: 100.0, cost time: 0.8019495010375977
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 483 / 800 ============================
+D loss: 2.07207485800609e-05, G loss: 100.0, cost time: 0.782733678817749
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 484 / 800 ============================
+D loss: 2.8451731850509532e-05, G loss: 100.0, cost time: 0.8278849124908447
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 485 / 800 ============================
+D loss: 2.6495312340557575e-05, G loss: 100.0, cost time: 0.7676136493682861
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 486 / 800 ============================
+D loss: 1.4923767594154924e-05, G loss: 100.0, cost time: 0.7762410640716553
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 487 / 800 ============================
+D loss: 5.924838478676975e-05, G loss: 100.0, cost time: 0.735846996307373
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 488 / 800 ============================
+D loss: 2.9848304620827548e-05, G loss: 100.0, cost time: 0.7913134098052979
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 489 / 800 ============================
+D loss: 8.125491149257869e-05, G loss: 100.0, cost time: 0.8379554748535156
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 490 / 800 ============================
+D loss: 2.6387759135104716e-05, G loss: 100.0, cost time: 0.8393242359161377
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 491 / 800 ============================
+D loss: 1.7837104678619653e-05, G loss: 100.0, cost time: 0.7522313594818115
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 492 / 800 ============================
+D loss: 2.8526173991849646e-05, G loss: 100.0, cost time: 0.7785599231719971
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 493 / 800 ============================
+D loss: 1.747941496432759e-05, G loss: 100.0, cost time: 0.7530472278594971
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 494 / 800 ============================
+D loss: 2.0228875655448064e-05, G loss: 100.0, cost time: 0.743377685546875
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 495 / 800 ============================
+D loss: 2.7076426704297774e-05, G loss: 100.0, cost time: 0.7325434684753418
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 496 / 800 ============================
+D loss: 2.5996296244557016e-05, G loss: 100.0, cost time: 0.7957959175109863
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 497 / 800 ============================
+D loss: 3.386213575140573e-05, G loss: 100.0, cost time: 0.7511036396026611
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 498 / 800 ============================
+D loss: 2.7560634407564066e-05, G loss: 100.0, cost time: 0.7689003944396973
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 499 / 800 ============================
+D loss: 2.3820237402105704e-05, G loss: 100.0, cost time: 0.7362227439880371
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 500 / 800 ============================
+D loss: 0.0009064010810106993, G loss: 100.0, cost time: 0.7405490875244141
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 501 / 800 ============================
+D loss: 2.612018579384312e-05, G loss: 100.0, cost time: 0.8136787414550781
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 502 / 800 ============================
+D loss: 5.949472324573435e-05, G loss: 100.0, cost time: 0.7555811405181885
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 503 / 800 ============================
+D loss: 3.930162711185403e-05, G loss: 100.0, cost time: 0.8517050743103027
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 504 / 800 ============================
+D loss: 1.5341034668381326e-05, G loss: 100.0, cost time: 0.7691745758056641
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 505 / 800 ============================
+D loss: 1.5490071746171452e-05, G loss: 100.0, cost time: 0.7590048313140869
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 506 / 800 ============================
+D loss: 1.3590064554591663e-05, G loss: 100.0, cost time: 0.7361783981323242
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 507 / 800 ============================
+D loss: 6.948370719328523e-05, G loss: 100.0, cost time: 0.8535981178283691
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 508 / 800 ============================
+D loss: 1.5504931070609018e-05, G loss: 100.0, cost time: 0.8404567241668701
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 509 / 800 ============================
+D loss: 3.9254413422895595e-05, G loss: 100.0, cost time: 0.8456904888153076
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 510 / 800 ============================
+D loss: 1.610851177247241e-05, G loss: 100.00000762939453, cost time: 0.7435505390167236
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 511 / 800 ============================
+D loss: 2.0206505723763257e-05, G loss: 100.0, cost time: 0.8782060146331787
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 512 / 800 ============================
+D loss: 4.563246693578549e-05, G loss: 100.0, cost time: 0.7889707088470459
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 513 / 800 ============================
+D loss: 1.4506538718705997e-05, G loss: 100.0, cost time: 0.7424569129943848
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 514 / 800 ============================
+D loss: 2.7389345632400364e-05, G loss: 100.0, cost time: 0.7709565162658691
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 515 / 800 ============================
+D loss: 3.127910531475209e-05, G loss: 100.0, cost time: 0.8101215362548828
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 516 / 800 ============================
+D loss: 1.4186163753038272e-05, G loss: 100.0, cost time: 0.790724515914917
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 517 / 800 ============================
+D loss: 1.4096762242843397e-05, G loss: 100.0, cost time: 0.7641561031341553
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 518 / 800 ============================
+D loss: 2.9535474823205732e-05, G loss: 100.0, cost time: 0.7524676322937012
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 519 / 800 ============================
+D loss: 2.8872134862467647e-05, G loss: 100.0, cost time: 0.7339620590209961
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 520 / 800 ============================
+D loss: 2.37533931795042e-05, G loss: 100.0, cost time: 0.8575189113616943
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 521 / 800 ============================
+D loss: 1.0892923455685377e-05, G loss: 100.0, cost time: 0.7444741725921631
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 522 / 800 ============================
+D loss: 2.700662662391551e-05, G loss: 100.0, cost time: 0.7912747859954834
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 523 / 800 ============================
+D loss: 4.5547370973508805e-05, G loss: 100.0, cost time: 0.7389025688171387
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 524 / 800 ============================
+D loss: 1.706228249531705e-05, G loss: 100.0, cost time: 0.8320205211639404
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 525 / 800 ============================
+D loss: 1.9804159819614142e-05, G loss: 100.0, cost time: 0.7775146961212158
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 526 / 800 ============================
+D loss: 2.1823316274094395e-05, G loss: 100.0, cost time: 0.8576986789703369
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 527 / 800 ============================
+D loss: 2.9890205041738227e-05, G loss: 100.0, cost time: 0.7689955234527588
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 528 / 800 ============================
+D loss: 2.215119093307294e-05, G loss: 100.0, cost time: 0.7362916469573975
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 529 / 800 ============================
+D loss: 1.8537542928243056e-05, G loss: 100.0, cost time: 0.7729077339172363
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 530 / 800 ============================
+D loss: 0.00041362392948940396, G loss: 100.0, cost time: 0.7594420909881592
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 531 / 800 ============================
+D loss: 2.11527894862229e-05, G loss: 100.0, cost time: 0.7397952079772949
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 532 / 800 ============================
+D loss: 7.607155566802248e-05, G loss: 100.0, cost time: 0.7555811405181885
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 533 / 800 ============================
+D loss: 1.2934542610310018e-05, G loss: 100.0, cost time: 0.826524019241333
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 534 / 800 ============================
+D loss: 2.108572152792476e-05, G loss: 100.0, cost time: 0.6963269710540771
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 535 / 800 ============================
+D loss: 1.4983379514887929e-05, G loss: 100.0, cost time: 0.75838303565979
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 536 / 800 ============================
+D loss: 5.845408668392338e-05, G loss: 100.0, cost time: 0.7534952163696289
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 537 / 800 ============================
+D loss: 3.1089810363482684e-05, G loss: 100.0, cost time: 0.824394941329956
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 538 / 800 ============================
+D loss: 1.6235200746450573e-05, G loss: 100.0, cost time: 0.8439221382141113
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 539 / 800 ============================
+D loss: 1.6168101865332574e-05, G loss: 100.0, cost time: 0.8564085960388184
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 540 / 800 ============================
+D loss: 1.8045759134110995e-05, G loss: 100.0, cost time: 0.8545103073120117
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 541 / 800 ============================
+D loss: 4.3863583414349705e-05, G loss: 100.0, cost time: 0.8564445972442627
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 542 / 800 ============================
+D loss: 3.24829961755313e-05, G loss: 100.0, cost time: 0.7649834156036377
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 543 / 800 ============================
+D loss: 1.676418469287455e-05, G loss: 100.0, cost time: 0.762265682220459
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 544 / 800 ============================
+D loss: 1.631714985705912e-05, G loss: 100.0, cost time: 0.7695918083190918
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 545 / 800 ============================
+D loss: 0.0006737041403539479, G loss: 100.0, cost time: 0.7276899814605713
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 546 / 800 ============================
+D loss: 3.160402411594987e-05, G loss: 100.0, cost time: 0.8444900512695312
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 547 / 800 ============================
+D loss: 1.467794572818093e-05, G loss: 100.0, cost time: 0.7762322425842285
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 548 / 800 ============================
+D loss: 1.7531721823615953e-05, G loss: 100.0, cost time: 0.7764551639556885
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 549 / 800 ============================
+D loss: 1.8969803932122886e-05, G loss: 100.0, cost time: 0.8022947311401367
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 550 / 800 ============================
+D loss: 1.0199961252510548e-05, G loss: 100.0, cost time: 0.8042831420898438
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 551 / 800 ============================
+D loss: 1.780739148671273e-05, G loss: 100.0, cost time: 0.9105932712554932
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 552 / 800 ============================
+D loss: 2.1868381736567244e-05, G loss: 100.0, cost time: 0.8309650421142578
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 553 / 800 ============================
+D loss: 2.180130650231149e-05, G loss: 100.0, cost time: 0.778684139251709
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 554 / 800 ============================
+D loss: 2.0020423107780516e-05, G loss: 100.0, cost time: 0.7560293674468994
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 555 / 800 ============================
+D loss: 1.5311305105569772e-05, G loss: 100.0, cost time: 0.7711801528930664
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 556 / 800 ============================
+D loss: 1.3657245290232822e-05, G loss: 100.0, cost time: 0.7479641437530518
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 557 / 800 ============================
+D loss: 1.2338437045400497e-05, G loss: 100.0, cost time: 0.8251640796661377
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 558 / 800 ============================
+D loss: 1.1749732038879301e-05, G loss: 100.0, cost time: 0.771690845489502
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 559 / 800 ============================
+D loss: 2.414084337942768e-05, G loss: 100.0, cost time: 0.7793786525726318
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 560 / 800 ============================
+D loss: 8.687468834978063e-06, G loss: 100.0, cost time: 0.7550804615020752
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 561 / 800 ============================
+D loss: 2.5161611119983718e-05, G loss: 100.0, cost time: 0.8268303871154785
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 562 / 800 ============================
+D loss: 2.7889043849427253e-05, G loss: 100.0, cost time: 0.8560476303100586
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 563 / 800 ============================
+D loss: 1.8373579223407432e-05, G loss: 100.0, cost time: 0.7675175666809082
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 564 / 800 ============================
+D loss: 4.073676245752722e-05, G loss: 100.0, cost time: 0.7401752471923828
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 565 / 800 ============================
+D loss: 8.925745351007208e-05, G loss: 100.0, cost time: 0.759507417678833
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 566 / 800 ============================
+D loss: 1.9096645701210946e-05, G loss: 100.0, cost time: 0.8625178337097168
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 567 / 800 ============================
+D loss: 3.1648523872718215e-05, G loss: 100.0, cost time: 0.8229560852050781
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 568 / 800 ============================
+D loss: 2.351902367081493e-05, G loss: 100.0, cost time: 0.7077805995941162
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 569 / 800 ============================
+D loss: 4.7009234549477696e-05, G loss: 100.0, cost time: 0.8289945125579834
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 570 / 800 ============================
+D loss: 1.2025477190036327e-05, G loss: 100.0, cost time: 0.7798643112182617
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 571 / 800 ============================
+D loss: 9.410197890247218e-06, G loss: 100.0, cost time: 0.7550976276397705
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 572 / 800 ============================
+D loss: 5.64127549296245e-05, G loss: 100.00000762939453, cost time: 0.703009843826294
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 573 / 800 ============================
+D loss: 1.234581031894777e-05, G loss: 100.0, cost time: 0.882831335067749
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 574 / 800 ============================
+D loss: 1.7121823475463316e-05, G loss: 100.0, cost time: 0.8528625965118408
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 575 / 800 ============================
+D loss: 3.0166032956913114e-05, G loss: 100.0, cost time: 0.8544647693634033
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 576 / 800 ============================
+D loss: 0.0005729143158532679, G loss: 100.0, cost time: 0.8317334651947021
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 577 / 800 ============================
+D loss: 1.7337921235593967e-05, G loss: 100.0, cost time: 0.8565256595611572
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 578 / 800 ============================
+D loss: 7.304562313947827e-05, G loss: 100.0, cost time: 0.8070688247680664
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 579 / 800 ============================
+D loss: 1.989380325539969e-05, G loss: 100.0, cost time: 0.7588968276977539
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 580 / 800 ============================
+D loss: 1.692815567366779e-05, G loss: 100.0, cost time: 0.8282616138458252
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 581 / 800 ============================
+D loss: 1.1913676644326188e-05, G loss: 100.0, cost time: 0.7814285755157471
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 582 / 800 ============================
+D loss: 1.031173815135844e-05, G loss: 100.0, cost time: 0.7568707466125488
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 583 / 800 ============================
+D loss: 1.0736410331446677e-05, G loss: 100.0, cost time: 0.746720552444458
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 584 / 800 ============================
+D loss: 1.0892907084780745e-05, G loss: 100.0, cost time: 0.7285671234130859
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 585 / 800 ============================
+D loss: 2.1756375645054504e-05, G loss: 100.0, cost time: 0.7807416915893555
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 586 / 800 ============================
+D loss: 1.0945077519863844e-05, G loss: 100.0, cost time: 0.7333724498748779
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 587 / 800 ============================
+D loss: 1.1265520697634201e-05, G loss: 100.0, cost time: 0.8693783283233643
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 588 / 800 ============================
+D loss: 1.9625806089607067e-05, G loss: 100.0, cost time: 0.7581274509429932
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 589 / 800 ============================
+D loss: 2.7739661163650453e-05, G loss: 100.0, cost time: 0.7545313835144043
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 590 / 800 ============================
+D loss: 2.0191819203319028e-05, G loss: 100.0, cost time: 0.8599638938903809
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 591 / 800 ============================
+D loss: 9.32078455662122e-06, G loss: 100.0, cost time: 0.8526358604431152
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 592 / 800 ============================
+D loss: 2.4394201318500564e-05, G loss: 100.0, cost time: 0.7662129402160645
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 593 / 800 ============================
+D loss: 4.590314711094834e-05, G loss: 100.0, cost time: 0.7526469230651855
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 594 / 800 ============================
+D loss: 1.5445366443600506e-05, G loss: 100.0, cost time: 0.8451144695281982
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 595 / 800 ============================
+D loss: 9.983928066503722e-06, G loss: 100.0, cost time: 0.8366005420684814
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 596 / 800 ============================
+D loss: 7.43574582884321e-06, G loss: 100.0, cost time: 0.8565363883972168
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 597 / 800 ============================
+D loss: 1.0542695235926658e-05, G loss: 100.0, cost time: 0.8551552295684814
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 598 / 800 ============================
+D loss: 1.38882842293242e-05, G loss: 100.0, cost time: 0.7799675464630127
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 599 / 800 ============================
+D loss: 1.4432278476306237e-05, G loss: 100.0, cost time: 0.7331235408782959
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 600 / 800 ============================
+D loss: 1.4074418686504941e-05, G loss: 100.0, cost time: 0.7668395042419434
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 601 / 800 ============================
+D loss: 1.7226153431693092e-05, G loss: 100.0, cost time: 0.8229916095733643
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 602 / 800 ============================
+D loss: 1.3359189324546605e-05, G loss: 100.0, cost time: 0.7340233325958252
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 603 / 800 ============================
+D loss: 1.1451768841652665e-05, G loss: 100.0, cost time: 0.8551778793334961
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 604 / 800 ============================
+D loss: 1.2703432730631903e-05, G loss: 100.0, cost time: 0.8681931495666504
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 605 / 800 ============================
+D loss: 2.5649926101323217e-05, G loss: 100.0, cost time: 0.7959651947021484
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 606 / 800 ============================
+D loss: 1.9469091057544574e-05, G loss: 100.0, cost time: 0.826343297958374
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 607 / 800 ============================
+D loss: 1.7189127902383916e-05, G loss: 100.0, cost time: 0.780519962310791
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 608 / 800 ============================
+D loss: 1.696531762718223e-05, G loss: 100.0, cost time: 0.7613615989685059
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 609 / 800 ============================
+D loss: 1.4901484973961487e-05, G loss: 100.0, cost time: 0.742896318435669
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 610 / 800 ============================
+D loss: 7.651819942111615e-06, G loss: 100.0, cost time: 0.7446963787078857
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 611 / 800 ============================
+D loss: 3.3941261790459976e-05, G loss: 100.0, cost time: 0.7714650630950928
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 612 / 800 ============================
+D loss: 2.6172332582063973e-05, G loss: 100.0, cost time: 0.7611188888549805
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 613 / 800 ============================
+D loss: 1.752423122525215e-05, G loss: 100.0, cost time: 0.8020517826080322
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 614 / 800 ============================
+D loss: 1.3299542843014933e-05, G loss: 100.0, cost time: 0.7737219333648682
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 615 / 800 ============================
+D loss: 1.2427839465090074e-05, G loss: 100.0, cost time: 0.8438835144042969
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 616 / 800 ============================
+D loss: 0.000909044872969389, G loss: 100.0, cost time: 0.7731647491455078
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 617 / 800 ============================
+D loss: 2.6974523279932328e-05, G loss: 100.0, cost time: 0.7636306285858154
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 618 / 800 ============================
+D loss: 2.2896630980540067e-05, G loss: 100.0, cost time: 0.8081207275390625
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 619 / 800 ============================
+D loss: 1.4678016668767668e-05, G loss: 100.0, cost time: 0.7639000415802002
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 620 / 800 ============================
+D loss: 2.355234755668789e-05, G loss: 100.0, cost time: 0.8633644580841064
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 621 / 800 ============================
+D loss: 1.604181125003379e-05, G loss: 100.0, cost time: 0.7791526317596436
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 622 / 800 ============================
+D loss: 1.1511356206028722e-05, G loss: 100.0, cost time: 0.807762622833252
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 623 / 800 ============================
+D loss: 7.51770130591467e-06, G loss: 100.0, cost time: 0.8442919254302979
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 624 / 800 ============================
+D loss: 0.0002851112512871623, G loss: 100.0, cost time: 0.7757878303527832
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 625 / 800 ============================
+D loss: 1.2301122296776157e-05, G loss: 100.0, cost time: 0.776890754699707
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 626 / 800 ============================
+D loss: 1.4961211491026916e-05, G loss: 100.0, cost time: 0.8294460773468018
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 627 / 800 ============================
+D loss: 1.6548254279769026e-05, G loss: 100.0, cost time: 0.8345131874084473
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 628 / 800 ============================
+D loss: 1.3120744370098691e-05, G loss: 100.0, cost time: 0.8361096382141113
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 629 / 800 ============================
+D loss: 3.90286477340851e-05, G loss: 100.0, cost time: 0.8732600212097168
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 630 / 800 ============================
+D loss: 1.0058413863589521e-05, G loss: 100.0, cost time: 0.7274746894836426
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 631 / 800 ============================
+D loss: 2.8974280212423764e-05, G loss: 100.0, cost time: 0.805633544921875
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 632 / 800 ============================
+D loss: 3.282366742496379e-05, G loss: 100.0, cost time: 0.8207418918609619
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 633 / 800 ============================
+D loss: 7.920047210063785e-06, G loss: 100.0, cost time: 0.7290112972259521
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 634 / 800 ============================
+D loss: 6.437347565224627e-06, G loss: 100.00000762939453, cost time: 0.6695594787597656
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 635 / 800 ============================
+D loss: 1.3642405974678695e-05, G loss: 100.0, cost time: 0.759521484375
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 636 / 800 ============================
+D loss: 1.944655923580285e-05, G loss: 100.0, cost time: 0.8570244312286377
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 637 / 800 ============================
+D loss: 1.247995260200696e-05, G loss: 100.0, cost time: 0.7551357746124268
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 638 / 800 ============================
+D loss: 1.1101523341494612e-05, G loss: 100.0, cost time: 0.7725133895874023
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 639 / 800 ============================
+D loss: 8.70982876222115e-06, G loss: 100.0, cost time: 0.7382197380065918
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 640 / 800 ============================
+D loss: 8.620421795058064e-06, G loss: 100.0, cost time: 0.851524829864502
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 641 / 800 ============================
+D loss: 9.29099496715935e-06, G loss: 100.0, cost time: 0.8508727550506592
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 642 / 800 ============================
+D loss: 1.546794010209851e-05, G loss: 100.0, cost time: 0.8257274627685547
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 643 / 800 ============================
+D loss: 3.0931394576327875e-05, G loss: 100.0, cost time: 0.8968522548675537
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 644 / 800 ============================
+D loss: 7.921668293420225e-05, G loss: 100.0, cost time: 0.7558548450469971
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 645 / 800 ============================
+D loss: 8.456489922537003e-06, G loss: 100.0, cost time: 0.837935209274292
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 646 / 800 ============================
+D loss: 1.7464710253989324e-05, G loss: 100.0, cost time: 0.7971959114074707
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 647 / 800 ============================
+D loss: 9.849829439190216e-06, G loss: 100.0, cost time: 0.7323832511901855
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 648 / 800 ============================
+D loss: 1.0512926564842928e-05, G loss: 100.0, cost time: 0.7970764636993408
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 649 / 800 ============================
+D loss: 1.0356456186855212e-05, G loss: 100.0, cost time: 0.8314123153686523
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 650 / 800 ============================
+D loss: 1.1243171684327535e-05, G loss: 100.0, cost time: 0.7713818550109863
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 651 / 800 ============================
+D loss: 9.141952432401013e-06, G loss: 100.0, cost time: 0.8967230319976807
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 652 / 800 ============================
+D loss: 5.149308708496392e-05, G loss: 100.0, cost time: 0.7583973407745361
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 653 / 800 ============================
+D loss: 1.5636032912880182e-05, G loss: 100.0, cost time: 0.8683967590332031
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 654 / 800 ============================
+D loss: 1.2912103557027876e-05, G loss: 100.0, cost time: 0.7808704376220703
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 655 / 800 ============================
+D loss: 8.903552952688187e-06, G loss: 100.0, cost time: 0.9351475238800049
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 656 / 800 ============================
+D loss: 1.0840807590284385e-05, G loss: 100.0, cost time: 0.7836713790893555
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 657 / 800 ============================
+D loss: 1.087800228560809e-05, G loss: 100.0, cost time: 0.8180351257324219
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 658 / 800 ============================
+D loss: 1.4767391803616192e-05, G loss: 100.0, cost time: 0.8460943698883057
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 659 / 800 ============================
+D loss: 5.371901352191344e-06, G loss: 100.0, cost time: 0.8007428646087646
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 660 / 800 ============================
+D loss: 1.3977602066006511e-05, G loss: 100.0, cost time: 0.7471249103546143
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 661 / 800 ============================
+D loss: 1.2979155144421384e-05, G loss: 100.0, cost time: 0.7353596687316895
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 662 / 800 ============================
+D loss: 3.992045094491914e-05, G loss: 100.0, cost time: 0.7707123756408691
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 663 / 800 ============================
+D loss: 2.3910195523058064e-05, G loss: 100.0, cost time: 0.8388323783874512
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 664 / 800 ============================
+D loss: 1.0214894246018957e-05, G loss: 100.0, cost time: 0.7586185932159424
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 665 / 800 ============================
+D loss: 1.4447040484810714e-05, G loss: 100.0, cost time: 0.7786545753479004
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 666 / 800 ============================
+D loss: 8.48632407723926e-06, G loss: 100.0, cost time: 0.6574177742004395
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 667 / 800 ============================
+D loss: 1.1660671589197591e-05, G loss: 100.0, cost time: 0.7635023593902588
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 668 / 800 ============================
+D loss: 3.058264701394364e-05, G loss: 100.0, cost time: 0.7472636699676514
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 669 / 800 ============================
+D loss: 1.098978282243479e-05, G loss: 100.0, cost time: 0.7434618473052979
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 670 / 800 ============================
+D loss: 7.5549573921307456e-06, G loss: 100.0, cost time: 0.7472772598266602
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 671 / 800 ============================
+D loss: 1.3232489436632022e-05, G loss: 100.0, cost time: 0.7564711570739746
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 672 / 800 ============================
+D loss: 1.3336772099137306e-05, G loss: 100.0, cost time: 0.8311295509338379
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 673 / 800 ============================
+D loss: 3.636031033238396e-05, G loss: 100.0, cost time: 0.7686464786529541
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 674 / 800 ============================
+D loss: 1.3239889085525647e-05, G loss: 100.0, cost time: 0.7793188095092773
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 675 / 800 ============================
+D loss: 9.924313417286612e-06, G loss: 100.0, cost time: 0.7685227394104004
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 676 / 800 ============================
+D loss: 1.6995498299365863e-05, G loss: 100.0, cost time: 0.8104712963104248
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 677 / 800 ============================
+D loss: 9.59646513365442e-06, G loss: 100.0, cost time: 0.8099813461303711
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 678 / 800 ============================
+D loss: 9.94668425846612e-06, G loss: 100.0, cost time: 0.7509489059448242
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 679 / 800 ============================
+D loss: 5.714632607123349e-06, G loss: 100.0, cost time: 0.8215389251708984
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 680 / 800 ============================
+D loss: 1.68389524333179e-05, G loss: 100.0, cost time: 0.8580954074859619
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 681 / 800 ============================
+D loss: 1.497624452895252e-05, G loss: 100.0, cost time: 0.8687806129455566
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 682 / 800 ============================
+D loss: 2.168227183574345e-05, G loss: 100.0, cost time: 0.832589864730835
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 683 / 800 ============================
+D loss: 1.0408633897895925e-05, G loss: 100.0, cost time: 0.8819043636322021
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 684 / 800 ============================
+D loss: 1.2539535418909509e-05, G loss: 100.0, cost time: 0.9530103206634521
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 685 / 800 ============================
+D loss: 1.0088209819514304e-05, G loss: 100.0, cost time: 0.8649008274078369
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 686 / 800 ============================
+D loss: 8.635313861304894e-06, G loss: 100.0, cost time: 0.822634220123291
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 687 / 800 ============================
+D loss: 6.228729944268707e-06, G loss: 100.0, cost time: 0.8779151439666748
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 688 / 800 ============================
+D loss: 1.2271299965505023e-05, G loss: 100.0, cost time: 0.8422808647155762
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 689 / 800 ============================
+D loss: 8.165914550772868e-06, G loss: 100.0, cost time: 0.7991886138916016
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 690 / 800 ============================
+D loss: 7.860482583055273e-06, G loss: 100.0, cost time: 0.8019053936004639
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 691 / 800 ============================
+D loss: 0.00039800963713787496, G loss: 100.0, cost time: 0.807727575302124
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 692 / 800 ============================
+D loss: 7.845535947126336e-06, G loss: 100.0, cost time: 0.8098464012145996
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 693 / 800 ============================
+D loss: 0.0003594741865526885, G loss: 100.0, cost time: 0.8397154808044434
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 694 / 800 ============================
+D loss: 4.75349497719435e-06, G loss: 100.0, cost time: 0.7856619358062744
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 695 / 800 ============================
+D loss: 9.11218194232788e-06, G loss: 100.0, cost time: 0.742908239364624
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 696 / 800 ============================
+D loss: 3.8680838770233095e-05, G loss: 100.00000762939453, cost time: 0.7246625423431396
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 697 / 800 ============================
+D loss: 8.009455086721573e-06, G loss: 100.0, cost time: 0.7884595394134521
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 698 / 800 ============================
+D loss: 1.0960051440633833e-05, G loss: 100.0, cost time: 0.7383840084075928
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 699 / 800 ============================
+D loss: 6.474602741946001e-06, G loss: 100.0, cost time: 0.8301699161529541
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 700 / 800 ============================
+D loss: 9.887044143397361e-06, G loss: 100.0, cost time: 0.7903788089752197
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 701 / 800 ============================
+D loss: 9.59646058618091e-06, G loss: 100.0, cost time: 0.8065545558929443
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 702 / 800 ============================
+D loss: 4.857814928982407e-06, G loss: 100.0, cost time: 0.8660101890563965
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 703 / 800 ============================
+D loss: 8.285128387797158e-06, G loss: 100.0, cost time: 0.7503204345703125
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 704 / 800 ============================
+D loss: 1.285263988393126e-05, G loss: 100.0, cost time: 0.8318591117858887
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 705 / 800 ============================
+D loss: 1.4566263416782022e-05, G loss: 100.0, cost time: 0.783179759979248
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 706 / 800 ============================
+D loss: 8.732183232496027e-06, G loss: 100.0, cost time: 0.6763036251068115
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 707 / 800 ============================
+D loss: 0.00036268046824261546, G loss: 100.0, cost time: 0.8006539344787598
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 708 / 800 ============================
+D loss: 6.422451406251639e-06, G loss: 100.0, cost time: 0.7955029010772705
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 709 / 800 ============================
+D loss: 1.4312880921352189e-05, G loss: 100.0, cost time: 0.773155689239502
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 710 / 800 ============================
+D loss: 5.19308650837047e-06, G loss: 100.0, cost time: 0.7553427219390869
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 711 / 800 ============================
+D loss: 7.718883352936246e-06, G loss: 100.0, cost time: 0.7371408939361572
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 712 / 800 ============================
+D loss: 9.827462235989515e-06, G loss: 100.0, cost time: 0.8555769920349121
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 713 / 800 ============================
+D loss: 7.2941875259857625e-06, G loss: 100.0, cost time: 0.7618653774261475
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 714 / 800 ============================
+D loss: 8.992977200250607e-06, G loss: 100.0, cost time: 0.855665922164917
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 715 / 800 ============================
+D loss: 1.1749773875635583e-05, G loss: 100.0, cost time: 0.830963134765625
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 716 / 800 ============================
+D loss: 4.880157575826161e-06, G loss: 100.0, cost time: 0.7924134731292725
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 717 / 800 ============================
+D loss: 6.1393220676109195e-06, G loss: 100.0, cost time: 0.9436030387878418
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 718 / 800 ============================
+D loss: 8.054178579186555e-06, G loss: 100.0, cost time: 0.7520482540130615
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 719 / 800 ============================
+D loss: 7.0259675339912064e-06, G loss: 100.0, cost time: 0.8565778732299805
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 720 / 800 ============================
+D loss: 5.672483894159086e-05, G loss: 100.0, cost time: 0.766254186630249
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 721 / 800 ============================
+D loss: 3.5866811231244355e-05, G loss: 100.0, cost time: 0.833306074142456
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 722 / 800 ============================
+D loss: 1.2599362889886834e-05, G loss: 100.0, cost time: 0.8212039470672607
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 723 / 800 ============================
+D loss: 1.1190939403604716e-05, G loss: 100.0, cost time: 0.8769187927246094
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 724 / 800 ============================
+D loss: 5.587974555965047e-06, G loss: 100.0, cost time: 0.84684157371521
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 725 / 800 ============================
+D loss: 9.671011866885237e-06, G loss: 100.0, cost time: 0.8550999164581299
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 726 / 800 ============================
+D loss: 9.917088391375728e-06, G loss: 100.0, cost time: 0.8181352615356445
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 727 / 800 ============================
+D loss: 6.720482360833557e-06, G loss: 100.0, cost time: 0.7488155364990234
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 728 / 800 ============================
+D loss: 1.9365026673767716e-05, G loss: 100.0, cost time: 0.9286632537841797
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 729 / 800 ============================
+D loss: 2.0959410903742537e-05, G loss: 100.0, cost time: 0.843505859375
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 730 / 800 ============================
+D loss: 8.784342753642704e-06, G loss: 100.0, cost time: 0.8804466724395752
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 731 / 800 ============================
+D loss: 1.0602361726341769e-05, G loss: 100.0, cost time: 0.7359442710876465
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 732 / 800 ============================
+D loss: 8.933340723160654e-06, G loss: 100.0, cost time: 0.880242109298706
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 733 / 800 ============================
+D loss: 6.854595085314941e-06, G loss: 100.0, cost time: 0.7671027183532715
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 734 / 800 ============================
+D loss: 9.29844372876687e-06, G loss: 100.0, cost time: 0.8416340351104736
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 735 / 800 ============================
+D loss: 5.699733264918905e-06, G loss: 100.0, cost time: 0.84609055519104
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 736 / 800 ============================
+D loss: 7.160079348977888e-06, G loss: 100.0, cost time: 0.7538027763366699
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 737 / 800 ============================
+D loss: 1.329956648987718e-05, G loss: 100.0, cost time: 0.7692229747772217
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 738 / 800 ============================
+D loss: 1.5140210052777547e-05, G loss: 100.0, cost time: 0.8529160022735596
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 739 / 800 ============================
+D loss: 7.942417141748592e-06, G loss: 100.0, cost time: 0.8168983459472656
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 740 / 800 ============================
+D loss: 1.1883890692843124e-05, G loss: 100.0, cost time: 0.7764792442321777
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 741 / 800 ============================
+D loss: 3.4045064239762723e-05, G loss: 100.0, cost time: 0.8403339385986328
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 742 / 800 ============================
+D loss: 6.318158739304636e-06, G loss: 100.0, cost time: 0.7935364246368408
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 743 / 800 ============================
+D loss: 2.114309972967021e-05, G loss: 100.0, cost time: 0.7601988315582275
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 744 / 800 ============================
+D loss: 1.1362425539118703e-05, G loss: 100.0, cost time: 0.7267990112304688
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 745 / 800 ============================
+D loss: 8.665130735607818e-06, G loss: 100.0, cost time: 0.7786691188812256
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 746 / 800 ============================
+D loss: 1.767752291925717e-05, G loss: 100.0, cost time: 0.846487283706665
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 747 / 800 ============================
+D loss: 5.327201506588608e-06, G loss: 100.0, cost time: 0.8330681324005127
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 748 / 800 ============================
+D loss: 1.022240030579269e-05, G loss: 100.0, cost time: 0.8648617267608643
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 749 / 800 ============================
+D loss: 8.054161298787221e-06, G loss: 100.0, cost time: 0.8264353275299072
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 750 / 800 ============================
+D loss: 9.097452675632667e-06, G loss: 100.0, cost time: 0.7948184013366699
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 751 / 800 ============================
+D loss: 8.501228876411915e-06, G loss: 100.0, cost time: 0.8161163330078125
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 752 / 800 ============================
+D loss: 1.997254184971098e-05, G loss: 100.0, cost time: 0.8123352527618408
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 753 / 800 ============================
+D loss: 1.5035707292554434e-05, G loss: 100.0, cost time: 0.7531375885009766
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 754 / 800 ============================
+D loss: 0.00016759995196480304, G loss: 100.0, cost time: 0.7963674068450928
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 755 / 800 ============================
+D loss: 1.7781841961550526e-05, G loss: 100.0, cost time: 0.8205783367156982
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 756 / 800 ============================
+D loss: 7.0334172050934285e-06, G loss: 100.0, cost time: 0.7771098613739014
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 757 / 800 ============================
+D loss: 1.121331843023654e-05, G loss: 100.0, cost time: 0.7502865791320801
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 758 / 800 ============================
+D loss: 1.1928565982088912e-05, G loss: 100.00000762939453, cost time: 0.7406277656555176
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 759 / 800 ============================
+D loss: 2.987335028592497e-05, G loss: 100.0, cost time: 0.7697644233703613
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 760 / 800 ============================
+D loss: 3.2484656458109384e-06, G loss: 100.0, cost time: 0.8311400413513184
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 761 / 800 ============================
+D loss: 9.358080205856822e-06, G loss: 100.0, cost time: 0.7778911590576172
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 762 / 800 ============================
+D loss: 8.434194569417741e-06, G loss: 100.0, cost time: 0.8358137607574463
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 763 / 800 ============================
+D loss: 1.4521919183607679e-05, G loss: 100.0, cost time: 0.798680305480957
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 764 / 800 ============================
+D loss: 8.516107300238218e-06, G loss: 100.0, cost time: 0.8290331363677979
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 765 / 800 ============================
+D loss: 5.722082278225571e-06, G loss: 100.0, cost time: 0.8570985794067383
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 766 / 800 ============================
+D loss: 7.510273917432642e-06, G loss: 100.0, cost time: 0.8589308261871338
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 767 / 800 ============================
+D loss: 7.3612486630736385e-06, G loss: 100.0, cost time: 0.7396063804626465
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 768 / 800 ============================
+D loss: 1.603403507033363e-05, G loss: 100.0, cost time: 0.7667365074157715
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 769 / 800 ============================
+D loss: 6.623623448831495e-06, G loss: 100.0, cost time: 0.7445089817047119
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 770 / 800 ============================
+D loss: 1.2532396794995293e-05, G loss: 100.0, cost time: 0.7396221160888672
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 771 / 800 ============================
+D loss: 6.5267686295555905e-06, G loss: 100.0, cost time: 0.7896862030029297
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 772 / 800 ============================
+D loss: 7.443215508828871e-06, G loss: 100.0, cost time: 0.8123018741607666
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 773 / 800 ============================
+D loss: 3.035597546841018e-05, G loss: 100.0, cost time: 0.7223877906799316
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 774 / 800 ============================
+D loss: 1.177960803033784e-05, G loss: 100.0, cost time: 0.8013975620269775
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 775 / 800 ============================
+D loss: 9.99883923213929e-06, G loss: 100.0, cost time: 0.7768354415893555
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 776 / 800 ============================
+D loss: 7.5475199992069975e-06, G loss: 100.0, cost time: 0.7501020431518555
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 777 / 800 ============================
+D loss: 8.531033927283715e-06, G loss: 100.0, cost time: 0.7711806297302246
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 778 / 800 ============================
+D loss: 1.030428393278271e-05, G loss: 100.0, cost time: 0.8403120040893555
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 779 / 800 ============================
+D loss: 1.0133081559615675e-05, G loss: 100.0, cost time: 0.7324223518371582
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 780 / 800 ============================
+D loss: 9.119617971009575e-06, G loss: 100.0, cost time: 0.7975749969482422
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 781 / 800 ============================
+D loss: 7.309088232432259e-06, G loss: 100.0, cost time: 0.8214952945709229
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 782 / 800 ============================
+D loss: 7.689110134379007e-06, G loss: 100.0, cost time: 0.8554937839508057
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 783 / 800 ============================
+D loss: 1.2561965377244633e-05, G loss: 100.0, cost time: 0.847686767578125
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 784 / 800 ============================
+D loss: 5.170747499505524e-06, G loss: 100.0, cost time: 0.8665313720703125
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 785 / 800 ============================
+D loss: 4.678988716477761e-06, G loss: 100.0, cost time: 0.7311861515045166
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 786 / 800 ============================
+D loss: 5.312309895089129e-06, G loss: 100.0, cost time: 0.878079891204834
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 787 / 800 ============================
+D loss: 6.5864114731084555e-06, G loss: 100.0, cost time: 0.8600685596466064
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 788 / 800 ============================
+D loss: 9.4325550890062e-06, G loss: 100.0, cost time: 0.8553543090820312
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 789 / 800 ============================
+D loss: 4.954673386237118e-06, G loss: 100.0, cost time: 0.7776408195495605
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 790 / 800 ============================
+D loss: 6.601275799766881e-06, G loss: 100.0, cost time: 0.8230724334716797
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 791 / 800 ============================
+D loss: 1.0676987585611641e-05, G loss: 100.0, cost time: 0.8215031623840332
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 792 / 800 ============================
+D loss: 6.73539125273237e-06, G loss: 100.0, cost time: 0.7931170463562012
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 793 / 800 ============================
+D loss: 8.471419278066605e-06, G loss: 100.0, cost time: 0.8306715488433838
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 794 / 800 ============================
+D loss: 9.15686359803658e-06, G loss: 100.0, cost time: 0.8648848533630371
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 795 / 800 ============================
+D loss: 7.920040843600873e-06, G loss: 100.0, cost time: 0.7470014095306396
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 796 / 800 ============================
+D loss: 1.2845388482674025e-05, G loss: 100.0, cost time: 0.8672671318054199
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 797 / 800 ============================
+D loss: 1.5904342944850214e-05, G loss: 100.0, cost time: 0.8443269729614258
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 798 / 800 ============================
+D loss: 5.848755790793803e-06, G loss: 100.0, cost time: 0.883289098739624
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 799 / 800 ============================
+D loss: 7.130272024369333e-06, G loss: 100.0, cost time: 0.7672359943389893
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 
+Epoch: 800 / 800 ============================
+D loss: 7.346347956627142e-06, G loss: 100.0, cost time: 0.7442328929901123
+Models save to standard-simple-generator.pth & standard-simple-discriminator.pth 

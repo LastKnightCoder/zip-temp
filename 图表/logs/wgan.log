@@ -1,0 +1,1502 @@
+WGAN_GradientPenalty init model.
+Models load from wgan-generator.pth & wgan-discriminator.pth
+Epoch: 1 / 500 ============================
+D loss: 1.6572234630584717, G loss: 2.785855770111084, Wasserstein_D: 3.376329183578491, cost time: 13.484468936920166
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 2 / 500 ============================
+D loss: 1.3471598625183105, G loss: 3.9281270503997803, Wasserstein_D: 3.8646140098571777, cost time: 13.267420053482056
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 3 / 500 ============================
+D loss: 0.9827203750610352, G loss: 3.302065849304199, Wasserstein_D: 4.044672966003418, cost time: 13.450510740280151
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 4 / 500 ============================
+D loss: 0.17458343505859375, G loss: 2.6322007179260254, Wasserstein_D: 4.4319610595703125, cost time: 14.235618591308594
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 5 / 500 ============================
+D loss: -0.11086893081665039, G loss: 2.649125099182129, Wasserstein_D: 4.7993998527526855, cost time: 13.418344497680664
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 6 / 500 ============================
+D loss: -0.40172815322875977, G loss: 2.581021785736084, Wasserstein_D: 5.1783294677734375, cost time: 13.7349534034729
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 7 / 500 ============================
+D loss: -0.6869707107543945, G loss: 3.0571022033691406, Wasserstein_D: 5.519466400146484, cost time: 13.623292446136475
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 8 / 500 ============================
+D loss: -1.962381362915039, G loss: 3.0142126083374023, Wasserstein_D: 6.196413993835449, cost time: 14.116947650909424
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 9 / 500 ============================
+D loss: -2.149196147918701, G loss: 3.294534206390381, Wasserstein_D: 6.647556781768799, cost time: 13.49051284790039
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 10 / 500 ============================
+D loss: -2.721816062927246, G loss: 3.345024824142456, Wasserstein_D: 7.250425815582275, cost time: 13.353904008865356
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 11 / 500 ============================
+D loss: -2.762256622314453, G loss: 3.0449721813201904, Wasserstein_D: 7.134983062744141, cost time: 11.755438566207886
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 12 / 500 ============================
+D loss: -3.3944573402404785, G loss: 3.129505157470703, Wasserstein_D: 7.653652191162109, cost time: 13.433444738388062
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 13 / 500 ============================
+D loss: -4.1411590576171875, G loss: 4.531586170196533, Wasserstein_D: 8.48723316192627, cost time: 12.982585430145264
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 14 / 500 ============================
+D loss: -4.911248683929443, G loss: 5.249020576477051, Wasserstein_D: 9.465194702148438, cost time: 13.171604633331299
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 15 / 500 ============================
+D loss: -5.906843185424805, G loss: 5.7545576095581055, Wasserstein_D: 10.384559631347656, cost time: 13.735914945602417
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 16 / 500 ============================
+D loss: -4.827951908111572, G loss: 4.95521879196167, Wasserstein_D: 9.772246360778809, cost time: 13.63823938369751
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 17 / 500 ============================
+D loss: -6.178532123565674, G loss: 4.785821914672852, Wasserstein_D: 10.682221412658691, cost time: 13.40257716178894
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 18 / 500 ============================
+D loss: -6.365241050720215, G loss: 4.983160018920898, Wasserstein_D: 10.848505020141602, cost time: 13.210813045501709
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 19 / 500 ============================
+D loss: -6.311671257019043, G loss: 4.873438358306885, Wasserstein_D: 11.104928016662598, cost time: 13.347630023956299
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 20 / 500 ============================
+D loss: -7.3242878913879395, G loss: 5.452505111694336, Wasserstein_D: 11.892597198486328, cost time: 13.622100591659546
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 21 / 500 ============================
+D loss: -6.013792514801025, G loss: 5.341190338134766, Wasserstein_D: 10.928296089172363, cost time: 11.506360292434692
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 22 / 500 ============================
+D loss: -7.7215423583984375, G loss: 5.473127365112305, Wasserstein_D: 12.300541877746582, cost time: 13.138725280761719
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 23 / 500 ============================
+D loss: -8.182760238647461, G loss: 6.186069011688232, Wasserstein_D: 12.834266662597656, cost time: 13.879956007003784
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 24 / 500 ============================
+D loss: -8.842178344726562, G loss: 6.4797515869140625, Wasserstein_D: 13.669179916381836, cost time: 13.199386596679688
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 25 / 500 ============================
+D loss: -9.648975372314453, G loss: 6.452152252197266, Wasserstein_D: 14.326563835144043, cost time: 17.382254123687744
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 26 / 500 ============================
+D loss: -9.818288803100586, G loss: 6.506290912628174, Wasserstein_D: 14.751667022705078, cost time: 15.016878604888916
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 27 / 500 ============================
+D loss: -9.895216941833496, G loss: 6.643610954284668, Wasserstein_D: 14.745166778564453, cost time: 14.462785959243774
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 28 / 500 ============================
+D loss: -10.336981773376465, G loss: 6.668757438659668, Wasserstein_D: 15.061824798583984, cost time: 14.628444194793701
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 29 / 500 ============================
+D loss: -10.750833511352539, G loss: 6.666591644287109, Wasserstein_D: 15.626680374145508, cost time: 13.78821086883545
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 30 / 500 ============================
+D loss: -11.811586380004883, G loss: 7.373457908630371, Wasserstein_D: 16.673826217651367, cost time: 13.86859941482544
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 31 / 500 ============================
+D loss: -11.920881271362305, G loss: 7.844540596008301, Wasserstein_D: 16.827863693237305, cost time: 13.863131284713745
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 32 / 500 ============================
+D loss: -11.960235595703125, G loss: 7.767169952392578, Wasserstein_D: 16.700660705566406, cost time: 14.12921929359436
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 33 / 500 ============================
+D loss: -12.419259071350098, G loss: 7.985536575317383, Wasserstein_D: 17.18414878845215, cost time: 13.335071802139282
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 34 / 500 ============================
+D loss: -12.899066925048828, G loss: 8.166187286376953, Wasserstein_D: 17.655214309692383, cost time: 13.8284752368927
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 35 / 500 ============================
+D loss: -13.637590408325195, G loss: 8.139074325561523, Wasserstein_D: 18.453277587890625, cost time: 13.752719163894653
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 36 / 500 ============================
+D loss: -14.044050216674805, G loss: 8.719939231872559, Wasserstein_D: 18.698688507080078, cost time: 13.79036545753479
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 37 / 500 ============================
+D loss: -13.483772277832031, G loss: 8.458735466003418, Wasserstein_D: 18.84233856201172, cost time: 13.267791032791138
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 38 / 500 ============================
+D loss: -14.759597778320312, G loss: 8.919686317443848, Wasserstein_D: 19.9053955078125, cost time: 13.927399396896362
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 39 / 500 ============================
+D loss: -14.880376815795898, G loss: 8.805342674255371, Wasserstein_D: 19.872434616088867, cost time: 14.28229022026062
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 40 / 500 ============================
+D loss: -15.279546737670898, G loss: 8.92484188079834, Wasserstein_D: 20.44247055053711, cost time: 13.452857255935669
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 41 / 500 ============================
+D loss: -15.208566665649414, G loss: 9.097896575927734, Wasserstein_D: 20.54068374633789, cost time: 14.329543113708496
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 42 / 500 ============================
+D loss: -16.21373748779297, G loss: 9.35218620300293, Wasserstein_D: 21.22208023071289, cost time: 12.117696523666382
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 43 / 500 ============================
+D loss: -17.221567153930664, G loss: 9.568902969360352, Wasserstein_D: 21.930889129638672, cost time: 13.483504295349121
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 44 / 500 ============================
+D loss: -19.312786102294922, G loss: 11.508316993713379, Wasserstein_D: 24.080974578857422, cost time: 13.685544490814209
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 45 / 500 ============================
+D loss: -18.063003540039062, G loss: 11.099959373474121, Wasserstein_D: 22.912948608398438, cost time: 13.788814544677734
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 46 / 500 ============================
+D loss: -16.857467651367188, G loss: 10.822169303894043, Wasserstein_D: 22.40184783935547, cost time: 13.34396481513977
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 47 / 500 ============================
+D loss: -16.5059757232666, G loss: 10.543180465698242, Wasserstein_D: 21.22049903869629, cost time: 13.313645601272583
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 48 / 500 ============================
+D loss: -22.337993621826172, G loss: 13.723764419555664, Wasserstein_D: 27.418296813964844, cost time: 13.634530544281006
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 49 / 500 ============================
+D loss: -21.583297729492188, G loss: 12.923568725585938, Wasserstein_D: 26.92981719970703, cost time: 13.445335149765015
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 50 / 500 ============================
+D loss: -21.46048355102539, G loss: 12.434883117675781, Wasserstein_D: 26.48386573791504, cost time: 13.374899864196777
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 51 / 500 ============================
+D loss: -21.808380126953125, G loss: 11.906688690185547, Wasserstein_D: 27.16659927368164, cost time: 13.271389722824097
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 52 / 500 ============================
+D loss: -22.1881046295166, G loss: 14.276500701904297, Wasserstein_D: 27.39310073852539, cost time: 11.634297847747803
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 53 / 500 ============================
+D loss: -23.244020462036133, G loss: 15.411651611328125, Wasserstein_D: 29.299522399902344, cost time: 13.739725351333618
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 54 / 500 ============================
+D loss: -24.642284393310547, G loss: 14.490830421447754, Wasserstein_D: 30.034587860107422, cost time: 13.277901887893677
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 55 / 500 ============================
+D loss: -23.189430236816406, G loss: 13.7993745803833, Wasserstein_D: 29.522003173828125, cost time: 13.521852731704712
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 56 / 500 ============================
+D loss: -23.21595001220703, G loss: 16.290054321289062, Wasserstein_D: 30.009960174560547, cost time: 13.343830108642578
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 57 / 500 ============================
+D loss: -15.595552444458008, G loss: 6.513766288757324, Wasserstein_D: 21.05165672302246, cost time: 13.158742666244507
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 58 / 500 ============================
+D loss: -5.745654106140137, G loss: 10.537374496459961, Wasserstein_D: 17.391611099243164, cost time: 13.823201417922974
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 59 / 500 ============================
+D loss: -7.955944538116455, G loss: 4.84248161315918, Wasserstein_D: 13.460456848144531, cost time: 13.500752925872803
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 60 / 500 ============================
+D loss: -6.846112251281738, G loss: 6.855276107788086, Wasserstein_D: 14.047149658203125, cost time: 13.176846265792847
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 61 / 500 ============================
+D loss: -2.0491867065429688, G loss: 1.1041288375854492, Wasserstein_D: 7.545167922973633, cost time: 13.243366479873657
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 62 / 500 ============================
+D loss: 0.32845020294189453, G loss: -1.3142123222351074, Wasserstein_D: 4.147106647491455, cost time: 13.30208420753479
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 63 / 500 ============================
+D loss: -0.2071390151977539, G loss: 0.1546339988708496, Wasserstein_D: 4.390625953674316, cost time: 13.203850030899048
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 64 / 500 ============================
+D loss: 0.08354663848876953, G loss: -2.6476707458496094, Wasserstein_D: 4.390687465667725, cost time: 13.473424196243286
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 65 / 500 ============================
+D loss: 0.20692205429077148, G loss: -0.23665809631347656, Wasserstein_D: 4.023480415344238, cost time: 13.641593217849731
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 66 / 500 ============================
+D loss: 0.1541457176208496, G loss: 0.637425422668457, Wasserstein_D: 4.437360763549805, cost time: 13.285144329071045
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 67 / 500 ============================
+D loss: 0.8206276893615723, G loss: 1.2655935287475586, Wasserstein_D: 3.895333766937256, cost time: 13.573793649673462
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 68 / 500 ============================
+D loss: 0.20229768753051758, G loss: 3.7367265224456787, Wasserstein_D: 4.3628668785095215, cost time: 13.700743198394775
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 69 / 500 ============================
+D loss: 0.009457111358642578, G loss: 4.616970062255859, Wasserstein_D: 4.4940690994262695, cost time: 13.763763904571533
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 70 / 500 ============================
+D loss: -0.8368468284606934, G loss: 1.517061710357666, Wasserstein_D: 4.883702754974365, cost time: 13.438937902450562
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 71 / 500 ============================
+D loss: -0.34420108795166016, G loss: 2.202939510345459, Wasserstein_D: 4.471811294555664, cost time: 13.325616836547852
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 72 / 500 ============================
+D loss: 0.24225854873657227, G loss: 5.511381149291992, Wasserstein_D: 4.015048027038574, cost time: 13.313234329223633
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 73 / 500 ============================
+D loss: 1.2240207195281982, G loss: 2.441779136657715, Wasserstein_D: 3.17126202583313, cost time: 12.178041458129883
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 74 / 500 ============================
+D loss: -0.14142847061157227, G loss: 3.0516717433929443, Wasserstein_D: 4.983033657073975, cost time: 13.738602876663208
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 75 / 500 ============================
+D loss: 0.008991241455078125, G loss: 3.902817726135254, Wasserstein_D: 4.48259973526001, cost time: 13.652638912200928
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 76 / 500 ============================
+D loss: 0.47930002212524414, G loss: 3.669618844985962, Wasserstein_D: 4.084404468536377, cost time: 13.591230869293213
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 77 / 500 ============================
+D loss: 0.8744432926177979, G loss: 2.3850183486938477, Wasserstein_D: 3.5201871395111084, cost time: 13.07353663444519
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 78 / 500 ============================
+D loss: 1.140596866607666, G loss: 3.7046613693237305, Wasserstein_D: 2.988715648651123, cost time: 13.142653226852417
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 79 / 500 ============================
+D loss: 1.0156893730163574, G loss: 0.2273268699645996, Wasserstein_D: 3.266676425933838, cost time: 13.413824319839478
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 80 / 500 ============================
+D loss: -0.2641482353210449, G loss: 0.4456291198730469, Wasserstein_D: 5.31559419631958, cost time: 13.453579187393188
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 81 / 500 ============================
+D loss: -1.0870075225830078, G loss: 0.8350343704223633, Wasserstein_D: 5.439113616943359, cost time: 13.430788516998291
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 82 / 500 ============================
+D loss: -0.08966207504272461, G loss: 5.89751672744751, Wasserstein_D: 4.412222385406494, cost time: 13.941403865814209
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 83 / 500 ============================
+D loss: -1.6492371559143066, G loss: 5.684557914733887, Wasserstein_D: 5.933352947235107, cost time: 11.919344186782837
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 84 / 500 ============================
+D loss: -1.52244234085083, G loss: 1.115351915359497, Wasserstein_D: 6.146717548370361, cost time: 13.439316987991333
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 85 / 500 ============================
+D loss: -1.0960502624511719, G loss: -1.5066981315612793, Wasserstein_D: 5.356988430023193, cost time: 13.940964460372925
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 86 / 500 ============================
+D loss: 0.6895451545715332, G loss: -0.8044776916503906, Wasserstein_D: 3.612766742706299, cost time: 13.637667179107666
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 87 / 500 ============================
+D loss: -0.19096755981445312, G loss: -0.6079444885253906, Wasserstein_D: 4.25446891784668, cost time: 13.435375213623047
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 88 / 500 ============================
+D loss: -0.9215245246887207, G loss: 4.3991804122924805, Wasserstein_D: 5.772969722747803, cost time: 13.338084697723389
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 89 / 500 ============================
+D loss: -1.5928397178649902, G loss: -1.2803010940551758, Wasserstein_D: 5.785470485687256, cost time: 13.453044176101685
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 90 / 500 ============================
+D loss: -1.1336541175842285, G loss: 2.443755626678467, Wasserstein_D: 5.7480788230896, cost time: 13.942599058151245
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 91 / 500 ============================
+D loss: 1.3201708793640137, G loss: -2.701878070831299, Wasserstein_D: 3.124816417694092, cost time: 13.254513502120972
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 92 / 500 ============================
+D loss: 0.35583925247192383, G loss: -4.0857253074646, Wasserstein_D: 3.5149402618408203, cost time: 13.014247417449951
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 93 / 500 ============================
+D loss: 0.41583967208862305, G loss: -3.8221774101257324, Wasserstein_D: 4.140583038330078, cost time: 13.022690534591675
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 94 / 500 ============================
+D loss: 0.3562326431274414, G loss: -1.9548888206481934, Wasserstein_D: 4.049069881439209, cost time: 13.133565664291382
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 95 / 500 ============================
+D loss: 0.27585744857788086, G loss: -0.10515022277832031, Wasserstein_D: 3.8721985816955566, cost time: 13.127524375915527
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 96 / 500 ============================
+D loss: 0.5763335227966309, G loss: 0.12726426124572754, Wasserstein_D: 3.5863399505615234, cost time: 13.192293405532837
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 97 / 500 ============================
+D loss: 0.40134477615356445, G loss: -2.620833396911621, Wasserstein_D: 3.5985488891601562, cost time: 14.255212783813477
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 98 / 500 ============================
+D loss: 0.27896618843078613, G loss: -2.210510015487671, Wasserstein_D: 3.6279468536376953, cost time: 17.922418117523193
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 99 / 500 ============================
+D loss: 1.2182660102844238, G loss: -3.972846508026123, Wasserstein_D: 2.734013557434082, cost time: 13.919918537139893
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 100 / 500 ============================
+D loss: 1.156369924545288, G loss: -5.214200019836426, Wasserstein_D: 2.826383590698242, cost time: 13.837666034698486
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 101 / 500 ============================
+D loss: 1.0082521438598633, G loss: -3.1018311977386475, Wasserstein_D: 3.0228939056396484, cost time: 14.325401782989502
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 102 / 500 ============================
+D loss: -0.5074460506439209, G loss: -3.939749240875244, Wasserstein_D: 4.064530849456787, cost time: 14.21980905532837
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 103 / 500 ============================
+D loss: 1.2345771789550781, G loss: -3.6436171531677246, Wasserstein_D: 2.944396495819092, cost time: 13.526641607284546
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 104 / 500 ============================
+D loss: 0.9809525012969971, G loss: -5.528648376464844, Wasserstein_D: 2.788486957550049, cost time: 11.962664604187012
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 105 / 500 ============================
+D loss: -0.3431861400604248, G loss: -2.343113899230957, Wasserstein_D: 3.9397149085998535, cost time: 13.597477436065674
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 106 / 500 ============================
+D loss: 0.27854132652282715, G loss: -3.1658971309661865, Wasserstein_D: 3.4554595947265625, cost time: 13.2962327003479
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 107 / 500 ============================
+D loss: 0.48036623001098633, G loss: -2.58284330368042, Wasserstein_D: 3.588223457336426, cost time: 13.815574645996094
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 108 / 500 ============================
+D loss: 0.720369815826416, G loss: -3.559475898742676, Wasserstein_D: 3.190657615661621, cost time: 13.765424489974976
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 109 / 500 ============================
+D loss: 1.5194244384765625, G loss: -4.055050849914551, Wasserstein_D: 2.1305999755859375, cost time: 13.046418905258179
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 110 / 500 ============================
+D loss: 1.0570940971374512, G loss: -3.820251703262329, Wasserstein_D: 2.953798770904541, cost time: 13.644474267959595
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 111 / 500 ============================
+D loss: 1.0741829872131348, G loss: -3.5607194900512695, Wasserstein_D: 2.566899299621582, cost time: 13.346951961517334
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 112 / 500 ============================
+D loss: 0.18288564682006836, G loss: -1.8958895206451416, Wasserstein_D: 4.156877040863037, cost time: 13.759579181671143
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 113 / 500 ============================
+D loss: -0.8708229064941406, G loss: -2.8876194953918457, Wasserstein_D: 4.602149963378906, cost time: 13.657484531402588
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 114 / 500 ============================
+D loss: 0.3957936763763428, G loss: -3.4158167839050293, Wasserstein_D: 3.289196491241455, cost time: 12.071718454360962
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 115 / 500 ============================
+D loss: -0.5990362167358398, G loss: -4.054847240447998, Wasserstein_D: 4.87567138671875, cost time: 13.40111494064331
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 116 / 500 ============================
+D loss: 1.1461982727050781, G loss: -3.9619193077087402, Wasserstein_D: 2.6653451919555664, cost time: 13.938497543334961
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 117 / 500 ============================
+D loss: 0.7168967723846436, G loss: -1.2509291172027588, Wasserstein_D: 3.1293277740478516, cost time: 14.116818904876709
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 118 / 500 ============================
+D loss: 0.6071982383728027, G loss: -2.585958957672119, Wasserstein_D: 3.4142446517944336, cost time: 13.247431516647339
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 119 / 500 ============================
+D loss: 0.7354092597961426, G loss: -3.926248073577881, Wasserstein_D: 3.2835922241210938, cost time: 13.745771169662476
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 120 / 500 ============================
+D loss: 0.7870917320251465, G loss: -3.795478105545044, Wasserstein_D: 3.4359660148620605, cost time: 13.651013135910034
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 121 / 500 ============================
+D loss: 0.7832846641540527, G loss: -1.2335383892059326, Wasserstein_D: 3.1867189407348633, cost time: 13.333060026168823
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 122 / 500 ============================
+D loss: 1.1211061477661133, G loss: -4.903500080108643, Wasserstein_D: 3.114737033843994, cost time: 13.965881586074829
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 123 / 500 ============================
+D loss: 0.2610816955566406, G loss: -3.3879196643829346, Wasserstein_D: 4.0198516845703125, cost time: 13.228971719741821
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 124 / 500 ============================
+D loss: 0.25042057037353516, G loss: -3.1780261993408203, Wasserstein_D: 3.4856133460998535, cost time: 13.319756269454956
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 125 / 500 ============================
+D loss: 0.41861629486083984, G loss: -1.7978801727294922, Wasserstein_D: 3.938988208770752, cost time: 13.558722019195557
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 126 / 500 ============================
+D loss: 0.06366348266601562, G loss: -1.4251441955566406, Wasserstein_D: 4.008791923522949, cost time: 13.405130624771118
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 127 / 500 ============================
+D loss: 0.8308043479919434, G loss: -4.877204418182373, Wasserstein_D: 3.2924060821533203, cost time: 13.490366458892822
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 128 / 500 ============================
+D loss: 0.14989519119262695, G loss: -1.6616735458374023, Wasserstein_D: 3.9527759552001953, cost time: 13.921074151992798
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 129 / 500 ============================
+D loss: 0.6809883117675781, G loss: -3.2021288871765137, Wasserstein_D: 3.3628950119018555, cost time: 13.45508623123169
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 130 / 500 ============================
+D loss: 0.4060325622558594, G loss: -2.2567574977874756, Wasserstein_D: 3.7435688972473145, cost time: 13.230228185653687
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 131 / 500 ============================
+D loss: 0.06949281692504883, G loss: -3.8446528911590576, Wasserstein_D: 3.7988181114196777, cost time: 13.6500985622406
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 132 / 500 ============================
+D loss: 0.5699577331542969, G loss: -3.1982569694519043, Wasserstein_D: 3.4451236724853516, cost time: 13.581533670425415
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 133 / 500 ============================
+D loss: 0.19557738304138184, G loss: -2.890456199645996, Wasserstein_D: 3.6800479888916016, cost time: 13.159227132797241
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 134 / 500 ============================
+D loss: -0.699556827545166, G loss: -1.406400203704834, Wasserstein_D: 4.432936191558838, cost time: 13.499041557312012
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 135 / 500 ============================
+D loss: -0.46465158462524414, G loss: -0.46649789810180664, Wasserstein_D: 4.561656475067139, cost time: 11.71617865562439
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 136 / 500 ============================
+D loss: 0.44315361976623535, G loss: -3.17533278465271, Wasserstein_D: 3.4007139205932617, cost time: 12.9836106300354
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 137 / 500 ============================
+D loss: -0.6280889511108398, G loss: -3.0484066009521484, Wasserstein_D: 4.7143073081970215, cost time: 13.234761714935303
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 138 / 500 ============================
+D loss: -0.3435096740722656, G loss: -3.911846399307251, Wasserstein_D: 4.148364067077637, cost time: 13.492261409759521
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 139 / 500 ============================
+D loss: -0.19289803504943848, G loss: -2.9031577110290527, Wasserstein_D: 4.02988862991333, cost time: 13.362755537033081
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 140 / 500 ============================
+D loss: -0.16141271591186523, G loss: -0.9406630992889404, Wasserstein_D: 4.179583549499512, cost time: 13.557991981506348
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 141 / 500 ============================
+D loss: -0.014742851257324219, G loss: -3.7020270824432373, Wasserstein_D: 3.812868118286133, cost time: 13.042561769485474
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 142 / 500 ============================
+D loss: 0.13520002365112305, G loss: -2.1217527389526367, Wasserstein_D: 3.848461151123047, cost time: 13.377111911773682
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 143 / 500 ============================
+D loss: 3.4332275390625e-05, G loss: -3.371227264404297, Wasserstein_D: 3.974003791809082, cost time: 13.387062072753906
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 144 / 500 ============================
+D loss: 0.9813897609710693, G loss: -3.251352548599243, Wasserstein_D: 2.8977794647216797, cost time: 13.544328689575195
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 145 / 500 ============================
+D loss: 0.5172362327575684, G loss: -1.6097612380981445, Wasserstein_D: 3.46059513092041, cost time: 11.754228353500366
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 146 / 500 ============================
+D loss: 0.4099564552307129, G loss: -3.473076105117798, Wasserstein_D: 3.5401477813720703, cost time: 13.24683141708374
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 147 / 500 ============================
+D loss: 0.2712717056274414, G loss: -3.059849262237549, Wasserstein_D: 3.450291633605957, cost time: 13.445728063583374
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 148 / 500 ============================
+D loss: -0.5759596824645996, G loss: -4.652652263641357, Wasserstein_D: 4.4136881828308105, cost time: 13.234809875488281
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 149 / 500 ============================
+D loss: 0.7902202606201172, G loss: -1.9946932792663574, Wasserstein_D: 3.4931082725524902, cost time: 13.354269027709961
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 150 / 500 ============================
+D loss: -0.18140125274658203, G loss: -1.6324255466461182, Wasserstein_D: 4.452775001525879, cost time: 13.33218002319336
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 151 / 500 ============================
+D loss: 0.26614999771118164, G loss: -4.294926166534424, Wasserstein_D: 3.743950843811035, cost time: 13.372733116149902
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 152 / 500 ============================
+D loss: 0.3161749839782715, G loss: -2.9545884132385254, Wasserstein_D: 3.154949188232422, cost time: 13.726481437683105
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 153 / 500 ============================
+D loss: -0.00953531265258789, G loss: -1.4372520446777344, Wasserstein_D: 4.012690544128418, cost time: 13.329544305801392
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 154 / 500 ============================
+D loss: 0.014330387115478516, G loss: -4.828459739685059, Wasserstein_D: 3.5795092582702637, cost time: 13.195781707763672
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 155 / 500 ============================
+D loss: 0.028725147247314453, G loss: -4.032664775848389, Wasserstein_D: 4.427237510681152, cost time: 13.393512964248657
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 156 / 500 ============================
+D loss: 1.0819637775421143, G loss: -4.928220272064209, Wasserstein_D: 2.857661247253418, cost time: 13.238668203353882
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 157 / 500 ============================
+D loss: 0.34172630310058594, G loss: -4.569614410400391, Wasserstein_D: 3.3892383575439453, cost time: 13.257396936416626
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 158 / 500 ============================
+D loss: -0.16965341567993164, G loss: -4.326943397521973, Wasserstein_D: 3.9874987602233887, cost time: 13.360576629638672
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 159 / 500 ============================
+D loss: 0.3121037483215332, G loss: -3.7269647121429443, Wasserstein_D: 3.7135934829711914, cost time: 13.109310150146484
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 160 / 500 ============================
+D loss: 0.03672981262207031, G loss: -4.5770063400268555, Wasserstein_D: 3.5117502212524414, cost time: 13.107885599136353
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 161 / 500 ============================
+D loss: 0.34122753143310547, G loss: -5.702401161193848, Wasserstein_D: 3.5320076942443848, cost time: 13.24356460571289
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 162 / 500 ============================
+D loss: -0.8682608604431152, G loss: -4.410375118255615, Wasserstein_D: 4.599406719207764, cost time: 12.942939519882202
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 163 / 500 ============================
+D loss: 0.31847476959228516, G loss: -4.007640838623047, Wasserstein_D: 3.702803611755371, cost time: 13.261640787124634
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 164 / 500 ============================
+D loss: 0.9045829772949219, G loss: -5.132010459899902, Wasserstein_D: 3.069000244140625, cost time: 13.449945211410522
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 165 / 500 ============================
+D loss: -0.5156393051147461, G loss: -4.158877372741699, Wasserstein_D: 4.546604156494141, cost time: 13.31338906288147
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 166 / 500 ============================
+D loss: 0.5857243537902832, G loss: -5.286665439605713, Wasserstein_D: 3.3719301223754883, cost time: 11.90058422088623
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 167 / 500 ============================
+D loss: -0.20186257362365723, G loss: -4.633796215057373, Wasserstein_D: 3.886838912963867, cost time: 13.763844013214111
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 168 / 500 ============================
+D loss: -0.8160374164581299, G loss: -3.87585711479187, Wasserstein_D: 4.555351734161377, cost time: 13.044621706008911
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 169 / 500 ============================
+D loss: 0.37987709045410156, G loss: -4.769637584686279, Wasserstein_D: 3.4791855812072754, cost time: 13.18664264678955
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 170 / 500 ============================
+D loss: -0.26027727127075195, G loss: -4.355544090270996, Wasserstein_D: 3.8572998046875, cost time: 12.974859714508057
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 171 / 500 ============================
+D loss: -0.1262350082397461, G loss: -3.8571557998657227, Wasserstein_D: 4.187189102172852, cost time: 17.791759252548218
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 172 / 500 ============================
+D loss: 0.22851800918579102, G loss: -4.65597677230835, Wasserstein_D: 3.4763574600219727, cost time: 13.952223300933838
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 173 / 500 ============================
+D loss: 1.2735347747802734, G loss: -6.106228351593018, Wasserstein_D: 2.754770278930664, cost time: 14.114831924438477
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 174 / 500 ============================
+D loss: 0.18498849868774414, G loss: -2.0957717895507812, Wasserstein_D: 3.890361785888672, cost time: 14.412632703781128
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 175 / 500 ============================
+D loss: 0.8348326683044434, G loss: -3.3062243461608887, Wasserstein_D: 2.9403953552246094, cost time: 13.945101261138916
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 176 / 500 ============================
+D loss: 1.0600614547729492, G loss: -4.999113082885742, Wasserstein_D: 2.9895057678222656, cost time: 12.050134181976318
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 177 / 500 ============================
+D loss: 0.081878662109375, G loss: -2.6332294940948486, Wasserstein_D: 3.846963882446289, cost time: 14.83893084526062
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 178 / 500 ============================
+D loss: -0.16807794570922852, G loss: -2.6367859840393066, Wasserstein_D: 4.079318046569824, cost time: 13.966995239257812
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 179 / 500 ============================
+D loss: -0.7957854270935059, G loss: -4.840573787689209, Wasserstein_D: 4.507570266723633, cost time: 14.715275049209595
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 180 / 500 ============================
+D loss: -0.4877452850341797, G loss: -4.250181198120117, Wasserstein_D: 4.0249481201171875, cost time: 13.749110221862793
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 181 / 500 ============================
+D loss: 0.44739270210266113, G loss: -3.6754157543182373, Wasserstein_D: 3.543989658355713, cost time: 14.1940279006958
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 182 / 500 ============================
+D loss: 0.12902355194091797, G loss: -4.009361267089844, Wasserstein_D: 3.550760269165039, cost time: 13.306188821792603
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 183 / 500 ============================
+D loss: -0.7721219062805176, G loss: -3.3842291831970215, Wasserstein_D: 4.262744903564453, cost time: 13.393270015716553
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 184 / 500 ============================
+D loss: 0.07445216178894043, G loss: -2.7795138359069824, Wasserstein_D: 3.5217952728271484, cost time: 13.863024711608887
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 185 / 500 ============================
+D loss: 0.07351398468017578, G loss: -3.9917702674865723, Wasserstein_D: 3.8347063064575195, cost time: 13.541637659072876
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 186 / 500 ============================
+D loss: 0.004731416702270508, G loss: -4.239055633544922, Wasserstein_D: 3.6969447135925293, cost time: 13.366095066070557
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 187 / 500 ============================
+D loss: -0.29412317276000977, G loss: -3.7813167572021484, Wasserstein_D: 3.8590850830078125, cost time: 13.412814378738403
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 188 / 500 ============================
+D loss: 0.22101640701293945, G loss: -2.656397581100464, Wasserstein_D: 3.325723648071289, cost time: 13.282840013504028
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 189 / 500 ============================
+D loss: -0.4736464023590088, G loss: -4.852048873901367, Wasserstein_D: 3.838603973388672, cost time: 13.971119403839111
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 190 / 500 ============================
+D loss: -0.962860107421875, G loss: -5.73664665222168, Wasserstein_D: 4.76503849029541, cost time: 13.598950147628784
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 191 / 500 ============================
+D loss: -0.4285578727722168, G loss: -3.1903834342956543, Wasserstein_D: 4.167336463928223, cost time: 13.40619707107544
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 192 / 500 ============================
+D loss: -0.5858149528503418, G loss: -4.193479061126709, Wasserstein_D: 4.1516828536987305, cost time: 13.334789991378784
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 193 / 500 ============================
+D loss: -0.11613035202026367, G loss: -3.993053436279297, Wasserstein_D: 3.8754587173461914, cost time: 13.250123262405396
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 194 / 500 ============================
+D loss: -0.07592439651489258, G loss: -5.303821563720703, Wasserstein_D: 4.068837642669678, cost time: 13.264934062957764
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 195 / 500 ============================
+D loss: 0.19964981079101562, G loss: -5.565067291259766, Wasserstein_D: 3.7756872177124023, cost time: 13.937527894973755
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 196 / 500 ============================
+D loss: 0.35704755783081055, G loss: -4.54248046875, Wasserstein_D: 3.525834083557129, cost time: 13.865837812423706
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 197 / 500 ============================
+D loss: -0.3074483871459961, G loss: -2.1574525833129883, Wasserstein_D: 3.933077812194824, cost time: 11.862670183181763
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 198 / 500 ============================
+D loss: 0.3055710792541504, G loss: -4.502047061920166, Wasserstein_D: 3.6228256225585938, cost time: 13.248483657836914
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 199 / 500 ============================
+D loss: -0.7538001537322998, G loss: -4.3304123878479, Wasserstein_D: 4.3870439529418945, cost time: 13.361302614212036
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 200 / 500 ============================
+D loss: -0.8367176055908203, G loss: -5.302201271057129, Wasserstein_D: 4.725679397583008, cost time: 13.665870189666748
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 201 / 500 ============================
+D loss: -0.022361040115356445, G loss: -4.935871601104736, Wasserstein_D: 3.8417720794677734, cost time: 12.949911832809448
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 202 / 500 ============================
+D loss: -0.3977317810058594, G loss: -4.120365142822266, Wasserstein_D: 3.9008073806762695, cost time: 13.750994443893433
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 203 / 500 ============================
+D loss: -0.45774126052856445, G loss: -6.212689399719238, Wasserstein_D: 4.140985488891602, cost time: 13.435724020004272
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 204 / 500 ============================
+D loss: -0.16891241073608398, G loss: -4.148242473602295, Wasserstein_D: 4.16661262512207, cost time: 13.162677764892578
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 205 / 500 ============================
+D loss: 0.4579176902770996, G loss: -5.276346683502197, Wasserstein_D: 3.539504051208496, cost time: 13.749520540237427
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 206 / 500 ============================
+D loss: 0.10292816162109375, G loss: -5.384439468383789, Wasserstein_D: 3.9477224349975586, cost time: 13.44663953781128
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 207 / 500 ============================
+D loss: 0.4300882816314697, G loss: -3.7458877563476562, Wasserstein_D: 3.2865333557128906, cost time: 11.860022068023682
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 208 / 500 ============================
+D loss: 0.2724432945251465, G loss: -4.193608283996582, Wasserstein_D: 4.274985313415527, cost time: 13.16290545463562
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 209 / 500 ============================
+D loss: -0.00828862190246582, G loss: -3.711719512939453, Wasserstein_D: 3.8272151947021484, cost time: 13.106192350387573
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 210 / 500 ============================
+D loss: -1.204221248626709, G loss: -0.7217280864715576, Wasserstein_D: 4.944882869720459, cost time: 13.39059329032898
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 211 / 500 ============================
+D loss: -0.305588960647583, G loss: -6.472377777099609, Wasserstein_D: 4.019890785217285, cost time: 13.508676528930664
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 212 / 500 ============================
+D loss: -0.6479613780975342, G loss: -4.459693908691406, Wasserstein_D: 4.147533416748047, cost time: 13.593197107315063
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 213 / 500 ============================
+D loss: -1.1330842971801758, G loss: -5.914057731628418, Wasserstein_D: 4.662164688110352, cost time: 13.968357563018799
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 214 / 500 ============================
+D loss: -0.026884078979492188, G loss: -2.9842262268066406, Wasserstein_D: 3.945493221282959, cost time: 13.267218112945557
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 215 / 500 ============================
+D loss: -0.41788172721862793, G loss: -2.2453622817993164, Wasserstein_D: 4.191032409667969, cost time: 13.42167592048645
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 216 / 500 ============================
+D loss: 0.10102987289428711, G loss: -4.605284690856934, Wasserstein_D: 3.9981460571289062, cost time: 13.476445436477661
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 217 / 500 ============================
+D loss: -0.6435070037841797, G loss: -5.939246654510498, Wasserstein_D: 4.547247886657715, cost time: 13.434184551239014
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 218 / 500 ============================
+D loss: -0.20908546447753906, G loss: -5.602428436279297, Wasserstein_D: 3.8713293075561523, cost time: 13.04609990119934
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 219 / 500 ============================
+D loss: 0.49542760848999023, G loss: -3.342960834503174, Wasserstein_D: 3.5834484100341797, cost time: 13.46885061264038
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 220 / 500 ============================
+D loss: -0.6495096683502197, G loss: -4.282007217407227, Wasserstein_D: 4.424123764038086, cost time: 13.147932052612305
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 221 / 500 ============================
+D loss: -0.4887535572052002, G loss: -4.233497142791748, Wasserstein_D: 4.184873580932617, cost time: 13.271664142608643
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 222 / 500 ============================
+D loss: 0.4805893898010254, G loss: -6.378171443939209, Wasserstein_D: 3.8218679428100586, cost time: 13.592488288879395
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 223 / 500 ============================
+D loss: 0.4222440719604492, G loss: -3.732966423034668, Wasserstein_D: 3.522083282470703, cost time: 13.186079025268555
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 224 / 500 ============================
+D loss: 0.40848374366760254, G loss: -3.9546635150909424, Wasserstein_D: 3.5570383071899414, cost time: 13.374974727630615
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 225 / 500 ============================
+D loss: 0.4425487518310547, G loss: -6.992600917816162, Wasserstein_D: 3.553168773651123, cost time: 13.496724843978882
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 226 / 500 ============================
+D loss: -0.24012398719787598, G loss: -4.2957353591918945, Wasserstein_D: 3.693251132965088, cost time: 13.759301662445068
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 227 / 500 ============================
+D loss: -0.18855595588684082, G loss: -5.13559103012085, Wasserstein_D: 4.1742401123046875, cost time: 13.584998369216919
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 228 / 500 ============================
+D loss: 0.1057891845703125, G loss: -4.892489910125732, Wasserstein_D: 3.763396739959717, cost time: 11.420502185821533
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 229 / 500 ============================
+D loss: 0.0865633487701416, G loss: -4.901326656341553, Wasserstein_D: 3.70382022857666, cost time: 12.987964153289795
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 230 / 500 ============================
+D loss: -0.19563579559326172, G loss: -4.62460994720459, Wasserstein_D: 3.6182966232299805, cost time: 13.659456253051758
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 231 / 500 ============================
+D loss: 0.32926034927368164, G loss: -4.960309028625488, Wasserstein_D: 3.548375129699707, cost time: 13.54543662071228
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 232 / 500 ============================
+D loss: -0.3310708999633789, G loss: -3.6749095916748047, Wasserstein_D: 3.7010650634765625, cost time: 13.25584864616394
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 233 / 500 ============================
+D loss: -0.6121053695678711, G loss: -5.131117343902588, Wasserstein_D: 4.2611188888549805, cost time: 13.414431810379028
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 234 / 500 ============================
+D loss: 0.45172548294067383, G loss: -5.900312423706055, Wasserstein_D: 3.8214197158813477, cost time: 13.549012422561646
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 235 / 500 ============================
+D loss: 0.7010507583618164, G loss: -5.258960723876953, Wasserstein_D: 3.5268449783325195, cost time: 13.294917583465576
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 236 / 500 ============================
+D loss: -1.2822189331054688, G loss: -3.7936582565307617, Wasserstein_D: 4.909700393676758, cost time: 13.075018405914307
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 237 / 500 ============================
+D loss: -0.25913572311401367, G loss: -5.235620498657227, Wasserstein_D: 4.050053596496582, cost time: 13.536325216293335
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 238 / 500 ============================
+D loss: 0.25728392601013184, G loss: -5.319947242736816, Wasserstein_D: 3.6826629638671875, cost time: 11.853418111801147
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 239 / 500 ============================
+D loss: 0.29376697540283203, G loss: -3.072972297668457, Wasserstein_D: 4.088418006896973, cost time: 13.353086948394775
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 240 / 500 ============================
+D loss: 0.23120880126953125, G loss: -3.918388843536377, Wasserstein_D: 3.7874937057495117, cost time: 13.445777416229248
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 241 / 500 ============================
+D loss: -0.2507336139678955, G loss: -5.512668609619141, Wasserstein_D: 3.964263916015625, cost time: 13.065091371536255
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 242 / 500 ============================
+D loss: -0.7900245189666748, G loss: -4.672297954559326, Wasserstein_D: 4.270435333251953, cost time: 13.111902713775635
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 243 / 500 ============================
+D loss: -0.06597423553466797, G loss: -3.3940157890319824, Wasserstein_D: 3.6379194259643555, cost time: 13.893899917602539
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 244 / 500 ============================
+D loss: -0.1542339324951172, G loss: -5.127589702606201, Wasserstein_D: 4.142372131347656, cost time: 18.74227023124695
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 245 / 500 ============================
+D loss: -0.6417410373687744, G loss: -4.056310653686523, Wasserstein_D: 4.161321640014648, cost time: 14.072033166885376
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 246 / 500 ============================
+D loss: -0.021437644958496094, G loss: -5.7028093338012695, Wasserstein_D: 3.699831485748291, cost time: 14.066512107849121
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 247 / 500 ============================
+D loss: -0.05615043640136719, G loss: -5.011181354522705, Wasserstein_D: 3.8968095779418945, cost time: 15.721101760864258
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 248 / 500 ============================
+D loss: -0.4205501079559326, G loss: -3.7365164756774902, Wasserstein_D: 4.28708553314209, cost time: 13.654865980148315
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 249 / 500 ============================
+D loss: 0.5448684692382812, G loss: -6.853757858276367, Wasserstein_D: 3.4655814170837402, cost time: 13.258289337158203
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 250 / 500 ============================
+D loss: -0.05929923057556152, G loss: -2.43376088142395, Wasserstein_D: 3.94034481048584, cost time: 14.050411224365234
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 251 / 500 ============================
+D loss: 0.510460376739502, G loss: -3.930966377258301, Wasserstein_D: 3.4851369857788086, cost time: 13.5516037940979
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 252 / 500 ============================
+D loss: -0.2808804512023926, G loss: -3.728909492492676, Wasserstein_D: 3.8560361862182617, cost time: 13.249988079071045
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 253 / 500 ============================
+D loss: -0.8217082023620605, G loss: -4.166745185852051, Wasserstein_D: 4.262141227722168, cost time: 13.963845014572144
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 254 / 500 ============================
+D loss: 0.1670243740081787, G loss: -3.340721607208252, Wasserstein_D: 3.374325752258301, cost time: 14.007983684539795
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 255 / 500 ============================
+D loss: -0.0594329833984375, G loss: -6.814789772033691, Wasserstein_D: 4.22259521484375, cost time: 13.801605463027954
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 256 / 500 ============================
+D loss: -0.8860921859741211, G loss: -4.610861778259277, Wasserstein_D: 3.994776725769043, cost time: 13.807209014892578
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 257 / 500 ============================
+D loss: -0.06125211715698242, G loss: -4.183799743652344, Wasserstein_D: 3.5525693893432617, cost time: 13.492358446121216
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 258 / 500 ============================
+D loss: 0.027558326721191406, G loss: -6.763554573059082, Wasserstein_D: 3.9090089797973633, cost time: 13.851906061172485
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 259 / 500 ============================
+D loss: -0.2489461898803711, G loss: -2.422109365463257, Wasserstein_D: 4.041993141174316, cost time: 12.064430475234985
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 260 / 500 ============================
+D loss: -0.08475804328918457, G loss: -4.010348796844482, Wasserstein_D: 3.651813507080078, cost time: 13.451314449310303
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 261 / 500 ============================
+D loss: 0.07356691360473633, G loss: -4.659257888793945, Wasserstein_D: 3.5316262245178223, cost time: 13.462617635726929
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 262 / 500 ============================
+D loss: 0.31113386154174805, G loss: -4.328089714050293, Wasserstein_D: 3.9521398544311523, cost time: 13.945569038391113
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 263 / 500 ============================
+D loss: -0.8350965976715088, G loss: -5.0589447021484375, Wasserstein_D: 4.713570594787598, cost time: 13.315656661987305
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 264 / 500 ============================
+D loss: -0.7945077419281006, G loss: -2.723940134048462, Wasserstein_D: 4.525973320007324, cost time: 13.210756540298462
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 265 / 500 ============================
+D loss: 0.22942447662353516, G loss: -5.357519149780273, Wasserstein_D: 3.5071353912353516, cost time: 14.297075748443604
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 266 / 500 ============================
+D loss: -0.02548360824584961, G loss: -4.845188140869141, Wasserstein_D: 3.633249282836914, cost time: 13.308733940124512
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 267 / 500 ============================
+D loss: -0.9953899383544922, G loss: -3.308553695678711, Wasserstein_D: 4.8375244140625, cost time: 13.845693349838257
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 268 / 500 ============================
+D loss: 0.09797024726867676, G loss: -5.20422887802124, Wasserstein_D: 3.7812156677246094, cost time: 13.541898250579834
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 269 / 500 ============================
+D loss: -0.7237496376037598, G loss: -3.1167190074920654, Wasserstein_D: 3.8760757446289062, cost time: 11.549314737319946
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 270 / 500 ============================
+D loss: 0.13774394989013672, G loss: -6.174462795257568, Wasserstein_D: 3.687223434448242, cost time: 12.96828818321228
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 271 / 500 ============================
+D loss: -0.7123837471008301, G loss: -4.2748613357543945, Wasserstein_D: 4.301937103271484, cost time: 13.13888931274414
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 272 / 500 ============================
+D loss: 0.5829989910125732, G loss: -5.1299848556518555, Wasserstein_D: 3.2668933868408203, cost time: 13.083299160003662
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 273 / 500 ============================
+D loss: -0.8858013153076172, G loss: -4.766130447387695, Wasserstein_D: 4.27769660949707, cost time: 13.190867185592651
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 274 / 500 ============================
+D loss: -1.0434799194335938, G loss: -3.6082558631896973, Wasserstein_D: 4.536380767822266, cost time: 13.69799518585205
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 275 / 500 ============================
+D loss: 0.16444683074951172, G loss: -5.798321723937988, Wasserstein_D: 3.535757064819336, cost time: 13.366668939590454
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 276 / 500 ============================
+D loss: -0.4466702938079834, G loss: -2.4585819244384766, Wasserstein_D: 3.7671594619750977, cost time: 13.446537971496582
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 277 / 500 ============================
+D loss: 0.22748756408691406, G loss: -3.9366636276245117, Wasserstein_D: 3.4282264709472656, cost time: 13.355029106140137
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 278 / 500 ============================
+D loss: -0.4462752342224121, G loss: -3.7857604026794434, Wasserstein_D: 3.4757747650146484, cost time: 13.266836166381836
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 279 / 500 ============================
+D loss: -0.1681976318359375, G loss: -3.542295455932617, Wasserstein_D: 3.664700508117676, cost time: 13.304911136627197
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 280 / 500 ============================
+D loss: -0.4265480041503906, G loss: -5.439088344573975, Wasserstein_D: 3.6741976737976074, cost time: 13.800784349441528
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 281 / 500 ============================
+D loss: -0.3141331672668457, G loss: -4.845249652862549, Wasserstein_D: 3.760770797729492, cost time: 12.897761821746826
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 282 / 500 ============================
+D loss: -0.6305580139160156, G loss: -2.2467050552368164, Wasserstein_D: 4.489631652832031, cost time: 13.196872472763062
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 283 / 500 ============================
+D loss: 0.10231637954711914, G loss: -4.396917819976807, Wasserstein_D: 3.709906578063965, cost time: 13.45439100265503
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 284 / 500 ============================
+D loss: -0.7503774166107178, G loss: -5.806745529174805, Wasserstein_D: 4.312013626098633, cost time: 13.540574312210083
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 285 / 500 ============================
+D loss: -0.6931219100952148, G loss: -2.81917667388916, Wasserstein_D: 4.580031394958496, cost time: 13.82295560836792
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 286 / 500 ============================
+D loss: 0.1995236873626709, G loss: -2.473666191101074, Wasserstein_D: 3.2663803100585938, cost time: 13.600869178771973
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 287 / 500 ============================
+D loss: -0.4521951675415039, G loss: -3.302755355834961, Wasserstein_D: 4.686635971069336, cost time: 13.352411985397339
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 288 / 500 ============================
+D loss: -0.1280531883239746, G loss: -4.006537437438965, Wasserstein_D: 3.364935874938965, cost time: 13.349786043167114
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 289 / 500 ============================
+D loss: 0.306002140045166, G loss: -5.654695987701416, Wasserstein_D: 3.4639315605163574, cost time: 13.166444778442383
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 290 / 500 ============================
+D loss: -0.049422264099121094, G loss: -4.567628860473633, Wasserstein_D: 3.942422866821289, cost time: 11.532016038894653
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 291 / 500 ============================
+D loss: -0.5770347118377686, G loss: -5.153404712677002, Wasserstein_D: 3.9536256790161133, cost time: 13.252230167388916
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 292 / 500 ============================
+D loss: -1.040001392364502, G loss: -4.458033084869385, Wasserstein_D: 4.583334922790527, cost time: 13.575305938720703
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 293 / 500 ============================
+D loss: -0.25853443145751953, G loss: -2.5004379749298096, Wasserstein_D: 4.26359748840332, cost time: 13.101922273635864
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 294 / 500 ============================
+D loss: -0.33611035346984863, G loss: -5.712831497192383, Wasserstein_D: 4.2447004318237305, cost time: 13.207985162734985
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 295 / 500 ============================
+D loss: -0.5269520282745361, G loss: -4.7726054191589355, Wasserstein_D: 3.8431806564331055, cost time: 13.790771007537842
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 296 / 500 ============================
+D loss: 0.1109304428100586, G loss: -5.784788608551025, Wasserstein_D: 3.9732565879821777, cost time: 13.559354066848755
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 297 / 500 ============================
+D loss: -1.306990385055542, G loss: -4.802567958831787, Wasserstein_D: 4.673084259033203, cost time: 13.190911531448364
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 298 / 500 ============================
+D loss: -0.019120216369628906, G loss: -4.854848861694336, Wasserstein_D: 3.6217050552368164, cost time: 13.55488657951355
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 299 / 500 ============================
+D loss: -0.18766522407531738, G loss: -4.61839485168457, Wasserstein_D: 3.8062477111816406, cost time: 13.555562973022461
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 300 / 500 ============================
+D loss: -0.0031468868255615234, G loss: -7.715141296386719, Wasserstein_D: 3.909449577331543, cost time: 12.209574699401855
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 301 / 500 ============================
+D loss: -0.6461305618286133, G loss: -3.460587501525879, Wasserstein_D: 4.414083480834961, cost time: 13.306501626968384
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 302 / 500 ============================
+D loss: 0.20688819885253906, G loss: -6.8993964195251465, Wasserstein_D: 3.9268789291381836, cost time: 13.54158639907837
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 303 / 500 ============================
+D loss: -0.22691583633422852, G loss: -4.76561975479126, Wasserstein_D: 3.8089523315429688, cost time: 14.035577058792114
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 304 / 500 ============================
+D loss: -0.20402908325195312, G loss: -4.52888298034668, Wasserstein_D: 3.818836212158203, cost time: 13.578354358673096
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 305 / 500 ============================
+D loss: -0.6406717300415039, G loss: -5.411658763885498, Wasserstein_D: 4.1290082931518555, cost time: 13.556607246398926
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 306 / 500 ============================
+D loss: -0.054781436920166016, G loss: -5.2737627029418945, Wasserstein_D: 3.720881462097168, cost time: 13.870591163635254
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 307 / 500 ============================
+D loss: -0.14510536193847656, G loss: -1.0393872261047363, Wasserstein_D: 3.7756147384643555, cost time: 13.598083734512329
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 308 / 500 ============================
+D loss: 0.3191649913787842, G loss: -4.192566871643066, Wasserstein_D: 3.2990646362304688, cost time: 13.457556009292603
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 309 / 500 ============================
+D loss: -0.004102945327758789, G loss: -4.365120887756348, Wasserstein_D: 3.5300159454345703, cost time: 13.39191722869873
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 310 / 500 ============================
+D loss: -0.29312896728515625, G loss: -4.616641998291016, Wasserstein_D: 4.267494201660156, cost time: 13.316824913024902
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 311 / 500 ============================
+D loss: -0.8245635032653809, G loss: -6.31151008605957, Wasserstein_D: 4.067498207092285, cost time: 13.045657873153687
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 312 / 500 ============================
+D loss: -0.4007434844970703, G loss: -4.338061332702637, Wasserstein_D: 4.056887626647949, cost time: 12.85705280303955
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 313 / 500 ============================
+D loss: 0.4176177978515625, G loss: -6.784569263458252, Wasserstein_D: 3.2957029342651367, cost time: 13.053690910339355
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 314 / 500 ============================
+D loss: 0.16843652725219727, G loss: -4.447076320648193, Wasserstein_D: 3.069230079650879, cost time: 13.018491744995117
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 315 / 500 ============================
+D loss: -0.7813491821289062, G loss: -5.114345073699951, Wasserstein_D: 3.7780914306640625, cost time: 13.130754232406616
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 316 / 500 ============================
+D loss: -0.13149333000183105, G loss: -5.334489822387695, Wasserstein_D: 3.926645278930664, cost time: 13.250669002532959
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 317 / 500 ============================
+D loss: -0.4734206199645996, G loss: -3.0665087699890137, Wasserstein_D: 3.751847267150879, cost time: 17.261589288711548
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 318 / 500 ============================
+D loss: 0.09748315811157227, G loss: -5.5438947677612305, Wasserstein_D: 3.724696159362793, cost time: 14.433298587799072
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 319 / 500 ============================
+D loss: 0.28885483741760254, G loss: -4.188479423522949, Wasserstein_D: 3.382659912109375, cost time: 13.86894154548645
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 320 / 500 ============================
+D loss: -0.48887109756469727, G loss: -3.994807720184326, Wasserstein_D: 4.263275146484375, cost time: 14.159109830856323
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 321 / 500 ============================
+D loss: -0.1628122329711914, G loss: -5.440882205963135, Wasserstein_D: 4.07975959777832, cost time: 12.941069602966309
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 322 / 500 ============================
+D loss: -0.7711000442504883, G loss: -5.8424458503723145, Wasserstein_D: 3.8745079040527344, cost time: 13.772697448730469
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 323 / 500 ============================
+D loss: 0.6497738361358643, G loss: -5.5010480880737305, Wasserstein_D: 3.0783605575561523, cost time: 14.341981649398804
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 324 / 500 ============================
+D loss: 0.29539990425109863, G loss: -5.373885631561279, Wasserstein_D: 3.5784072875976562, cost time: 14.563180446624756
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 325 / 500 ============================
+D loss: -0.8989074230194092, G loss: -6.846793174743652, Wasserstein_D: 4.474733352661133, cost time: 14.343006372451782
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 326 / 500 ============================
+D loss: -0.03473949432373047, G loss: -4.579705238342285, Wasserstein_D: 3.639883041381836, cost time: 14.121397972106934
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 327 / 500 ============================
+D loss: 0.011426925659179688, G loss: -5.10416316986084, Wasserstein_D: 3.6491804122924805, cost time: 14.30345630645752
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 328 / 500 ============================
+D loss: -0.17285871505737305, G loss: -4.815561294555664, Wasserstein_D: 3.827580451965332, cost time: 14.565257549285889
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 329 / 500 ============================
+D loss: -0.14778757095336914, G loss: -5.8804802894592285, Wasserstein_D: 3.8869266510009766, cost time: 13.993612289428711
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 330 / 500 ============================
+D loss: 0.11252880096435547, G loss: -4.823511600494385, Wasserstein_D: 4.085463523864746, cost time: 14.795359134674072
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 331 / 500 ============================
+D loss: -0.3099803924560547, G loss: -4.27571964263916, Wasserstein_D: 3.8382749557495117, cost time: 13.216944694519043
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 332 / 500 ============================
+D loss: -0.23587894439697266, G loss: -4.526060104370117, Wasserstein_D: 3.6837358474731445, cost time: 14.39055609703064
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 333 / 500 ============================
+D loss: 0.6577024459838867, G loss: -4.9279890060424805, Wasserstein_D: 3.3096446990966797, cost time: 13.967477560043335
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 334 / 500 ============================
+D loss: -0.28348469734191895, G loss: -5.918997764587402, Wasserstein_D: 3.777337074279785, cost time: 14.442477226257324
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 335 / 500 ============================
+D loss: -0.8661918640136719, G loss: -5.651528358459473, Wasserstein_D: 4.221728324890137, cost time: 14.37446641921997
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 336 / 500 ============================
+D loss: -0.0056304931640625, G loss: -4.725341320037842, Wasserstein_D: 3.504439353942871, cost time: 13.728230714797974
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 337 / 500 ============================
+D loss: -0.4943680763244629, G loss: -4.616855621337891, Wasserstein_D: 4.1404571533203125, cost time: 14.169862031936646
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 338 / 500 ============================
+D loss: -0.8532404899597168, G loss: -5.063697814941406, Wasserstein_D: 3.974292755126953, cost time: 14.446796417236328
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 339 / 500 ============================
+D loss: -0.2748136520385742, G loss: -4.433745384216309, Wasserstein_D: 3.54667329788208, cost time: 13.353667974472046
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 340 / 500 ============================
+D loss: -0.5240678787231445, G loss: -5.386704444885254, Wasserstein_D: 3.976445198059082, cost time: 13.312004566192627
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 341 / 500 ============================
+D loss: 0.07607865333557129, G loss: -4.189153671264648, Wasserstein_D: 3.580310821533203, cost time: 13.503772974014282
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 342 / 500 ============================
+D loss: -0.36756229400634766, G loss: -6.4359846115112305, Wasserstein_D: 3.9423093795776367, cost time: 13.304410696029663
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 343 / 500 ============================
+D loss: -0.0178070068359375, G loss: -5.294295787811279, Wasserstein_D: 3.535734176635742, cost time: 13.059506893157959
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 344 / 500 ============================
+D loss: -1.0942611694335938, G loss: -4.67204475402832, Wasserstein_D: 4.390031814575195, cost time: 13.000661611557007
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 345 / 500 ============================
+D loss: 0.007378101348876953, G loss: -6.192479610443115, Wasserstein_D: 3.853862762451172, cost time: 13.004842519760132
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 346 / 500 ============================
+D loss: -0.1614677906036377, G loss: -5.531744956970215, Wasserstein_D: 3.949090003967285, cost time: 12.901973724365234
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 347 / 500 ============================
+D loss: 0.6352689266204834, G loss: -3.002981185913086, Wasserstein_D: 3.0568857192993164, cost time: 13.779287815093994
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 348 / 500 ============================
+D loss: -0.37877941131591797, G loss: -6.465495586395264, Wasserstein_D: 4.613855361938477, cost time: 13.232081413269043
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 349 / 500 ============================
+D loss: 0.16539621353149414, G loss: -6.609734535217285, Wasserstein_D: 4.259552955627441, cost time: 13.29115891456604
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 350 / 500 ============================
+D loss: 0.5410137176513672, G loss: -2.426222801208496, Wasserstein_D: 3.3362884521484375, cost time: 13.286771774291992
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 351 / 500 ============================
+D loss: 0.04404783248901367, G loss: -5.053170204162598, Wasserstein_D: 3.4921483993530273, cost time: 13.432265996932983
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 352 / 500 ============================
+D loss: -0.7345724105834961, G loss: -5.580809593200684, Wasserstein_D: 4.127235412597656, cost time: 11.59860372543335
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 353 / 500 ============================
+D loss: -1.2155556678771973, G loss: -5.184922695159912, Wasserstein_D: 5.0954742431640625, cost time: 13.341123104095459
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 354 / 500 ============================
+D loss: 1.030585765838623, G loss: -7.447942733764648, Wasserstein_D: 3.7308435440063477, cost time: 13.996462106704712
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 355 / 500 ============================
+D loss: 0.16316628456115723, G loss: -5.611532211303711, Wasserstein_D: 3.5783376693725586, cost time: 13.408032894134521
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 356 / 500 ============================
+D loss: 0.35979366302490234, G loss: -5.6012678146362305, Wasserstein_D: 3.305234909057617, cost time: 13.324257373809814
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 357 / 500 ============================
+D loss: -0.48575425148010254, G loss: -6.359332084655762, Wasserstein_D: 4.014514923095703, cost time: 13.55597710609436
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 358 / 500 ============================
+D loss: 0.13039445877075195, G loss: -7.206526756286621, Wasserstein_D: 4.208913326263428, cost time: 13.193225622177124
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 359 / 500 ============================
+D loss: -0.4749438762664795, G loss: -5.195528984069824, Wasserstein_D: 4.355742454528809, cost time: 14.050624132156372
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 360 / 500 ============================
+D loss: -0.05882620811462402, G loss: -5.805853366851807, Wasserstein_D: 3.6158552169799805, cost time: 13.559972763061523
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 361 / 500 ============================
+D loss: -0.39704442024230957, G loss: -6.84602165222168, Wasserstein_D: 4.2928314208984375, cost time: 13.511166095733643
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 362 / 500 ============================
+D loss: 0.011925220489501953, G loss: -6.553912162780762, Wasserstein_D: 3.490877151489258, cost time: 11.785231351852417
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 363 / 500 ============================
+D loss: 0.31310224533081055, G loss: -5.328362941741943, Wasserstein_D: 3.2185659408569336, cost time: 13.976513385772705
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 364 / 500 ============================
+D loss: 0.05052661895751953, G loss: -5.036101818084717, Wasserstein_D: 3.5124807357788086, cost time: 13.352356672286987
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 365 / 500 ============================
+D loss: -0.8824617862701416, G loss: -6.694767475128174, Wasserstein_D: 4.143564224243164, cost time: 13.141983985900879
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 366 / 500 ============================
+D loss: -0.32375288009643555, G loss: -4.981235027313232, Wasserstein_D: 3.919186592102051, cost time: 13.252429962158203
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 367 / 500 ============================
+D loss: 0.17947912216186523, G loss: -6.348366737365723, Wasserstein_D: 4.000705718994141, cost time: 13.245231866836548
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 368 / 500 ============================
+D loss: -0.23331904411315918, G loss: -6.369929790496826, Wasserstein_D: 3.3994083404541016, cost time: 13.471227884292603
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 369 / 500 ============================
+D loss: -1.2484705448150635, G loss: -6.739577293395996, Wasserstein_D: 4.471120834350586, cost time: 13.106258869171143
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 370 / 500 ============================
+D loss: 0.3721919059753418, G loss: -6.477625846862793, Wasserstein_D: 3.7596492767333984, cost time: 13.650095224380493
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 371 / 500 ============================
+D loss: -0.19679784774780273, G loss: -5.119385242462158, Wasserstein_D: 3.84946346282959, cost time: 13.692728996276855
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 372 / 500 ============================
+D loss: 0.12442207336425781, G loss: -6.001227378845215, Wasserstein_D: 3.2952184677124023, cost time: 13.324834108352661
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 373 / 500 ============================
+D loss: 0.11282491683959961, G loss: -6.705426216125488, Wasserstein_D: 4.119479179382324, cost time: 13.246653079986572
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 374 / 500 ============================
+D loss: -0.7610569000244141, G loss: -6.734062194824219, Wasserstein_D: 4.0871381759643555, cost time: 13.191174983978271
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 375 / 500 ============================
+D loss: -0.6469097137451172, G loss: -5.4992899894714355, Wasserstein_D: 4.907358169555664, cost time: 13.460591316223145
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 376 / 500 ============================
+D loss: -0.3576850891113281, G loss: -5.695470809936523, Wasserstein_D: 3.607513427734375, cost time: 13.436048030853271
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 377 / 500 ============================
+D loss: -0.5881714820861816, G loss: -5.943167686462402, Wasserstein_D: 3.663802146911621, cost time: 13.268926620483398
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 378 / 500 ============================
+D loss: -0.28473377227783203, G loss: -6.125540256500244, Wasserstein_D: 3.955789566040039, cost time: 13.049012899398804
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 379 / 500 ============================
+D loss: 0.41597461700439453, G loss: -6.6999077796936035, Wasserstein_D: 3.228835105895996, cost time: 13.146818399429321
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 380 / 500 ============================
+D loss: -0.30438733100891113, G loss: -7.321789741516113, Wasserstein_D: 3.6323423385620117, cost time: 12.958354473114014
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 381 / 500 ============================
+D loss: -0.5634174346923828, G loss: -4.632216930389404, Wasserstein_D: 4.013038635253906, cost time: 13.241860151290894
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 382 / 500 ============================
+D loss: -0.35764312744140625, G loss: -5.854302406311035, Wasserstein_D: 3.795412063598633, cost time: 13.328791379928589
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 383 / 500 ============================
+D loss: 0.9485321044921875, G loss: -7.417219638824463, Wasserstein_D: 3.392457962036133, cost time: 11.486461639404297
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 384 / 500 ============================
+D loss: -0.22921419143676758, G loss: -7.2279887199401855, Wasserstein_D: 3.9728240966796875, cost time: 13.15366816520691
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 385 / 500 ============================
+D loss: -0.986729621887207, G loss: -4.90224552154541, Wasserstein_D: 4.356721878051758, cost time: 13.063128471374512
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 386 / 500 ============================
+D loss: -0.49332118034362793, G loss: -7.97709846496582, Wasserstein_D: 4.153543472290039, cost time: 13.45432996749878
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 387 / 500 ============================
+D loss: -1.2993297576904297, G loss: -6.806058883666992, Wasserstein_D: 4.381714820861816, cost time: 13.147047519683838
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 388 / 500 ============================
+D loss: -0.12586569786071777, G loss: -6.26350736618042, Wasserstein_D: 3.975111961364746, cost time: 13.212438821792603
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 389 / 500 ============================
+D loss: 0.1248016357421875, G loss: -7.188046455383301, Wasserstein_D: 3.202988624572754, cost time: 15.758845567703247
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 390 / 500 ============================
+D loss: 0.78456711769104, G loss: -6.635592460632324, Wasserstein_D: 2.8188838958740234, cost time: 14.09944462776184
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 391 / 500 ============================
+D loss: -0.1823289394378662, G loss: -7.358033180236816, Wasserstein_D: 3.5269269943237305, cost time: 13.845708847045898
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 392 / 500 ============================
+D loss: -0.33215880393981934, G loss: -7.660879611968994, Wasserstein_D: 3.7324657440185547, cost time: 14.67099666595459
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 393 / 500 ============================
+D loss: -0.2706127166748047, G loss: -5.730597019195557, Wasserstein_D: 3.8932275772094727, cost time: 12.99529218673706
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 394 / 500 ============================
+D loss: 0.4627494812011719, G loss: -8.895617485046387, Wasserstein_D: 3.1025514602661133, cost time: 14.386655330657959
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 395 / 500 ============================
+D loss: -0.005797147750854492, G loss: -6.112420082092285, Wasserstein_D: 3.595895767211914, cost time: 13.920313596725464
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 396 / 500 ============================
+D loss: -0.6877820491790771, G loss: -6.150857448577881, Wasserstein_D: 3.8225927352905273, cost time: 13.212200403213501
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 397 / 500 ============================
+D loss: -0.48743224143981934, G loss: -5.349638938903809, Wasserstein_D: 3.587784767150879, cost time: 14.130464315414429
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 398 / 500 ============================
+D loss: -0.2597236633300781, G loss: -6.3489670753479, Wasserstein_D: 3.7021484375, cost time: 14.213369131088257
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 399 / 500 ============================
+D loss: -0.24546122550964355, G loss: -4.5906572341918945, Wasserstein_D: 4.022089004516602, cost time: 14.805440425872803
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 400 / 500 ============================
+D loss: -0.14719533920288086, G loss: -7.0599141120910645, Wasserstein_D: 3.4513559341430664, cost time: 13.9469575881958
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 401 / 500 ============================
+D loss: -0.13776350021362305, G loss: -6.200903415679932, Wasserstein_D: 3.857921600341797, cost time: 14.055124521255493
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 402 / 500 ============================
+D loss: -0.32448315620422363, G loss: -5.696519374847412, Wasserstein_D: 3.5716819763183594, cost time: 13.811607122421265
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 403 / 500 ============================
+D loss: -0.33574414253234863, G loss: -8.238372802734375, Wasserstein_D: 3.5300121307373047, cost time: 13.527624368667603
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 404 / 500 ============================
+D loss: -1.0003373622894287, G loss: -5.865887641906738, Wasserstein_D: 4.458432197570801, cost time: 13.73100233078003
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 405 / 500 ============================
+D loss: -0.1066279411315918, G loss: -7.010098934173584, Wasserstein_D: 3.310331344604492, cost time: 14.253471612930298
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 406 / 500 ============================
+D loss: 0.7284703254699707, G loss: -5.17842960357666, Wasserstein_D: 2.718705177307129, cost time: 13.754416942596436
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 407 / 500 ============================
+D loss: 0.3087921142578125, G loss: -6.5814008712768555, Wasserstein_D: 3.2558183670043945, cost time: 14.050734281539917
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 408 / 500 ============================
+D loss: -0.3849945068359375, G loss: -6.062747001647949, Wasserstein_D: 4.239313125610352, cost time: 13.35475754737854
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 409 / 500 ============================
+D loss: 0.3244047164916992, G loss: -7.588931083679199, Wasserstein_D: 3.7873687744140625, cost time: 14.450210809707642
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 410 / 500 ============================
+D loss: -0.10141968727111816, G loss: -7.349408149719238, Wasserstein_D: 3.7427616119384766, cost time: 13.660183906555176
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 411 / 500 ============================
+D loss: -0.37140822410583496, G loss: -7.043898105621338, Wasserstein_D: 4.1408843994140625, cost time: 13.457674741744995
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 412 / 500 ============================
+D loss: -0.916862964630127, G loss: -6.642068862915039, Wasserstein_D: 4.053234100341797, cost time: 13.431318283081055
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 413 / 500 ============================
+D loss: -1.260345458984375, G loss: -4.847317695617676, Wasserstein_D: 4.881147384643555, cost time: 13.37804102897644
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 414 / 500 ============================
+D loss: -0.38181304931640625, G loss: -6.438844203948975, Wasserstein_D: 3.737325668334961, cost time: 11.72506308555603
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 415 / 500 ============================
+D loss: -0.3990020751953125, G loss: -7.092744827270508, Wasserstein_D: 3.8615217208862305, cost time: 13.366835355758667
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 416 / 500 ============================
+D loss: -0.9144933223724365, G loss: -5.267807960510254, Wasserstein_D: 3.860610008239746, cost time: 13.437458276748657
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 417 / 500 ============================
+D loss: 0.011147260665893555, G loss: -7.294294357299805, Wasserstein_D: 3.9708194732666016, cost time: 13.264107942581177
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 418 / 500 ============================
+D loss: -0.2575681209564209, G loss: -7.986959457397461, Wasserstein_D: 3.685274124145508, cost time: 13.468536138534546
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 419 / 500 ============================
+D loss: -0.4644749164581299, G loss: -7.501011848449707, Wasserstein_D: 3.9886960983276367, cost time: 14.043943405151367
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 420 / 500 ============================
+D loss: -0.5369019508361816, G loss: -6.161552429199219, Wasserstein_D: 3.596881866455078, cost time: 13.477170705795288
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 421 / 500 ============================
+D loss: -0.09885120391845703, G loss: -6.490883827209473, Wasserstein_D: 3.3229246139526367, cost time: 13.191096782684326
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 422 / 500 ============================
+D loss: -0.6930475234985352, G loss: -7.290519714355469, Wasserstein_D: 3.970388412475586, cost time: 14.091851234436035
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 423 / 500 ============================
+D loss: -0.2511744499206543, G loss: -7.574670791625977, Wasserstein_D: 3.918246269226074, cost time: 13.661056280136108
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 424 / 500 ============================
+D loss: 0.6607911586761475, G loss: -7.979378700256348, Wasserstein_D: 3.3195972442626953, cost time: 11.750158071517944
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 425 / 500 ============================
+D loss: 0.019651412963867188, G loss: -6.236690521240234, Wasserstein_D: 3.78891658782959, cost time: 13.652642011642456
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 426 / 500 ============================
+D loss: -0.3390233516693115, G loss: -7.0692033767700195, Wasserstein_D: 3.9018325805664062, cost time: 13.061280965805054
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 427 / 500 ============================
+D loss: 0.37610793113708496, G loss: -9.113780975341797, Wasserstein_D: 3.2967329025268555, cost time: 13.237706184387207
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 428 / 500 ============================
+D loss: -0.6442215442657471, G loss: -7.627490043640137, Wasserstein_D: 3.9244346618652344, cost time: 13.372397899627686
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 429 / 500 ============================
+D loss: -0.5415942668914795, G loss: -5.583895683288574, Wasserstein_D: 4.379437446594238, cost time: 13.249840497970581
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 430 / 500 ============================
+D loss: -0.4128410816192627, G loss: -7.496966361999512, Wasserstein_D: 3.7368621826171875, cost time: 13.058762073516846
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 431 / 500 ============================
+D loss: -1.3042776584625244, G loss: -7.682834625244141, Wasserstein_D: 4.174020767211914, cost time: 13.027906656265259
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 432 / 500 ============================
+D loss: 0.47198987007141113, G loss: -7.877859592437744, Wasserstein_D: 3.117783546447754, cost time: 13.968522310256958
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 433 / 500 ============================
+D loss: -1.3206961154937744, G loss: -2.6966629028320312, Wasserstein_D: 4.279780387878418, cost time: 13.220749855041504
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 434 / 500 ============================
+D loss: -1.5491905212402344, G loss: -5.804948806762695, Wasserstein_D: 4.513175964355469, cost time: 13.064368724822998
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 435 / 500 ============================
+D loss: -1.2064898014068604, G loss: -7.68574333190918, Wasserstein_D: 4.29622745513916, cost time: 13.197110414505005
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 436 / 500 ============================
+D loss: 0.11727523803710938, G loss: -8.073506355285645, Wasserstein_D: 3.2642927169799805, cost time: 13.238702774047852
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 437 / 500 ============================
+D loss: -0.485288143157959, G loss: -8.032297134399414, Wasserstein_D: 3.8267250061035156, cost time: 13.213865756988525
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 438 / 500 ============================
+D loss: -1.1656079292297363, G loss: -6.7881011962890625, Wasserstein_D: 4.160961151123047, cost time: 13.00676679611206
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 439 / 500 ============================
+D loss: -1.1996872425079346, G loss: -3.712128162384033, Wasserstein_D: 4.457381248474121, cost time: 13.139823198318481
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 440 / 500 ============================
+D loss: -0.39119815826416016, G loss: -8.279949188232422, Wasserstein_D: 3.848836898803711, cost time: 13.354656457901001
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 441 / 500 ============================
+D loss: -1.0015482902526855, G loss: -5.353399753570557, Wasserstein_D: 4.524835586547852, cost time: 13.057765245437622
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 442 / 500 ============================
+D loss: 0.5784890651702881, G loss: -6.906730651855469, Wasserstein_D: 3.26273250579834, cost time: 13.166436195373535
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 443 / 500 ============================
+D loss: -0.17087030410766602, G loss: -7.027838706970215, Wasserstein_D: 3.428720474243164, cost time: 13.100166082382202
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 444 / 500 ============================
+D loss: -0.06494879722595215, G loss: -7.373587608337402, Wasserstein_D: 3.888916015625, cost time: 12.989991664886475
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 445 / 500 ============================
+D loss: 0.004139900207519531, G loss: -7.607965469360352, Wasserstein_D: 3.6837997436523438, cost time: 11.652841567993164
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 446 / 500 ============================
+D loss: -0.5089740753173828, G loss: -6.373837471008301, Wasserstein_D: 3.7834300994873047, cost time: 13.07942247390747
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 447 / 500 ============================
+D loss: -0.1650218963623047, G loss: -8.440526008605957, Wasserstein_D: 3.440418243408203, cost time: 13.23031759262085
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 448 / 500 ============================
+D loss: -1.480010747909546, G loss: -8.873322486877441, Wasserstein_D: 4.559902191162109, cost time: 13.96945858001709
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 449 / 500 ============================
+D loss: 0.005861997604370117, G loss: -8.461310386657715, Wasserstein_D: 3.8417787551879883, cost time: 13.445676803588867
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 450 / 500 ============================
+D loss: 0.04040694236755371, G loss: -8.650962829589844, Wasserstein_D: 3.3093338012695312, cost time: 13.23188066482544
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 451 / 500 ============================
+D loss: 0.720212459564209, G loss: -4.95051908493042, Wasserstein_D: 2.649293899536133, cost time: 13.369226217269897
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 452 / 500 ============================
+D loss: -0.47374582290649414, G loss: -8.268709182739258, Wasserstein_D: 4.062750816345215, cost time: 13.204220294952393
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 453 / 500 ============================
+D loss: -0.40605688095092773, G loss: -6.745678424835205, Wasserstein_D: 3.368903160095215, cost time: 13.191118001937866
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 454 / 500 ============================
+D loss: 0.5077228546142578, G loss: -8.946199417114258, Wasserstein_D: 2.7711668014526367, cost time: 13.51445460319519
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 455 / 500 ============================
+D loss: -0.18865299224853516, G loss: -7.218911170959473, Wasserstein_D: 3.372805595397949, cost time: 11.993181943893433
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 456 / 500 ============================
+D loss: -0.053050994873046875, G loss: -7.500936985015869, Wasserstein_D: 3.523500442504883, cost time: 13.368760585784912
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 457 / 500 ============================
+D loss: -0.18793535232543945, G loss: -7.768553733825684, Wasserstein_D: 3.2844486236572266, cost time: 13.345139265060425
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 458 / 500 ============================
+D loss: -0.9339079856872559, G loss: -9.681888580322266, Wasserstein_D: 4.049596786499023, cost time: 13.063374757766724
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 459 / 500 ============================
+D loss: -0.6194279193878174, G loss: -8.036672592163086, Wasserstein_D: 3.660813331604004, cost time: 12.836943626403809
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 460 / 500 ============================
+D loss: -0.015653610229492188, G loss: -8.275348663330078, Wasserstein_D: 3.146169662475586, cost time: 13.11515188217163
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 461 / 500 ============================
+D loss: -0.16969966888427734, G loss: -7.221661567687988, Wasserstein_D: 3.7649765014648438, cost time: 13.119632720947266
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 462 / 500 ============================
+D loss: -1.0681447982788086, G loss: -6.654626846313477, Wasserstein_D: 4.222406387329102, cost time: 16.012224674224854
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 463 / 500 ============================
+D loss: 0.4399259090423584, G loss: -7.111773490905762, Wasserstein_D: 3.1957035064697266, cost time: 14.889200925827026
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 464 / 500 ============================
+D loss: -0.36869359016418457, G loss: -7.908323287963867, Wasserstein_D: 3.793318748474121, cost time: 14.33849835395813
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 465 / 500 ============================
+D loss: -0.6567625999450684, G loss: -7.228761672973633, Wasserstein_D: 3.6596450805664062, cost time: 13.67850923538208
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 466 / 500 ============================
+D loss: -0.5909619331359863, G loss: -8.142367362976074, Wasserstein_D: 3.960024833679199, cost time: 14.323934555053711
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 467 / 500 ============================
+D loss: 0.04232621192932129, G loss: -7.663081645965576, Wasserstein_D: 3.1446590423583984, cost time: 14.47460150718689
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 468 / 500 ============================
+D loss: -0.7079238891601562, G loss: -6.978575706481934, Wasserstein_D: 4.628308296203613, cost time: 14.150367259979248
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 469 / 500 ============================
+D loss: 0.15201187133789062, G loss: -9.361778259277344, Wasserstein_D: 3.6538429260253906, cost time: 13.797013282775879
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 470 / 500 ============================
+D loss: -0.9552042484283447, G loss: -8.115921020507812, Wasserstein_D: 4.074933052062988, cost time: 13.392862319946289
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 471 / 500 ============================
+D loss: 0.6079363822937012, G loss: -8.191153526306152, Wasserstein_D: 2.978914260864258, cost time: 14.258862733840942
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 472 / 500 ============================
+D loss: -0.7387781143188477, G loss: -7.536778926849365, Wasserstein_D: 4.2385149002075195, cost time: 14.449052333831787
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 473 / 500 ============================
+D loss: -0.18763256072998047, G loss: -7.607438087463379, Wasserstein_D: 3.63753604888916, cost time: 13.773360013961792
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 474 / 500 ============================
+D loss: -0.22597503662109375, G loss: -7.414716720581055, Wasserstein_D: 4.215914726257324, cost time: 14.63186764717102
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 475 / 500 ============================
+D loss: -0.12320232391357422, G loss: -7.854501724243164, Wasserstein_D: 3.6349668502807617, cost time: 14.468134641647339
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 476 / 500 ============================
+D loss: -0.5169126987457275, G loss: -7.4731292724609375, Wasserstein_D: 3.8865013122558594, cost time: 12.555261611938477
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 477 / 500 ============================
+D loss: -0.5741608142852783, G loss: -8.437686920166016, Wasserstein_D: 3.672304153442383, cost time: 13.860842943191528
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 478 / 500 ============================
+D loss: -1.407742977142334, G loss: -8.432836532592773, Wasserstein_D: 4.289252281188965, cost time: 14.531920194625854
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 479 / 500 ============================
+D loss: -0.5689713954925537, G loss: -7.860597133636475, Wasserstein_D: 4.434399604797363, cost time: 13.568414449691772
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 480 / 500 ============================
+D loss: -0.3613412380218506, G loss: -4.669130802154541, Wasserstein_D: 3.3296213150024414, cost time: 13.427581071853638
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 481 / 500 ============================
+D loss: -1.0149602890014648, G loss: -8.846860885620117, Wasserstein_D: 3.996993064880371, cost time: 13.463893175125122
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 482 / 500 ============================
+D loss: -0.8513202667236328, G loss: -8.7717866897583, Wasserstein_D: 4.308708190917969, cost time: 13.954679727554321
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 483 / 500 ============================
+D loss: -0.2144458293914795, G loss: -9.382494926452637, Wasserstein_D: 3.5976505279541016, cost time: 14.01861047744751
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 484 / 500 ============================
+D loss: 0.1557927131652832, G loss: -8.616535186767578, Wasserstein_D: 3.975733757019043, cost time: 13.902790307998657
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 485 / 500 ============================
+D loss: -1.4487559795379639, G loss: -6.8641815185546875, Wasserstein_D: 4.469358444213867, cost time: 13.826417922973633
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 486 / 500 ============================
+D loss: 0.2370922565460205, G loss: -8.46970272064209, Wasserstein_D: 3.536985397338867, cost time: 12.37000298500061
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 487 / 500 ============================
+D loss: -0.08759069442749023, G loss: -6.474112510681152, Wasserstein_D: 4.158574104309082, cost time: 13.20893931388855
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 488 / 500 ============================
+D loss: -0.30623745918273926, G loss: -7.946602821350098, Wasserstein_D: 3.872788429260254, cost time: 13.761660099029541
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 489 / 500 ============================
+D loss: 0.1834242343902588, G loss: -8.884929656982422, Wasserstein_D: 3.094841957092285, cost time: 14.279627084732056
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 490 / 500 ============================
+D loss: -0.04536557197570801, G loss: -8.769346237182617, Wasserstein_D: 3.4527807235717773, cost time: 13.183239459991455
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 491 / 500 ============================
+D loss: 0.24329423904418945, G loss: -7.6178460121154785, Wasserstein_D: 3.374279022216797, cost time: 13.448935508728027
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 492 / 500 ============================
+D loss: -0.36293935775756836, G loss: -9.490752220153809, Wasserstein_D: 3.7952194213867188, cost time: 15.032051801681519
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 493 / 500 ============================
+D loss: -0.08130216598510742, G loss: -8.544790267944336, Wasserstein_D: 3.360011100769043, cost time: 14.152181148529053
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 494 / 500 ============================
+D loss: -0.3263363838195801, G loss: -7.581510543823242, Wasserstein_D: 3.819795608520508, cost time: 13.95507550239563
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 495 / 500 ============================
+D loss: -0.17130541801452637, G loss: -7.604517459869385, Wasserstein_D: 3.6208372116088867, cost time: 14.319160461425781
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 496 / 500 ============================
+D loss: -0.038512229919433594, G loss: -8.562154769897461, Wasserstein_D: 3.1088504791259766, cost time: 13.772844552993774
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 497 / 500 ============================
+D loss: -0.9378318786621094, G loss: -8.683823585510254, Wasserstein_D: 4.127723693847656, cost time: 13.283529043197632
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 498 / 500 ============================
+D loss: -0.6221976280212402, G loss: -9.254179954528809, Wasserstein_D: 3.8612241744995117, cost time: 13.670815467834473
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 499 / 500 ============================
+D loss: 0.09297490119934082, G loss: -8.116386413574219, Wasserstein_D: 3.6258935928344727, cost time: 13.440608263015747
+Models save to wgan-generator.pth & wgan-discriminator.pth
+Epoch: 500 / 500 ============================
+D loss: 0.24849414825439453, G loss: -8.46212387084961, Wasserstein_D: 2.9363107681274414, cost time: 13.535722970962524
+Models save to wgan-generator.pth & wgan-discriminator.pth

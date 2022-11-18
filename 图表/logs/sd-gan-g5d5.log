@@ -1,0 +1,2001 @@
+No trained_models found, init new trained_models
+Epoch: 1 / 500 ============================
+D loss: 0.0957614928483963, G loss: 0.023014936596155167, cost time: 5.45846152305603
+d_loss_real: 0.9310637712478638, d_loss_fake: 0.09095047414302826, g_loss_fake: 0.9773454666137695
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 2 / 500 ============================
+D loss: 0.07383939623832703, G loss: 0.040700070559978485, cost time: 4.1966633796691895
+d_loss_real: 0.8970140218734741, d_loss_fake: 0.03208853304386139, g_loss_fake: 0.9608372449874878
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 3 / 500 ============================
+D loss: 0.05036276951432228, G loss: 0.06329097598791122, cost time: 4.391459703445435
+d_loss_real: 0.9122145771980286, d_loss_fake: 0.005757411476224661, g_loss_fake: 0.9394147992134094
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 4 / 500 ============================
+D loss: 0.07145288586616516, G loss: 0.08287075906991959, cost time: 4.264626979827881
+d_loss_real: 0.8866174221038818, d_loss_fake: 0.017092261463403702, g_loss_fake: 0.9219965934753418
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 5 / 500 ============================
+D loss: 0.03309212625026703, G loss: 0.20767851173877716, cost time: 4.177356004714966
+d_loss_real: 0.9439977407455444, d_loss_fake: 0.007874615490436554, g_loss_fake: 0.8183634281158447
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 6 / 500 ============================
+D loss: 0.029597215354442596, G loss: 0.07318185269832611, cost time: 4.69810676574707
+d_loss_real: 0.9505528211593628, d_loss_fake: 0.005957142449915409, g_loss_fake: 0.930550754070282
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 7 / 500 ============================
+D loss: 0.05490066111087799, G loss: 0.06566357612609863, cost time: 4.340964317321777
+d_loss_real: 0.9371238946914673, d_loss_fake: 0.03509753197431564, g_loss_fake: 0.9375457763671875
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 8 / 500 ============================
+D loss: 0.036035455763339996, G loss: 0.11422358453273773, cost time: 4.38671350479126
+d_loss_real: 0.9482346773147583, d_loss_fake: 0.011355842463672161, g_loss_fake: 0.8995312452316284
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 9 / 500 ============================
+D loss: 0.019309137016534805, G loss: 0.1427430361509323, cost time: 4.276362180709839
+d_loss_real: 0.9695148468017578, d_loss_fake: 0.006818175315856934, g_loss_fake: 0.8712679147720337
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 10 / 500 ============================
+D loss: 0.02907140739262104, G loss: 0.26724791526794434, cost time: 4.282229423522949
+d_loss_real: 0.9470994472503662, d_loss_fake: 0.002284473739564419, g_loss_fake: 0.7777103185653687
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 11 / 500 ============================
+D loss: 0.01878708228468895, G loss: 0.4576682448387146, cost time: 4.166776418685913
+d_loss_real: 0.966511607170105, d_loss_fake: 0.002970187459141016, g_loss_fake: 0.6436855792999268
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 12 / 500 ============================
+D loss: 0.016741156578063965, G loss: 0.5078603029251099, cost time: 4.39301609992981
+d_loss_real: 0.9714946150779724, d_loss_fake: 0.004043387249112129, g_loss_fake: 0.6280406713485718
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 13 / 500 ============================
+D loss: 0.020769016817212105, G loss: 0.6290658712387085, cost time: 4.1795432567596436
+d_loss_real: 0.9642159342765808, d_loss_fake: 0.004511975683271885, g_loss_fake: 0.5475401282310486
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 14 / 500 ============================
+D loss: 0.055274348706007004, G loss: 0.46877050399780273, cost time: 4.211846590042114
+d_loss_real: 0.9153007864952087, d_loss_fake: 0.0033886737655848265, g_loss_fake: 0.6329801082611084
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 15 / 500 ============================
+D loss: 0.016694070771336555, G loss: 0.8725710511207581, cost time: 4.2826104164123535
+d_loss_real: 0.970626711845398, d_loss_fake: 0.003256012685596943, g_loss_fake: 0.4329528510570526
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 16 / 500 ============================
+D loss: 0.024639049544930458, G loss: 1.880276083946228, cost time: 4.214900970458984
+d_loss_real: 0.9538460969924927, d_loss_fake: 0.0011006437707692385, g_loss_fake: 0.25159862637519836
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 17 / 500 ============================
+D loss: 0.3462367653846741, G loss: 1.5037846565246582, cost time: 4.288793325424194
+d_loss_real: 0.8483374714851379, d_loss_fake: 0.002070932649075985, g_loss_fake: 0.2322228103876114
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 18 / 500 ============================
+D loss: 0.01717798411846161, G loss: 1.3570551872253418, cost time: 4.302482604980469
+d_loss_real: 0.9679818153381348, d_loss_fake: 0.001249590888619423, g_loss_fake: 0.2704916000366211
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 19 / 500 ============================
+D loss: 0.010310156270861626, G loss: 2.5758676528930664, cost time: 4.385403633117676
+d_loss_real: 0.9813410043716431, d_loss_fake: 0.001605300814844668, g_loss_fake: 0.07867768406867981
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 20 / 500 ============================
+D loss: 0.017392577603459358, G loss: 0.7080723643302917, cost time: 4.590865612030029
+d_loss_real: 0.9687352180480957, d_loss_fake: 0.0023287839721888304, g_loss_fake: 0.510205864906311
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 21 / 500 ============================
+D loss: 0.01184444036334753, G loss: 2.7661728858947754, cost time: 4.47017240524292
+d_loss_real: 0.9776893854141235, d_loss_fake: 0.000972609268501401, g_loss_fake: 0.06465506553649902
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 22 / 500 ============================
+D loss: 0.035591140389442444, G loss: 0.6385097503662109, cost time: 4.814192533493042
+d_loss_real: 0.948062539100647, d_loss_fake: 0.014321121387183666, g_loss_fake: 0.5485867261886597
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 23 / 500 ============================
+D loss: 0.022122761234641075, G loss: 2.074007987976074, cost time: 4.173840284347534
+d_loss_real: 0.9577286839485168, d_loss_fake: 0.00037820349098183215, g_loss_fake: 0.15276981890201569
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 24 / 500 ============================
+D loss: 0.01587541401386261, G loss: 1.5893338918685913, cost time: 4.385124683380127
+d_loss_real: 0.9709280729293823, d_loss_fake: 0.0020857288036495447, g_loss_fake: 0.22362759709358215
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 25 / 500 ============================
+D loss: 0.0661570131778717, G loss: 2.427973747253418, cost time: 4.488980531692505
+d_loss_real: 0.887489914894104, d_loss_fake: 0.0016586286947131157, g_loss_fake: 0.12103236466646194
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 26 / 500 ============================
+D loss: 0.009846825152635574, G loss: 1.8104766607284546, cost time: 4.2852842807769775
+d_loss_real: 0.9850382804870605, d_loss_fake: 0.004310648888349533, g_loss_fake: 0.20579969882965088
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 27 / 500 ============================
+D loss: 0.004379298072308302, G loss: 3.4255776405334473, cost time: 4.383516311645508
+d_loss_real: 0.9922537803649902, d_loss_fake: 0.0009723545517772436, g_loss_fake: 0.04181413725018501
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 28 / 500 ============================
+D loss: 0.03238455206155777, G loss: 2.0713393688201904, cost time: 4.64941143989563
+d_loss_real: 0.9541148543357849, d_loss_fake: 0.01290200836956501, g_loss_fake: 0.13656167685985565
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 29 / 500 ============================
+D loss: 0.01719919592142105, G loss: 2.5228610038757324, cost time: 4.451339483261108
+d_loss_real: 0.9714272618293762, d_loss_fake: 0.003970541059970856, g_loss_fake: 0.0874447375535965
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 30 / 500 ============================
+D loss: 0.009752572514116764, G loss: 2.8961844444274902, cost time: 4.644249200820923
+d_loss_real: 0.9865475296974182, d_loss_fake: 0.0057981438003480434, g_loss_fake: 0.06966778635978699
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 31 / 500 ============================
+D loss: 0.007939845323562622, G loss: 3.0017240047454834, cost time: 4.602506399154663
+d_loss_real: 0.9883646965026855, d_loss_fake: 0.004123472608625889, g_loss_fake: 0.05536000058054924
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 32 / 500 ============================
+D loss: 0.006546952296048403, G loss: 3.422454833984375, cost time: 4.500621318817139
+d_loss_real: 0.9897679090499878, d_loss_fake: 0.002648953115567565, g_loss_fake: 0.03627541661262512
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 33 / 500 ============================
+D loss: 0.005057269707322121, G loss: 2.3627352714538574, cost time: 4.512553453445435
+d_loss_real: 0.9973652362823486, d_loss_fake: 0.007440872956067324, g_loss_fake: 0.10454496741294861
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 34 / 500 ============================
+D loss: 0.0019573867321014404, G loss: 1.373536229133606, cost time: 4.595673322677612
+d_loss_real: 0.9983116984367371, d_loss_fake: 0.0022197584621608257, g_loss_fake: 0.2701511085033417
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 35 / 500 ============================
+D loss: 0.00031570554710924625, G loss: 4.195842742919922, cost time: 4.474136590957642
+d_loss_real: 0.9993871450424194, d_loss_fake: 1.8187041860073805e-05, g_loss_fake: 0.017101697623729706
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 36 / 500 ============================
+D loss: 0.003537533339112997, G loss: 1.442307949066162, cost time: 4.201941251754761
+d_loss_real: 0.9967578649520874, d_loss_fake: 0.0037978452164679766, g_loss_fake: 0.35974839329719543
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 37 / 500 ============================
+D loss: 0.0002888072922360152, G loss: 0.00046683032996952534, cost time: 4.293308258056641
+d_loss_real: 0.9997888803482056, d_loss_fake: 0.0003662758390419185, g_loss_fake: 0.9995335340499878
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 38 / 500 ============================
+D loss: 0.21910569071769714, G loss: 0.05344376713037491, cost time: 4.484196186065674
+d_loss_real: 0.7786674499511719, d_loss_fake: 0.008524186909198761, g_loss_fake: 0.9499882459640503
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 39 / 500 ============================
+D loss: 1.5146328210830688, G loss: 0.6944482326507568, cost time: 4.276562452316284
+d_loss_real: 0.10072244703769684, d_loss_fake: 0.026148507371544838, g_loss_fake: 0.5340084433555603
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 40 / 500 ============================
+D loss: 0.3412548005580902, G loss: 0.3848959803581238, cost time: 4.310097932815552
+d_loss_real: 0.6537932753562927, d_loss_fake: 0.19396476447582245, g_loss_fake: 0.6948199272155762
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 41 / 500 ============================
+D loss: 0.1185278445482254, G loss: 0.4820832908153534, cost time: 4.500371217727661
+d_loss_real: 0.878656268119812, d_loss_fake: 0.09523323178291321, g_loss_fake: 0.6338286399841309
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 42 / 500 ============================
+D loss: 0.46933677792549133, G loss: 0.7021234631538391, cost time: 4.517759799957275
+d_loss_real: 0.5727205276489258, d_loss_fake: 0.14182986319065094, g_loss_fake: 0.5231665968894958
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 43 / 500 ============================
+D loss: 0.29018187522888184, G loss: 0.9519567489624023, cost time: 4.602187871932983
+d_loss_real: 0.7746084928512573, d_loss_fake: 0.1963328719139099, g_loss_fake: 0.43723833560943604
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 44 / 500 ============================
+D loss: 0.3104850649833679, G loss: 1.217885136604309, cost time: 4.516503095626831
+d_loss_real: 0.823166012763977, d_loss_fake: 0.3008699119091034, g_loss_fake: 0.3500809669494629
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 45 / 500 ============================
+D loss: 0.24578970670700073, G loss: 0.3801334500312805, cost time: 4.45641303062439
+d_loss_real: 0.685950756072998, d_loss_fake: 0.07766088843345642, g_loss_fake: 0.6888666152954102
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 46 / 500 ============================
+D loss: 0.22574840486049652, G loss: 0.6014591455459595, cost time: 4.142326354980469
+d_loss_real: 0.7251734733581543, d_loss_fake: 0.08116224408149719, g_loss_fake: 0.5663377642631531
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 47 / 500 ============================
+D loss: 0.29286351799964905, G loss: 0.6104614734649658, cost time: 4.182668447494507
+d_loss_real: 0.8167283535003662, d_loss_fake: 0.3059813380241394, g_loss_fake: 0.5613005757331848
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 48 / 500 ============================
+D loss: 0.5451916456222534, G loss: 0.7579365968704224, cost time: 4.151008129119873
+d_loss_real: 0.8003110885620117, d_loss_fake: 0.5568627119064331, g_loss_fake: 0.4764849543571472
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 49 / 500 ============================
+D loss: 0.36918866634368896, G loss: 0.46561795473098755, cost time: 4.249115705490112
+d_loss_real: 0.7943171262741089, d_loss_fake: 0.38350069522857666, g_loss_fake: 0.6440002918243408
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 50 / 500 ============================
+D loss: 0.3340669870376587, G loss: 1.1002575159072876, cost time: 4.431188583374023
+d_loss_real: 0.6701642274856567, d_loss_fake: 0.22340044379234314, g_loss_fake: 0.34881383180618286
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 51 / 500 ============================
+D loss: 0.2525957226753235, G loss: 0.6431562900543213, cost time: 4.320601224899292
+d_loss_real: 0.7715473175048828, d_loss_fake: 0.20764578878879547, g_loss_fake: 0.574927806854248
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 52 / 500 ============================
+D loss: 0.38082921504974365, G loss: 0.5569075345993042, cost time: 4.308418035507202
+d_loss_real: 0.5619250535964966, d_loss_fake: 0.09870591759681702, g_loss_fake: 0.5924068689346313
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 53 / 500 ============================
+D loss: 0.32094651460647583, G loss: 0.612179160118103, cost time: 4.223138809204102
+d_loss_real: 0.6772024631500244, d_loss_fake: 0.21369865536689758, g_loss_fake: 0.5563362240791321
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 54 / 500 ============================
+D loss: 0.3856703042984009, G loss: 0.7258822917938232, cost time: 4.315407752990723
+d_loss_real: 0.5421794056892395, d_loss_fake: 0.1079438105225563, g_loss_fake: 0.49701863527297974
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 55 / 500 ============================
+D loss: 0.32475748658180237, G loss: 0.3648937940597534, cost time: 4.213078022003174
+d_loss_real: 0.6934456825256348, d_loss_fake: 0.21703696250915527, g_loss_fake: 0.7020304203033447
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 56 / 500 ============================
+D loss: 0.23235028982162476, G loss: 0.9330702424049377, cost time: 4.383580923080444
+d_loss_real: 0.8750042915344238, d_loss_fake: 0.27558469772338867, g_loss_fake: 0.4206434488296509
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 57 / 500 ============================
+D loss: 0.12385611981153488, G loss: 0.5163280963897705, cost time: 4.2106781005859375
+d_loss_real: 0.8485991954803467, d_loss_fake: 0.07644951343536377, g_loss_fake: 0.6800728440284729
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 58 / 500 ============================
+D loss: 0.2129889875650406, G loss: 0.32925617694854736, cost time: 4.313020706176758
+d_loss_real: 0.7269446849822998, d_loss_fake: 0.09244444221258163, g_loss_fake: 0.7301199436187744
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 59 / 500 ============================
+D loss: 0.2249816358089447, G loss: 0.38010174036026, cost time: 4.401690483093262
+d_loss_real: 0.7769606113433838, d_loss_fake: 0.1516137421131134, g_loss_fake: 0.6870229244232178
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 60 / 500 ============================
+D loss: 0.26977330446243286, G loss: 0.37610605359077454, cost time: 4.527879953384399
+d_loss_real: 0.6678075194358826, d_loss_fake: 0.09557884931564331, g_loss_fake: 0.7196200489997864
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 61 / 500 ============================
+D loss: 0.12735572457313538, G loss: 0.5604500770568848, cost time: 4.506269693374634
+d_loss_real: 0.8765918612480164, d_loss_fake: 0.11271502077579498, g_loss_fake: 0.5863453149795532
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 62 / 500 ============================
+D loss: 0.16776759922504425, G loss: 1.0135587453842163, cost time: 4.250988006591797
+d_loss_real: 0.8397616147994995, d_loss_fake: 0.14488378167152405, g_loss_fake: 0.39045098423957825
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 63 / 500 ============================
+D loss: 0.2726798951625824, G loss: 0.1485009491443634, cost time: 4.401417255401611
+d_loss_real: 0.6291892528533936, d_loss_fake: 0.0754714235663414, g_loss_fake: 0.8631452322006226
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 64 / 500 ============================
+D loss: 0.2445676028728485, G loss: 1.4968286752700806, cost time: 4.546580791473389
+d_loss_real: 0.8494685888290405, d_loss_fake: 0.2736811637878418, g_loss_fake: 0.24978123605251312
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 65 / 500 ============================
+D loss: 0.11363542824983597, G loss: 0.5922926664352417, cost time: 4.409128189086914
+d_loss_real: 0.8791465163230896, d_loss_fake: 0.09114377200603485, g_loss_fake: 0.5604879856109619
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 66 / 500 ============================
+D loss: 0.15393280982971191, G loss: 0.4819652736186981, cost time: 4.608748197555542
+d_loss_real: 0.9048656225204468, d_loss_fake: 0.1858064979314804, g_loss_fake: 0.6369843482971191
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 67 / 500 ============================
+D loss: 0.18881672620773315, G loss: 0.5574429035186768, cost time: 4.57829737663269
+d_loss_real: 0.8045971393585205, d_loss_fake: 0.14606411755084991, g_loss_fake: 0.5839404463768005
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 68 / 500 ============================
+D loss: 0.17123405635356903, G loss: 0.47400569915771484, cost time: 4.2141337394714355
+d_loss_real: 0.8120341300964355, d_loss_fake: 0.11575423181056976, g_loss_fake: 0.6312235593795776
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 69 / 500 ============================
+D loss: 0.39885973930358887, G loss: 0.22718201577663422, cost time: 4.323238134384155
+d_loss_real: 0.4995086193084717, d_loss_fake: 0.07458797842264175, g_loss_fake: 0.8014594316482544
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 70 / 500 ============================
+D loss: 0.45813846588134766, G loss: 1.475268840789795, cost time: 4.283076763153076
+d_loss_real: 0.7238397598266602, d_loss_fake: 0.37606263160705566, g_loss_fake: 0.2492988407611847
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 71 / 500 ============================
+D loss: 0.29472893476486206, G loss: 0.2802064120769501, cost time: 4.214419603347778
+d_loss_real: 0.6399861574172974, d_loss_fake: 0.09413084387779236, g_loss_fake: 0.7580305337905884
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 72 / 500 ============================
+D loss: 0.359020471572876, G loss: 0.8392386436462402, cost time: 4.325814962387085
+d_loss_real: 0.7264257669448853, d_loss_fake: 0.2626686990261078, g_loss_fake: 0.491364985704422
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 73 / 500 ============================
+D loss: 0.11589562892913818, G loss: 1.47947359085083, cost time: 4.203026056289673
+d_loss_real: 0.8726498484611511, d_loss_fake: 0.08949089050292969, g_loss_fake: 0.24581235647201538
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 74 / 500 ============================
+D loss: 0.11500284075737, G loss: 0.8051387071609497, cost time: 4.218900918960571
+d_loss_real: 0.8351123332977295, d_loss_fake: 0.03945508226752281, g_loss_fake: 0.4817086458206177
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 75 / 500 ============================
+D loss: 0.32723596692085266, G loss: 0.3826357126235962, cost time: 4.1420722007751465
+d_loss_real: 0.5600327253341675, d_loss_fake: 0.04555276036262512, g_loss_fake: 0.6927796602249146
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 76 / 500 ============================
+D loss: 0.40997323393821716, G loss: 1.2209503650665283, cost time: 4.575053930282593
+d_loss_real: 0.6451470851898193, d_loss_fake: 0.29605481028556824, g_loss_fake: 0.3082468509674072
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 77 / 500 ============================
+D loss: 0.12509185075759888, G loss: 0.3620884418487549, cost time: 4.4859395027160645
+d_loss_real: 0.941912829875946, d_loss_fake: 0.17035651206970215, g_loss_fake: 0.7037363648414612
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 78 / 500 ============================
+D loss: 0.5236603617668152, G loss: 0.16000978648662567, cost time: 4.3154237270355225
+d_loss_real: 0.41033750772476196, d_loss_fake: 0.0928448885679245, g_loss_fake: 0.8537722826004028
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 79 / 500 ============================
+D loss: 0.28260093927383423, G loss: 0.5578430891036987, cost time: 4.51839804649353
+d_loss_real: 0.7526239156723022, d_loss_fake: 0.23830726742744446, g_loss_fake: 0.5814542770385742
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 80 / 500 ============================
+D loss: 0.25584903359413147, G loss: 0.8088980913162231, cost time: 4.302484512329102
+d_loss_real: 0.7216583490371704, d_loss_fake: 0.15319639444351196, g_loss_fake: 0.4527539014816284
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 81 / 500 ============================
+D loss: 0.2304147481918335, G loss: 0.499347448348999, cost time: 4.2878098487854
+d_loss_real: 0.7175982594490051, d_loss_fake: 0.11117234826087952, g_loss_fake: 0.6166198253631592
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 82 / 500 ============================
+D loss: 0.22408950328826904, G loss: 0.6408898830413818, cost time: 4.439483404159546
+d_loss_real: 0.7674158811569214, d_loss_fake: 0.15235674381256104, g_loss_fake: 0.5469309091567993
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 83 / 500 ============================
+D loss: 0.19867095351219177, G loss: 0.7761147022247314, cost time: 4.585620403289795
+d_loss_real: 0.7624914646148682, d_loss_fake: 0.101996511220932, g_loss_fake: 0.4766486883163452
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 84 / 500 ============================
+D loss: 0.3779977560043335, G loss: 0.7428066730499268, cost time: 4.702913522720337
+d_loss_real: 0.8013403415679932, d_loss_fake: 0.35812878608703613, g_loss_fake: 0.5290758013725281
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 85 / 500 ============================
+D loss: 0.22492018342018127, G loss: 1.2311517000198364, cost time: 4.518166780471802
+d_loss_real: 0.9418561458587646, d_loss_fake: 0.31874507665634155, g_loss_fake: 0.3318769931793213
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 86 / 500 ============================
+D loss: 0.1712624430656433, G loss: 0.44139814376831055, cost time: 4.724273920059204
+d_loss_real: 0.7422345876693726, d_loss_fake: 0.04074445366859436, g_loss_fake: 0.649194598197937
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 87 / 500 ============================
+D loss: 0.1553313434123993, G loss: 0.3416067063808441, cost time: 4.3232269287109375
+d_loss_real: 0.8128103613853455, d_loss_fake: 0.09256038069725037, g_loss_fake: 0.7215415835380554
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 88 / 500 ============================
+D loss: 0.17593583464622498, G loss: 1.0705103874206543, cost time: 4.765557765960693
+d_loss_real: 0.8006035089492798, d_loss_fake: 0.11722874641418457, g_loss_fake: 0.37183675169944763
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 89 / 500 ============================
+D loss: 0.09796267002820969, G loss: 0.6517482995986938, cost time: 4.38826322555542
+d_loss_real: 0.9408574104309082, d_loss_fake: 0.12502945959568024, g_loss_fake: 0.5279868841171265
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 90 / 500 ============================
+D loss: 0.09313583374023438, G loss: 1.94109308719635, cost time: 4.3099684715271
+d_loss_real: 0.9212045669555664, d_loss_fake: 0.09712603688240051, g_loss_fake: 0.16014444828033447
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 91 / 500 ============================
+D loss: 0.07368029654026031, G loss: 0.6133906841278076, cost time: 4.518457651138306
+d_loss_real: 0.8988345265388489, d_loss_fake: 0.03571466729044914, g_loss_fake: 0.548518180847168
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 92 / 500 ============================
+D loss: 0.12274453043937683, G loss: 0.6481468081474304, cost time: 4.311892509460449
+d_loss_real: 0.8560500144958496, d_loss_fake: 0.08206558227539062, g_loss_fake: 0.541029691696167
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 93 / 500 ============================
+D loss: 0.47585415840148926, G loss: 0.536563515663147, cost time: 4.321201801300049
+d_loss_real: 0.9461957216262817, d_loss_fake: 0.589808464050293, g_loss_fake: 0.5985158085823059
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 94 / 500 ============================
+D loss: 0.226436585187912, G loss: 0.36652374267578125, cost time: 4.296297788619995
+d_loss_real: 0.7349697351455688, d_loss_fake: 0.12067215144634247, g_loss_fake: 0.6961364150047302
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 95 / 500 ============================
+D loss: 0.3267577290534973, G loss: 1.1383812427520752, cost time: 4.284203290939331
+d_loss_real: 0.8889667391777039, d_loss_fake: 0.3969101309776306, g_loss_fake: 0.365504652261734
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 96 / 500 ============================
+D loss: 0.4735027253627777, G loss: 0.16635969281196594, cost time: 4.382507085800171
+d_loss_real: 0.4344649910926819, d_loss_fake: 0.033993180841207504, g_loss_fake: 0.8481037616729736
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 97 / 500 ============================
+D loss: 0.25856852531433105, G loss: 0.47116345167160034, cost time: 4.315831184387207
+d_loss_real: 0.7639567255973816, d_loss_fake: 0.21555748581886292, g_loss_fake: 0.6326992511749268
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 98 / 500 ============================
+D loss: 0.3470580279827118, G loss: 0.3924577236175537, cost time: 4.221824407577515
+d_loss_real: 0.8781425356864929, d_loss_fake: 0.42365798354148865, g_loss_fake: 0.6945713758468628
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 99 / 500 ============================
+D loss: 0.0942206159234047, G loss: 0.41273659467697144, cost time: 4.18208909034729
+d_loss_real: 0.8898800611495972, d_loss_fake: 0.06865236163139343, g_loss_fake: 0.6735487580299377
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 100 / 500 ============================
+D loss: 0.35980451107025146, G loss: 0.3048757314682007, cost time: 4.422491788864136
+d_loss_real: 0.9169176816940308, d_loss_fake: 0.46050283312797546, g_loss_fake: 0.7503166198730469
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 101 / 500 ============================
+D loss: 0.1648464798927307, G loss: 0.4442727863788605, cost time: 4.306654930114746
+d_loss_real: 0.8593581914901733, d_loss_fake: 0.1583603024482727, g_loss_fake: 0.6597752571105957
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 102 / 500 ============================
+D loss: 0.2245514988899231, G loss: 0.34893733263015747, cost time: 4.214202642440796
+d_loss_real: 0.8459100723266602, d_loss_fake: 0.24083933234214783, g_loss_fake: 0.7112319469451904
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 103 / 500 ============================
+D loss: 0.1371544897556305, G loss: 0.4131506085395813, cost time: 4.300399303436279
+d_loss_real: 0.9215697050094604, d_loss_fake: 0.1733875870704651, g_loss_fake: 0.6726993322372437
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 104 / 500 ============================
+D loss: 0.18606092035770416, G loss: 1.0446094274520874, cost time: 4.30611777305603
+d_loss_real: 0.8079022169113159, d_loss_fake: 0.1358734667301178, g_loss_fake: 0.38797473907470703
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 105 / 500 ============================
+D loss: 0.19666576385498047, G loss: 0.578951358795166, cost time: 4.309011697769165
+d_loss_real: 0.8513342142105103, d_loss_fake: 0.19348061084747314, g_loss_fake: 0.58335280418396
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 106 / 500 ============================
+D loss: 0.3504614531993866, G loss: 0.565782368183136, cost time: 4.409914493560791
+d_loss_real: 0.6641016006469727, d_loss_fake: 0.22447416186332703, g_loss_fake: 0.5947422385215759
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 107 / 500 ============================
+D loss: 0.2866613268852234, G loss: 0.662077784538269, cost time: 4.199474334716797
+d_loss_real: 0.61659836769104, d_loss_fake: 0.06117807701230049, g_loss_fake: 0.5316570997238159
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 108 / 500 ============================
+D loss: 0.12330754101276398, G loss: 3.659478187561035, cost time: 4.212932586669922
+d_loss_real: 0.9023665189743042, d_loss_fake: 0.1315230280160904, g_loss_fake: 0.03520670905709267
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 109 / 500 ============================
+D loss: 0.10124490410089493, G loss: 2.6723742485046387, cost time: 4.2106053829193115
+d_loss_real: 0.8615058064460754, d_loss_fake: 0.039868395775556564, g_loss_fake: 0.0788508728146553
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 110 / 500 ============================
+D loss: 0.10645633935928345, G loss: 4.448095321655273, cost time: 4.425994873046875
+d_loss_real: 0.9163687229156494, d_loss_fake: 0.11573300510644913, g_loss_fake: 0.015326395630836487
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 111 / 500 ============================
+D loss: 0.049999989569187164, G loss: 2.3949971199035645, cost time: 4.190400123596191
+d_loss_real: 0.9421103000640869, d_loss_fake: 0.03898994252085686, g_loss_fake: 0.11343610286712646
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 112 / 500 ============================
+D loss: 0.13695694506168365, G loss: 2.4832966327667236, cost time: 4.359240531921387
+d_loss_real: 0.9019882678985596, d_loss_fake: 0.1508827954530716, g_loss_fake: 0.099532350897789
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 113 / 500 ============================
+D loss: 0.0798012837767601, G loss: 1.5492188930511475, cost time: 4.409719705581665
+d_loss_real: 0.9614880681037903, d_loss_fake: 0.11144457757472992, g_loss_fake: 0.2258734107017517
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 114 / 500 ============================
+D loss: 0.03900400549173355, G loss: 2.9375617504119873, cost time: 4.3817524909973145
+d_loss_real: 0.9711958765983582, d_loss_fake: 0.04712079465389252, g_loss_fake: 0.0625104159116745
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 115 / 500 ============================
+D loss: 0.09416281431913376, G loss: 0.7105560302734375, cost time: 4.583799362182617
+d_loss_real: 0.8839458227157593, d_loss_fake: 0.056250981986522675, g_loss_fake: 0.5093598365783691
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 116 / 500 ============================
+D loss: 0.6723889708518982, G loss: 0.5548732876777649, cost time: 4.594417572021484
+d_loss_real: 0.958860456943512, d_loss_fake: 0.6985841393470764, g_loss_fake: 0.6291162967681885
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 117 / 500 ============================
+D loss: 0.2989000380039215, G loss: 0.4251231849193573, cost time: 4.208590507507324
+d_loss_real: 0.7577447891235352, d_loss_fake: 0.25920912623405457, g_loss_fake: 0.6692763566970825
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 118 / 500 ============================
+D loss: 0.3836064636707306, G loss: 0.33428871631622314, cost time: 4.720785617828369
+d_loss_real: 0.5703212022781372, d_loss_fake: 0.17930428683757782, g_loss_fake: 0.7203677892684937
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 119 / 500 ============================
+D loss: 0.3350297808647156, G loss: 0.4321056008338928, cost time: 4.47087287902832
+d_loss_real: 0.6353791952133179, d_loss_fake: 0.14679984748363495, g_loss_fake: 0.6619598865509033
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 120 / 500 ============================
+D loss: 0.4031316637992859, G loss: 1.3100346326828003, cost time: 4.635129928588867
+d_loss_real: 0.850757360458374, d_loss_fake: 0.445085346698761, g_loss_fake: 0.3293038010597229
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 121 / 500 ============================
+D loss: 0.21852247416973114, G loss: 0.5510383248329163, cost time: 4.375525712966919
+d_loss_real: 0.8747955560684204, d_loss_fake: 0.25229355692863464, g_loss_fake: 0.5856784582138062
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 122 / 500 ============================
+D loss: 0.29023993015289307, G loss: 0.5576167702674866, cost time: 4.591158628463745
+d_loss_real: 0.731985330581665, d_loss_fake: 0.2237786054611206, g_loss_fake: 0.5862846374511719
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 123 / 500 ============================
+D loss: 0.27258992195129395, G loss: 0.7527284622192383, cost time: 4.24578857421875
+d_loss_real: 0.7059147357940674, d_loss_fake: 0.16988468170166016, g_loss_fake: 0.4765871465206146
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 124 / 500 ============================
+D loss: 0.22407683730125427, G loss: 2.822805166244507, cost time: 4.1298911571502686
+d_loss_real: 0.8543870449066162, d_loss_fake: 0.24666932225227356, g_loss_fake: 0.06740531325340271
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 125 / 500 ============================
+D loss: 0.1128104105591774, G loss: 0.9012060165405273, cost time: 4.3393120765686035
+d_loss_real: 0.8537236452102661, d_loss_fake: 0.05614921450614929, g_loss_fake: 0.4124680757522583
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 126 / 500 ============================
+D loss: 0.2804882526397705, G loss: 0.7373019456863403, cost time: 4.225661516189575
+d_loss_real: 0.7069944143295288, d_loss_fake: 0.07957173138856888, g_loss_fake: 0.5141667127609253
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 127 / 500 ============================
+D loss: 0.10740358382463455, G loss: 1.7940399646759033, cost time: 4.718797206878662
+d_loss_real: 0.8858932256698608, d_loss_fake: 0.08427105844020844, g_loss_fake: 0.17701998353004456
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 128 / 500 ============================
+D loss: 0.07853449136018753, G loss: 2.655409336090088, cost time: 4.374128103256226
+d_loss_real: 0.9212018251419067, d_loss_fake: 0.0696311965584755, g_loss_fake: 0.12252440303564072
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 129 / 500 ============================
+D loss: 0.1440330594778061, G loss: 0.775920033454895, cost time: 4.364788055419922
+d_loss_real: 0.8233464956283569, d_loss_fake: 0.07436391711235046, g_loss_fake: 0.4787411093711853
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 130 / 500 ============================
+D loss: 0.2630636692047119, G loss: 0.5317173004150391, cost time: 4.513708829879761
+d_loss_real: 0.7587443590164185, d_loss_fake: 0.1995450258255005, g_loss_fake: 0.6098157167434692
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 131 / 500 ============================
+D loss: 0.2346310019493103, G loss: 0.8829984664916992, cost time: 4.455965995788574
+d_loss_real: 0.9153215289115906, d_loss_fake: 0.3116350769996643, g_loss_fake: 0.42417216300964355
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 132 / 500 ============================
+D loss: 0.10695131123065948, G loss: 0.6405981779098511, cost time: 4.292146921157837
+d_loss_real: 0.8951441049575806, d_loss_fake: 0.09385925531387329, g_loss_fake: 0.5494341850280762
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 133 / 500 ============================
+D loss: 0.29522669315338135, G loss: 0.22774173319339752, cost time: 4.390327453613281
+d_loss_real: 0.6453413963317871, d_loss_fake: 0.10385298728942871, g_loss_fake: 0.7979112267494202
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 134 / 500 ============================
+D loss: 0.25887036323547363, G loss: 0.9666302800178528, cost time: 4.4068803787231445
+d_loss_real: 0.731076180934906, d_loss_fake: 0.1724822223186493, g_loss_fake: 0.42189839482307434
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 135 / 500 ============================
+D loss: 0.10671013593673706, G loss: 3.006617546081543, cost time: 4.394012212753296
+d_loss_real: 0.8997472524642944, d_loss_fake: 0.09784574806690216, g_loss_fake: 0.06909248232841492
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 136 / 500 ============================
+D loss: 0.5376477837562561, G loss: 0.6394230127334595, cost time: 4.472600698471069
+d_loss_real: 0.8689142465591431, d_loss_fake: 0.594517171382904, g_loss_fake: 0.5459235906600952
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 137 / 500 ============================
+D loss: 0.28694331645965576, G loss: 0.42050081491470337, cost time: 4.32094407081604
+d_loss_real: 0.7346431612968445, d_loss_fake: 0.22432783246040344, g_loss_fake: 0.6599730253219604
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 138 / 500 ============================
+D loss: 0.5806652903556824, G loss: 0.45860525965690613, cost time: 4.477898597717285
+d_loss_real: 0.3757569193840027, d_loss_fake: 0.11857502907514572, g_loss_fake: 0.644842267036438
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 139 / 500 ============================
+D loss: 0.35232144594192505, G loss: 1.255662441253662, cost time: 4.2710888385772705
+d_loss_real: 0.6088491082191467, d_loss_fake: 0.17361977696418762, g_loss_fake: 0.30449509620666504
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 140 / 500 ============================
+D loss: 0.2801532745361328, G loss: 1.724771499633789, cost time: 4.45643162727356
+d_loss_real: 0.8662884831428528, d_loss_fake: 0.3079289495944977, g_loss_fake: 0.22688806056976318
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 141 / 500 ============================
+D loss: 0.1337784230709076, G loss: 0.3218385577201843, cost time: 4.441834449768066
+d_loss_real: 0.9046074151992798, d_loss_fake: 0.14047689735889435, g_loss_fake: 0.7338607311248779
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 142 / 500 ============================
+D loss: 0.15216045081615448, G loss: 0.7868514060974121, cost time: 4.722072601318359
+d_loss_real: 0.8436374068260193, d_loss_fake: 0.11917315423488617, g_loss_fake: 0.5278122425079346
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 143 / 500 ============================
+D loss: 0.1557472050189972, G loss: 0.41803088784217834, cost time: 4.44279670715332
+d_loss_real: 0.8334839940071106, d_loss_fake: 0.11731034517288208, g_loss_fake: 0.6732399463653564
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 144 / 500 ============================
+D loss: 0.3312043845653534, G loss: 0.633770227432251, cost time: 4.674441576004028
+d_loss_real: 0.8939740061759949, d_loss_fake: 0.3975379168987274, g_loss_fake: 0.5773430466651917
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 145 / 500 ============================
+D loss: 0.13992652297019958, G loss: 0.9337681531906128, cost time: 4.372178316116333
+d_loss_real: 0.8970943093299866, d_loss_fake: 0.15108934044837952, g_loss_fake: 0.4260655641555786
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 146 / 500 ============================
+D loss: 0.04725220426917076, G loss: 0.4587942957878113, cost time: 4.430943965911865
+d_loss_real: 0.9525814056396484, d_loss_fake: 0.04457271099090576, g_loss_fake: 0.6465165615081787
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 147 / 500 ============================
+D loss: 0.1967621147632599, G loss: 0.2823696434497833, cost time: 4.554857969284058
+d_loss_real: 0.7627989053726196, d_loss_fake: 0.10671241581439972, g_loss_fake: 0.7641316056251526
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 148 / 500 ============================
+D loss: 0.13009938597679138, G loss: 0.25671476125717163, cost time: 4.351743936538696
+d_loss_real: 0.9154839515686035, d_loss_fake: 0.1492859125137329, g_loss_fake: 0.7812060713768005
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 149 / 500 ============================
+D loss: 0.11014757305383682, G loss: 1.223633885383606, cost time: 4.16820216178894
+d_loss_real: 0.8800075054168701, d_loss_fake: 0.08406650274991989, g_loss_fake: 0.3239983320236206
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 150 / 500 ============================
+D loss: 0.04497937858104706, G loss: 1.664381742477417, cost time: 4.382733345031738
+d_loss_real: 0.9463613033294678, d_loss_fake: 0.02855674736201763, g_loss_fake: 0.23258592188358307
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 151 / 500 ============================
+D loss: 0.04331021010875702, G loss: 0.3497762084007263, cost time: 4.25458288192749
+d_loss_real: 0.9361057281494141, d_loss_fake: 0.01889098435640335, g_loss_fake: 0.7137611508369446
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 152 / 500 ============================
+D loss: 0.29983755946159363, G loss: 0.5390255451202393, cost time: 4.578798532485962
+d_loss_real: 0.9452117681503296, d_loss_fake: 0.41253113746643066, g_loss_fake: 0.6100544929504395
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 153 / 500 ============================
+D loss: 0.3087316155433655, G loss: 0.28920885920524597, cost time: 4.67855429649353
+d_loss_real: 0.6653985977172852, d_loss_fake: 0.12109288573265076, g_loss_fake: 0.7549484968185425
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 154 / 500 ============================
+D loss: 0.24063175916671753, G loss: 0.763525128364563, cost time: 4.367304801940918
+d_loss_real: 0.6821627020835876, d_loss_fake: 0.07020314037799835, g_loss_fake: 0.48536741733551025
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 155 / 500 ============================
+D loss: 0.20231583714485168, G loss: 0.9809130430221558, cost time: 4.37091326713562
+d_loss_real: 0.7672482132911682, d_loss_fake: 0.11145201325416565, g_loss_fake: 0.3904392719268799
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 156 / 500 ============================
+D loss: 0.03244486823678017, G loss: 0.2623615860939026, cost time: 4.3279500007629395
+d_loss_real: 0.9719758033752441, d_loss_fake: 0.035479459911584854, g_loss_fake: 0.7811444997787476
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 157 / 500 ============================
+D loss: 0.18779946863651276, G loss: 0.29974132776260376, cost time: 4.265732049942017
+d_loss_real: 0.906608521938324, d_loss_fake: 0.23015865683555603, g_loss_fake: 0.7434245347976685
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 158 / 500 ============================
+D loss: 0.06811143457889557, G loss: 0.3630148470401764, cost time: 4.20871376991272
+d_loss_real: 0.9431671500205994, d_loss_fake: 0.07218369841575623, g_loss_fake: 0.7210087776184082
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 159 / 500 ============================
+D loss: 0.09854348748922348, G loss: 3.392152786254883, cost time: 4.214563846588135
+d_loss_real: 0.8751006126403809, d_loss_fake: 0.051624324172735214, g_loss_fake: 0.03897793963551521
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 160 / 500 ============================
+D loss: 0.08665693551301956, G loss: 0.5267167091369629, cost time: 4.216576099395752
+d_loss_real: 0.8567818403244019, d_loss_fake: 0.01018960028886795, g_loss_fake: 0.610996425151825
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 161 / 500 ============================
+D loss: 0.058239489793777466, G loss: 0.8461239337921143, cost time: 4.632412433624268
+d_loss_real: 0.9446567893028259, d_loss_fake: 0.056489866226911545, g_loss_fake: 0.43934395909309387
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 162 / 500 ============================
+D loss: 0.35672181844711304, G loss: 0.3490045368671417, cost time: 4.373597860336304
+d_loss_real: 0.5206406116485596, d_loss_fake: 0.04494260996580124, g_loss_fake: 0.7265735864639282
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 163 / 500 ============================
+D loss: 0.24505987763404846, G loss: 1.2784391641616821, cost time: 4.471459150314331
+d_loss_real: 0.7036021947860718, d_loss_fake: 0.11947090923786163, g_loss_fake: 0.28513720631599426
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 164 / 500 ============================
+D loss: 0.11652404814958572, G loss: 3.972222328186035, cost time: 4.322225570678711
+d_loss_real: 0.8621673583984375, d_loss_fake: 0.07843565940856934, g_loss_fake: 0.025259602814912796
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 165 / 500 ============================
+D loss: 0.12426812946796417, G loss: 1.8344719409942627, cost time: 4.307798385620117
+d_loss_real: 0.9439899325370789, d_loss_fake: 0.1645268052816391, g_loss_fake: 0.2086702585220337
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 166 / 500 ============================
+D loss: 0.034615591168403625, G loss: 0.34267890453338623, cost time: 4.211941480636597
+d_loss_real: 0.949933648109436, d_loss_fake: 0.017188336700201035, g_loss_fake: 0.734442412853241
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 167 / 500 ============================
+D loss: 0.2348347306251526, G loss: 0.5098865032196045, cost time: 4.220016002655029
+d_loss_real: 0.7849682569503784, d_loss_fake: 0.14369027316570282, g_loss_fake: 0.6177951693534851
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 168 / 500 ============================
+D loss: 0.24316158890724182, G loss: 0.20003864169120789, cost time: 4.3188745975494385
+d_loss_real: 0.6667061448097229, d_loss_fake: 0.0502975769340992, g_loss_fake: 0.8247667551040649
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 169 / 500 ============================
+D loss: 0.29406458139419556, G loss: 0.9287596940994263, cost time: 4.2904157638549805
+d_loss_real: 0.8162099123001099, d_loss_fake: 0.306812584400177, g_loss_fake: 0.409576416015625
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 170 / 500 ============================
+D loss: 0.28477340936660767, G loss: 2.5602049827575684, cost time: 4.215285778045654
+d_loss_real: 0.6427567005157471, d_loss_fake: 0.10286569595336914, g_loss_fake: 0.10656329989433289
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 171 / 500 ============================
+D loss: 0.13074585795402527, G loss: 1.2217341661453247, cost time: 4.306903600692749
+d_loss_real: 0.7909175753593445, d_loss_fake: 0.020592305809259415, g_loss_fake: 0.36915773153305054
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 172 / 500 ============================
+D loss: 0.08941256999969482, G loss: 1.494606614112854, cost time: 4.195669651031494
+d_loss_real: 0.8461384177207947, d_loss_fake: 0.010099021717905998, g_loss_fake: 0.24548600614070892
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 173 / 500 ============================
+D loss: 0.1514989733695984, G loss: 3.156189203262329, cost time: 4.309343338012695
+d_loss_real: 0.882213294506073, d_loss_fake: 0.12976619601249695, g_loss_fake: 0.05855278670787811
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 174 / 500 ============================
+D loss: 1.4950692653656006, G loss: 0.03606654703617096, cost time: 4.306446552276611
+d_loss_real: 0.06272651255130768, d_loss_fake: 0.005116589367389679, g_loss_fake: 0.96471107006073
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 175 / 500 ============================
+D loss: 0.2411600798368454, G loss: 0.4508187770843506, cost time: 4.2943480014801025
+d_loss_real: 0.8419274687767029, d_loss_fake: 0.26226118206977844, g_loss_fake: 0.6451622247695923
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 176 / 500 ============================
+D loss: 0.26699984073638916, G loss: 0.41930192708969116, cost time: 4.597021102905273
+d_loss_real: 0.6781829595565796, d_loss_fake: 0.12373805791139603, g_loss_fake: 0.677997350692749
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 177 / 500 ============================
+D loss: 0.36571311950683594, G loss: 0.48879286646842957, cost time: 4.211151599884033
+d_loss_real: 0.5806054472923279, d_loss_fake: 0.1591932773590088, g_loss_fake: 0.6217995882034302
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 178 / 500 ============================
+D loss: 0.3159297704696655, G loss: 0.5203605890274048, cost time: 4.682400703430176
+d_loss_real: 0.6914083957672119, d_loss_fake: 0.21906572580337524, g_loss_fake: 0.6000059843063354
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 179 / 500 ============================
+D loss: 0.3196061849594116, G loss: 0.42308956384658813, cost time: 4.767126083374023
+d_loss_real: 0.6536927223205566, d_loss_fake: 0.16148850321769714, g_loss_fake: 0.6604863405227661
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 180 / 500 ============================
+D loss: 0.5131930112838745, G loss: 0.270839124917984, cost time: 4.341594696044922
+d_loss_real: 0.4414876699447632, d_loss_fake: 0.14766371250152588, g_loss_fake: 0.7706027030944824
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 181 / 500 ============================
+D loss: 0.4264654517173767, G loss: 0.8409756422042847, cost time: 4.300715446472168
+d_loss_real: 0.6767222285270691, d_loss_fake: 0.32578814029693604, g_loss_fake: 0.4439312815666199
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 182 / 500 ============================
+D loss: 0.64429771900177, G loss: 0.38418570160865784, cost time: 4.389196395874023
+d_loss_real: 0.3454661965370178, d_loss_fake: 0.13044871389865875, g_loss_fake: 0.6868330240249634
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 183 / 500 ============================
+D loss: 0.36979836225509644, G loss: 0.9633039236068726, cost time: 4.483014345169067
+d_loss_real: 0.781556248664856, d_loss_fake: 0.37654614448547363, g_loss_fake: 0.4044558107852936
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 184 / 500 ============================
+D loss: 0.37173697352409363, G loss: 0.9400234818458557, cost time: 4.191450595855713
+d_loss_real: 0.782785177230835, d_loss_fake: 0.38178831338882446, g_loss_fake: 0.410269170999527
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 185 / 500 ============================
+D loss: 0.550706684589386, G loss: 1.010331153869629, cost time: 4.705992698669434
+d_loss_real: 0.8600739240646362, d_loss_fake: 0.573965311050415, g_loss_fake: 0.3954506516456604
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 186 / 500 ============================
+D loss: 0.28559690713882446, G loss: 0.5655241012573242, cost time: 4.283839464187622
+d_loss_real: 0.7950313091278076, d_loss_fake: 0.2735804319381714, g_loss_fake: 0.6040990352630615
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 187 / 500 ============================
+D loss: 0.4310639202594757, G loss: 0.27001744508743286, cost time: 4.818867206573486
+d_loss_real: 0.48343002796173096, d_loss_fake: 0.09615804255008698, g_loss_fake: 0.7722582817077637
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 188 / 500 ============================
+D loss: 0.2883908748626709, G loss: 0.523908257484436, cost time: 4.447695732116699
+d_loss_real: 0.6701764464378357, d_loss_fake: 0.1498187780380249, g_loss_fake: 0.6079408526420593
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 189 / 500 ============================
+D loss: 0.3578904867172241, G loss: 0.6095554828643799, cost time: 4.404482841491699
+d_loss_real: 0.6433860063552856, d_loss_fake: 0.21910583972930908, g_loss_fake: 0.5494719743728638
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 190 / 500 ============================
+D loss: 0.3937259316444397, G loss: 0.5997178554534912, cost time: 4.3137946128845215
+d_loss_real: 0.5704289674758911, d_loss_fake: 0.16763517260551453, g_loss_fake: 0.5562460422515869
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 191 / 500 ============================
+D loss: 0.49474191665649414, G loss: 0.2819894254207611, cost time: 4.706158638000488
+d_loss_real: 0.45319288969039917, d_loss_fake: 0.07883274555206299, g_loss_fake: 0.7639776468276978
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 192 / 500 ============================
+D loss: 0.36250966787338257, G loss: 1.1824198961257935, cost time: 4.50158953666687
+d_loss_real: 0.7348863482475281, d_loss_fake: 0.3102136552333832, g_loss_fake: 0.31527620553970337
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 193 / 500 ============================
+D loss: 0.2445351928472519, G loss: 0.8237532377243042, cost time: 4.314868211746216
+d_loss_real: 0.8061789274215698, d_loss_fake: 0.22932404279708862, g_loss_fake: 0.44271326065063477
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 194 / 500 ============================
+D loss: 0.27269333600997925, G loss: 1.1160004138946533, cost time: 4.388584852218628
+d_loss_real: 0.7858454585075378, d_loss_fake: 0.25346559286117554, g_loss_fake: 0.33937257528305054
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 195 / 500 ============================
+D loss: 0.2517015039920807, G loss: 0.3217526972293854, cost time: 4.198875904083252
+d_loss_real: 0.6679331064224243, d_loss_fake: 0.07992641627788544, g_loss_fake: 0.7352211475372314
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 196 / 500 ============================
+D loss: 0.30109626054763794, G loss: 0.6341976523399353, cost time: 4.301896333694458
+d_loss_real: 0.6455196142196655, d_loss_fake: 0.12804093956947327, g_loss_fake: 0.5576155185699463
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 197 / 500 ============================
+D loss: 0.23516081273555756, G loss: 0.7134383916854858, cost time: 4.613383531570435
+d_loss_real: 0.7173807621002197, d_loss_fake: 0.09942709654569626, g_loss_fake: 0.5204230546951294
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 198 / 500 ============================
+D loss: 0.7520622611045837, G loss: 0.8313013315200806, cost time: 4.381237030029297
+d_loss_real: 0.9290263652801514, d_loss_fake: 0.7195103168487549, g_loss_fake: 0.47178196907043457
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 199 / 500 ============================
+D loss: 0.16707174479961395, G loss: 0.47011709213256836, cost time: 4.397560119628906
+d_loss_real: 0.8660502433776855, d_loss_fake: 0.16942861676216125, g_loss_fake: 0.6366606950759888
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 200 / 500 ============================
+D loss: 0.20236635208129883, G loss: 0.490753173828125, cost time: 4.330749034881592
+d_loss_real: 0.8002116680145264, d_loss_fake: 0.15904554724693298, g_loss_fake: 0.6511625647544861
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 201 / 500 ============================
+D loss: 0.14562354981899261, G loss: 0.3303011953830719, cost time: 4.361316204071045
+d_loss_real: 0.8536471128463745, d_loss_fake: 0.11673961579799652, g_loss_fake: 0.7300393581390381
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 202 / 500 ============================
+D loss: 0.20933912694454193, G loss: 0.8879476189613342, cost time: 4.43218207359314
+d_loss_real: 0.8150730133056641, d_loss_fake: 0.1805761456489563, g_loss_fake: 0.44457191228866577
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 203 / 500 ============================
+D loss: 0.18166908621788025, G loss: 0.47460198402404785, cost time: 4.521703004837036
+d_loss_real: 0.8195369839668274, d_loss_fake: 0.13022083044052124, g_loss_fake: 0.6344074010848999
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 204 / 500 ============================
+D loss: 0.18694078922271729, G loss: 0.6041203141212463, cost time: 4.3215789794921875
+d_loss_real: 0.8564906120300293, d_loss_fake: 0.1898747980594635, g_loss_fake: 0.5505445003509521
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 205 / 500 ============================
+D loss: 0.20028521120548248, G loss: 0.8868599534034729, cost time: 4.586608409881592
+d_loss_real: 0.8791811466217041, d_loss_fake: 0.22780410945415497, g_loss_fake: 0.4414651095867157
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 206 / 500 ============================
+D loss: 0.1311776489019394, G loss: 0.3864212930202484, cost time: 4.364053249359131
+d_loss_real: 0.8399896621704102, d_loss_fake: 0.07584387063980103, g_loss_fake: 0.6922198534011841
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 207 / 500 ============================
+D loss: 0.1426318883895874, G loss: 0.719077467918396, cost time: 4.430572032928467
+d_loss_real: 0.8320610523223877, d_loss_fake: 0.092291921377182, g_loss_fake: 0.5204141139984131
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 208 / 500 ============================
+D loss: 0.18209058046340942, G loss: 1.0749843120574951, cost time: 4.403376340866089
+d_loss_real: 0.7984711527824402, d_loss_fake: 0.11891905963420868, g_loss_fake: 0.3580288887023926
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 209 / 500 ============================
+D loss: 0.19944876432418823, G loss: 1.074761152267456, cost time: 4.574437141418457
+d_loss_real: 0.8196182250976562, d_loss_fake: 0.16573283076286316, g_loss_fake: 0.3662698268890381
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 210 / 500 ============================
+D loss: 0.18174102902412415, G loss: 1.1753875017166138, cost time: 4.277532339096069
+d_loss_real: 0.7606310844421387, d_loss_fake: 0.07612904906272888, g_loss_fake: 0.32669326663017273
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 211 / 500 ============================
+D loss: 0.17829537391662598, G loss: 1.9576919078826904, cost time: 4.28737211227417
+d_loss_real: 0.9040471911430359, d_loss_fake: 0.20198601484298706, g_loss_fake: 0.14968228340148926
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 212 / 500 ============================
+D loss: 0.062246352434158325, G loss: 1.3412165641784668, cost time: 4.161634206771851
+d_loss_real: 0.9061264991760254, d_loss_fake: 0.023850731551647186, g_loss_fake: 0.2975256145000458
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 213 / 500 ============================
+D loss: 0.28401869535446167, G loss: 0.40202420949935913, cost time: 4.367631196975708
+d_loss_real: 0.8570656776428223, d_loss_fake: 0.32562097907066345, g_loss_fake: 0.6743638515472412
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 214 / 500 ============================
+D loss: 0.163580060005188, G loss: 0.5185135006904602, cost time: 4.416508674621582
+d_loss_real: 0.8510661125183105, d_loss_fake: 0.1360452026128769, g_loss_fake: 0.6053985357284546
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 215 / 500 ============================
+D loss: 0.2084372639656067, G loss: 1.056797742843628, cost time: 4.356721639633179
+d_loss_real: 0.8044609427452087, d_loss_fake: 0.172835573554039, g_loss_fake: 0.37780049443244934
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 216 / 500 ============================
+D loss: 0.20641252398490906, G loss: 0.6997178196907043, cost time: 4.3797008991241455
+d_loss_real: 0.8191413879394531, d_loss_fake: 0.18021905422210693, g_loss_fake: 0.528019368648529
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 217 / 500 ============================
+D loss: 0.19468463957309723, G loss: 1.4663896560668945, cost time: 4.396088600158691
+d_loss_real: 0.8402144312858582, d_loss_fake: 0.18446685373783112, g_loss_fake: 0.25812608003616333
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 218 / 500 ============================
+D loss: 0.20699380338191986, G loss: 0.5758290886878967, cost time: 4.574621915817261
+d_loss_real: 0.6952731609344482, d_loss_fake: 0.032381657510995865, g_loss_fake: 0.5835139155387878
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 219 / 500 ============================
+D loss: 0.21014618873596191, G loss: 0.5163062810897827, cost time: 4.384868621826172
+d_loss_real: 0.7367632389068604, d_loss_fake: 0.10453031212091446, g_loss_fake: 0.6212592124938965
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 220 / 500 ============================
+D loss: 0.23371875286102295, G loss: 1.1905627250671387, cost time: 4.496322393417358
+d_loss_real: 0.8605055212974548, d_loss_fake: 0.26270362734794617, g_loss_fake: 0.3295321464538574
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 221 / 500 ============================
+D loss: 0.15563446283340454, G loss: 1.8297414779663086, cost time: 4.6094725131988525
+d_loss_real: 0.864193320274353, d_loss_fake: 0.13817407190799713, g_loss_fake: 0.19296827912330627
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 222 / 500 ============================
+D loss: 0.14777885377407074, G loss: 1.6556665897369385, cost time: 4.379088401794434
+d_loss_real: 0.895370602607727, d_loss_fake: 0.16534030437469482, g_loss_fake: 0.19647251069545746
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 223 / 500 ============================
+D loss: 0.1174641102552414, G loss: 3.6003496646881104, cost time: 4.419321775436401
+d_loss_real: 0.9507974982261658, d_loss_fake: 0.16223987936973572, g_loss_fake: 0.0391930527985096
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 224 / 500 ============================
+D loss: 0.12028966844081879, G loss: 0.5265355706214905, cost time: 4.243156433105469
+d_loss_real: 0.8308384418487549, d_loss_fake: 0.040458690375089645, g_loss_fake: 0.6104462742805481
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 225 / 500 ============================
+D loss: 0.19582708179950714, G loss: 0.5936782360076904, cost time: 4.295140504837036
+d_loss_real: 0.7509514093399048, d_loss_fake: 0.06653767824172974, g_loss_fake: 0.5651828050613403
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 226 / 500 ============================
+D loss: 0.3989645540714264, G loss: 0.4650717079639435, cost time: 4.408523321151733
+d_loss_real: 0.49494075775146484, d_loss_fake: 0.015606379136443138, g_loss_fake: 0.6420453786849976
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 227 / 500 ============================
+D loss: 0.30370280146598816, G loss: 0.5257426500320435, cost time: 4.553828001022339
+d_loss_real: 0.8625339865684509, d_loss_fake: 0.35175320506095886, g_loss_fake: 0.6359930038452148
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 228 / 500 ============================
+D loss: 0.18261590600013733, G loss: 0.7099414467811584, cost time: 4.36808967590332
+d_loss_real: 0.7888005971908569, d_loss_fake: 0.11396706104278564, g_loss_fake: 0.531888484954834
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 229 / 500 ============================
+D loss: 0.2236625850200653, G loss: 2.433824062347412, cost time: 4.387416839599609
+d_loss_real: 0.7488848567008972, d_loss_fake: 0.12555861473083496, g_loss_fake: 0.10272826999425888
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 230 / 500 ============================
+D loss: 0.12478654831647873, G loss: 0.40501320362091064, cost time: 4.454051733016968
+d_loss_real: 0.8606942892074585, d_loss_fake: 0.0470292791724205, g_loss_fake: 0.6760444641113281
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 231 / 500 ============================
+D loss: 0.18056395649909973, G loss: 0.9836335182189941, cost time: 4.299546480178833
+d_loss_real: 0.7917267084121704, d_loss_fake: 0.11261087656021118, g_loss_fake: 0.4186275005340576
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 232 / 500 ============================
+D loss: 0.22225089371204376, G loss: 1.7323275804519653, cost time: 4.428112983703613
+d_loss_real: 0.9465434551239014, d_loss_fake: 0.297909677028656, g_loss_fake: 0.19518795609474182
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 233 / 500 ============================
+D loss: 0.16043534874916077, G loss: 0.7368323802947998, cost time: 4.219756603240967
+d_loss_real: 0.7714175581932068, d_loss_fake: 0.0387723371386528, g_loss_fake: 0.4954494833946228
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 234 / 500 ============================
+D loss: 0.1409967541694641, G loss: 2.3004236221313477, cost time: 4.333851099014282
+d_loss_real: 0.8266128301620483, d_loss_fake: 0.07757113128900528, g_loss_fake: 0.12136541306972504
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 235 / 500 ============================
+D loss: 0.1425115466117859, G loss: 1.7803027629852295, cost time: 4.215377330780029
+d_loss_real: 0.7944179773330688, d_loss_fake: 0.03623988479375839, g_loss_fake: 0.22624042630195618
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 236 / 500 ============================
+D loss: 0.09542667865753174, G loss: 1.9158767461776733, cost time: 4.413935661315918
+d_loss_real: 0.8663085103034973, d_loss_fake: 0.028628213331103325, g_loss_fake: 0.2253318727016449
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 237 / 500 ============================
+D loss: 0.05126199871301651, G loss: 3.562499523162842, cost time: 4.214426755905151
+d_loss_real: 0.9626179933547974, d_loss_fake: 0.059300631284713745, g_loss_fake: 0.046714916825294495
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 238 / 500 ============================
+D loss: 0.021177656948566437, G loss: 1.2103112936019897, cost time: 4.502230405807495
+d_loss_real: 0.9747216701507568, d_loss_fake: 0.016303030773997307, g_loss_fake: 0.33195289969444275
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 239 / 500 ============================
+D loss: 0.20410272479057312, G loss: 0.7457435131072998, cost time: 4.312079191207886
+d_loss_real: 0.9651168584823608, d_loss_fake: 0.24904243648052216, g_loss_fake: 0.4916211664676666
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 240 / 500 ============================
+D loss: 0.21560925245285034, G loss: 0.9051592946052551, cost time: 4.270106315612793
+d_loss_real: 0.743069052696228, d_loss_fake: 0.09656314551830292, g_loss_fake: 0.43981462717056274
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 241 / 500 ============================
+D loss: 0.2463943362236023, G loss: 0.9094866514205933, cost time: 4.22012734413147
+d_loss_real: 0.9472134709358215, d_loss_fake: 0.336589515209198, g_loss_fake: 0.4360313415527344
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 242 / 500 ============================
+D loss: 0.15246161818504333, G loss: 1.1250038146972656, cost time: 4.404974699020386
+d_loss_real: 0.8823485374450684, d_loss_fake: 0.15090933442115784, g_loss_fake: 0.3568159341812134
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 243 / 500 ============================
+D loss: 0.16929146647453308, G loss: 1.135940432548523, cost time: 4.291123390197754
+d_loss_real: 0.9297998547554016, d_loss_fake: 0.2173980176448822, g_loss_fake: 0.38129547238349915
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 244 / 500 ============================
+D loss: 0.15398940443992615, G loss: 1.377309799194336, cost time: 4.690476894378662
+d_loss_real: 0.8965810537338257, d_loss_fake: 0.16246339678764343, g_loss_fake: 0.29511114954948425
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 245 / 500 ============================
+D loss: 0.17785689234733582, G loss: 5.474198818206787, cost time: 4.20547080039978
+d_loss_real: 0.9209438562393188, d_loss_fake: 0.22189900279045105, g_loss_fake: 0.005645605735480785
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 246 / 500 ============================
+D loss: 0.08875204622745514, G loss: 1.5296978950500488, cost time: 4.5154595375061035
+d_loss_real: 0.9027566909790039, d_loss_fake: 0.06215658783912659, g_loss_fake: 0.2572304606437683
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 247 / 500 ============================
+D loss: 0.11155617237091064, G loss: 4.470423221588135, cost time: 4.268465518951416
+d_loss_real: 0.9636170864105225, d_loss_fake: 0.1616889238357544, g_loss_fake: 0.013153325766324997
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 248 / 500 ============================
+D loss: 0.03899531438946724, G loss: 1.0362521409988403, cost time: 4.159999370574951
+d_loss_real: 0.9554153084754944, d_loss_fake: 0.030743319541215897, g_loss_fake: 0.376384437084198
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 249 / 500 ============================
+D loss: 0.036994557827711105, G loss: 2.3423783779144287, cost time: 4.405722141265869
+d_loss_real: 0.9765094518661499, d_loss_fake: 0.04809707775712013, g_loss_fake: 0.10978133976459503
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 250 / 500 ============================
+D loss: 0.04077809303998947, G loss: 2.3564140796661377, cost time: 4.524485111236572
+d_loss_real: 0.9550319910049438, d_loss_fake: 0.03357619419693947, g_loss_fake: 0.10512088239192963
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 251 / 500 ============================
+D loss: 0.0479334257543087, G loss: 1.5975521802902222, cost time: 4.690498113632202
+d_loss_real: 0.9418753385543823, d_loss_fake: 0.03350040316581726, g_loss_fake: 0.2832021713256836
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 252 / 500 ============================
+D loss: 0.08283200114965439, G loss: 4.43369197845459, cost time: 4.420877933502197
+d_loss_real: 0.9754332304000854, d_loss_fake: 0.1271907538175583, g_loss_fake: 0.01802772283554077
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 253 / 500 ============================
+D loss: 0.019794084131717682, G loss: 2.251401901245117, cost time: 4.397585391998291
+d_loss_real: 0.9737722277641296, d_loss_fake: 0.012665954418480396, g_loss_fake: 0.12250726670026779
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 254 / 500 ============================
+D loss: 0.31611961126327515, G loss: 0.4627566337585449, cost time: 4.393874406814575
+d_loss_real: 0.5582999587059021, d_loss_fake: 0.02090810425579548, g_loss_fake: 0.6780651807785034
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 255 / 500 ============================
+D loss: 0.0870654359459877, G loss: 0.8826243877410889, cost time: 4.494003772735596
+d_loss_real: 0.958924412727356, d_loss_fake: 0.12073585391044617, g_loss_fake: 0.4320770800113678
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 256 / 500 ============================
+D loss: 0.0574277825653553, G loss: 2.0430831909179688, cost time: 4.689734697341919
+d_loss_real: 0.9742588996887207, d_loss_fake: 0.08349059522151947, g_loss_fake: 0.16864168643951416
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 257 / 500 ============================
+D loss: 0.08789335191249847, G loss: 2.105957508087158, cost time: 4.267992734909058
+d_loss_real: 0.9360669851303101, d_loss_fake: 0.09973611682653427, g_loss_fake: 0.17143318057060242
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 258 / 500 ============================
+D loss: 0.03244520723819733, G loss: 1.276166558265686, cost time: 4.293966054916382
+d_loss_real: 0.9634444713592529, d_loss_fake: 0.026419486850500107, g_loss_fake: 0.3188793957233429
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 259 / 500 ============================
+D loss: 0.04632646217942238, G loss: 3.057734489440918, cost time: 4.401942729949951
+d_loss_real: 0.9638108015060425, d_loss_fake: 0.053139664232730865, g_loss_fake: 0.06962849199771881
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 260 / 500 ============================
+D loss: 0.05945761129260063, G loss: 2.630727767944336, cost time: 4.422981023788452
+d_loss_real: 0.9632953405380249, d_loss_fake: 0.07578258216381073, g_loss_fake: 0.075666643679142
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 261 / 500 ============================
+D loss: 0.059085000306367874, G loss: 2.0223288536071777, cost time: 4.212862491607666
+d_loss_real: 0.9331102967262268, d_loss_fake: 0.04459192231297493, g_loss_fake: 0.1602616310119629
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 262 / 500 ============================
+D loss: 0.025046803057193756, G loss: 2.5316715240478516, cost time: 4.277541160583496
+d_loss_real: 0.9673987627029419, d_loss_fake: 0.01563999056816101, g_loss_fake: 0.12649351358413696
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 263 / 500 ============================
+D loss: 0.0312320739030838, G loss: 4.917387008666992, cost time: 4.379186630249023
+d_loss_real: 0.9568533897399902, d_loss_fake: 0.015294477343559265, g_loss_fake: 0.012511812150478363
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 264 / 500 ============================
+D loss: 0.03164743259549141, G loss: 5.829458236694336, cost time: 4.474818706512451
+d_loss_real: 0.9559151530265808, d_loss_fake: 0.017471082508563995, g_loss_fake: 0.005199302453547716
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 265 / 500 ============================
+D loss: 0.018922723829746246, G loss: 1.5555716753005981, cost time: 4.274877071380615
+d_loss_real: 0.9775857925415039, d_loss_fake: 0.014253485947847366, g_loss_fake: 0.23560255765914917
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 266 / 500 ============================
+D loss: 0.022825220599770546, G loss: 2.0664737224578857, cost time: 4.378126382827759
+d_loss_real: 0.9861367344856262, d_loss_fake: 0.030833132565021515, g_loss_fake: 0.14090798795223236
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 267 / 500 ============================
+D loss: 0.02208404615521431, G loss: 2.1325581073760986, cost time: 4.391302108764648
+d_loss_real: 0.9860174655914307, d_loss_fake: 0.02911287359893322, g_loss_fake: 0.1632266342639923
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 268 / 500 ============================
+D loss: 0.012400512583553791, G loss: 2.2216312885284424, cost time: 4.3821375370025635
+d_loss_real: 0.9892460107803345, d_loss_fake: 0.013785835355520248, g_loss_fake: 0.13606037199497223
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 269 / 500 ============================
+D loss: 0.008995020762085915, G loss: 1.4996576309204102, cost time: 4.407237529754639
+d_loss_real: 0.9900082349777222, d_loss_fake: 0.007831265218555927, g_loss_fake: 0.2892224192619324
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 270 / 500 ============================
+D loss: 0.12511520087718964, G loss: 0.9159319400787354, cost time: 4.30680775642395
+d_loss_real: 0.8973074555397034, d_loss_fake: 0.11759454756975174, g_loss_fake: 0.4734697937965393
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 271 / 500 ============================
+D loss: 0.031888723373413086, G loss: 1.1538134813308716, cost time: 4.280629873275757
+d_loss_real: 0.9566454291343689, d_loss_fake: 0.017230553552508354, g_loss_fake: 0.33513444662094116
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 272 / 500 ============================
+D loss: 0.06589636206626892, G loss: 1.4108912944793701, cost time: 4.811468124389648
+d_loss_real: 0.9115157723426819, d_loss_fake: 0.030370865017175674, g_loss_fake: 0.27303534746170044
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 273 / 500 ============================
+D loss: 0.07748987525701523, G loss: 0.2293325811624527, cost time: 4.141295909881592
+d_loss_real: 0.899893581867218, d_loss_fake: 0.045235998928546906, g_loss_fake: 0.8010386824607849
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 274 / 500 ============================
+D loss: 0.9194842576980591, G loss: 0.08709553629159927, cost time: 4.403848886489868
+d_loss_real: 0.20595479011535645, d_loss_fake: 0.0040120771154761314, g_loss_fake: 0.9187064170837402
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 275 / 500 ============================
+D loss: 0.3297182321548462, G loss: 0.17835846543312073, cost time: 4.223444938659668
+d_loss_real: 0.8737375736236572, d_loss_fake: 0.33226391673088074, g_loss_fake: 0.8416723012924194
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 276 / 500 ============================
+D loss: 0.31916114687919617, G loss: 0.2624213397502899, cost time: 4.207886219024658
+d_loss_real: 0.7302227020263672, d_loss_fake: 0.25459378957748413, g_loss_fake: 0.7813894748687744
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 277 / 500 ============================
+D loss: 0.3756105303764343, G loss: 0.2957785129547119, cost time: 4.224705219268799
+d_loss_real: 0.5017386674880981, d_loss_fake: 0.040145985782146454, g_loss_fake: 0.7511163949966431
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 278 / 500 ============================
+D loss: 0.24195650219917297, G loss: 0.5365331172943115, cost time: 4.221517324447632
+d_loss_real: 0.7908170223236084, d_loss_fake: 0.20859481394290924, g_loss_fake: 0.600031852722168
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 279 / 500 ============================
+D loss: 0.29116153717041016, G loss: 0.8384078741073608, cost time: 4.315642595291138
+d_loss_real: 0.7789720892906189, d_loss_fake: 0.2731377184391022, g_loss_fake: 0.4450629949569702
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 280 / 500 ============================
+D loss: 0.1819421797990799, G loss: 0.4379703104496002, cost time: 4.325528144836426
+d_loss_real: 0.783846378326416, d_loss_fake: 0.1034461110830307, g_loss_fake: 0.6655069589614868
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 281 / 500 ============================
+D loss: 0.2776297926902771, G loss: 0.7286847829818726, cost time: 4.319087982177734
+d_loss_real: 0.765081524848938, d_loss_fake: 0.22880402207374573, g_loss_fake: 0.5047581791877747
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 282 / 500 ============================
+D loss: 0.2614003121852875, G loss: 0.3453802466392517, cost time: 4.4062840938568115
+d_loss_real: 0.6802490949630737, d_loss_fake: 0.10759341716766357, g_loss_fake: 0.7175601720809937
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 283 / 500 ============================
+D loss: 0.15358231961727142, G loss: 1.0251516103744507, cost time: 4.29294490814209
+d_loss_real: 0.8396742939949036, d_loss_fake: 0.11742986738681793, g_loss_fake: 0.3905496597290039
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 284 / 500 ============================
+D loss: 0.16929470002651215, G loss: 0.6622390747070312, cost time: 4.475296258926392
+d_loss_real: 0.8515763282775879, d_loss_fake: 0.15306441485881805, g_loss_fake: 0.5258421897888184
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 285 / 500 ============================
+D loss: 0.23728127777576447, G loss: 0.7667848467826843, cost time: 4.273497581481934
+d_loss_real: 0.7592110633850098, d_loss_fake: 0.16518646478652954, g_loss_fake: 0.4979208707809448
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 286 / 500 ============================
+D loss: 0.18784400820732117, G loss: 0.636095404624939, cost time: 4.481587648391724
+d_loss_real: 0.9196615219116211, d_loss_fake: 0.24467644095420837, g_loss_fake: 0.5590965151786804
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 287 / 500 ============================
+D loss: 0.3161717653274536, G loss: 0.3135819435119629, cost time: 4.3723883628845215
+d_loss_real: 0.8512564897537231, d_loss_fake: 0.34423747658729553, g_loss_fake: 0.7354407906532288
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 288 / 500 ============================
+D loss: 0.3428073525428772, G loss: 0.7478182315826416, cost time: 4.527451992034912
+d_loss_real: 0.6154715418815613, d_loss_fake: 0.1538720577955246, g_loss_fake: 0.49141234159469604
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 289 / 500 ============================
+D loss: 0.23264384269714355, G loss: 0.42644989490509033, cost time: 4.307455062866211
+d_loss_real: 0.9407444596290588, d_loss_fake: 0.3276374936103821, g_loss_fake: 0.6598989963531494
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 290 / 500 ============================
+D loss: 0.30180594325065613, G loss: 0.3301568031311035, cost time: 4.614477157592773
+d_loss_real: 0.8709149360656738, d_loss_fake: 0.31679216027259827, g_loss_fake: 0.7286114692687988
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 291 / 500 ============================
+D loss: 0.10158836841583252, G loss: 0.533747673034668, cost time: 4.419467926025391
+d_loss_real: 0.8912404775619507, d_loss_fake: 0.08258794248104095, g_loss_fake: 0.6332554817199707
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 292 / 500 ============================
+D loss: 0.3889558017253876, G loss: 0.458585262298584, cost time: 4.425628423690796
+d_loss_real: 0.503727912902832, d_loss_fake: 0.05146843194961548, g_loss_fake: 0.6485869288444519
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 293 / 500 ============================
+D loss: 0.36717352271080017, G loss: 0.5994776487350464, cost time: 4.230489492416382
+d_loss_real: 0.7801660895347595, d_loss_fake: 0.3433021903038025, g_loss_fake: 0.5715340375900269
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 294 / 500 ============================
+D loss: 0.256491482257843, G loss: 0.5810309648513794, cost time: 4.307585000991821
+d_loss_real: 0.847176194190979, d_loss_fake: 0.27843067049980164, g_loss_fake: 0.5887132883071899
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 295 / 500 ============================
+D loss: 0.2651349604129791, G loss: 0.44403839111328125, cost time: 4.41201114654541
+d_loss_real: 0.7852945923805237, d_loss_fake: 0.2222301959991455, g_loss_fake: 0.6636059284210205
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 296 / 500 ============================
+D loss: 0.363489031791687, G loss: 0.48299387097358704, cost time: 4.615546703338623
+d_loss_real: 0.667961835861206, d_loss_fake: 0.1360177844762802, g_loss_fake: 0.6587426066398621
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 297 / 500 ============================
+D loss: 0.3019291162490845, G loss: 0.7231940627098083, cost time: 4.175091505050659
+d_loss_real: 0.8390246629714966, d_loss_fake: 0.3246663808822632, g_loss_fake: 0.5491545796394348
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 298 / 500 ============================
+D loss: 0.24015919864177704, G loss: 0.4379439949989319, cost time: 4.223064422607422
+d_loss_real: 0.7640599608421326, d_loss_fake: 0.18378208577632904, g_loss_fake: 0.6552273035049438
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 299 / 500 ============================
+D loss: 0.30305811762809753, G loss: 0.3218062222003937, cost time: 4.192558765411377
+d_loss_real: 0.7603049278259277, d_loss_fake: 0.22423075139522552, g_loss_fake: 0.7327640056610107
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 300 / 500 ============================
+D loss: 0.1681264340877533, G loss: 0.6380146741867065, cost time: 4.299264192581177
+d_loss_real: 0.8646644353866577, d_loss_fake: 0.16745030879974365, g_loss_fake: 0.5573356747627258
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 301 / 500 ============================
+D loss: 0.21436239778995514, G loss: 1.138359785079956, cost time: 4.213043451309204
+d_loss_real: 0.7381616830825806, d_loss_fake: 0.11143232882022858, g_loss_fake: 0.3650304079055786
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 302 / 500 ============================
+D loss: 0.22231878340244293, G loss: 1.1923748254776, cost time: 4.196608543395996
+d_loss_real: 0.7767651677131653, d_loss_fake: 0.1591256558895111, g_loss_fake: 0.3754115104675293
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 303 / 500 ============================
+D loss: 0.223112553358078, G loss: 0.654213547706604, cost time: 4.199869632720947
+d_loss_real: 0.7651646137237549, d_loss_fake: 0.15061117708683014, g_loss_fake: 0.5690873265266418
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 304 / 500 ============================
+D loss: 0.5708521604537964, G loss: 0.45813965797424316, cost time: 4.302440643310547
+d_loss_real: 0.5466679334640503, d_loss_fake: 0.35366111993789673, g_loss_fake: 0.6626789569854736
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 305 / 500 ============================
+D loss: 0.3075580298900604, G loss: 0.37570661306381226, cost time: 4.192674160003662
+d_loss_real: 0.6776058077812195, d_loss_fake: 0.1854538470506668, g_loss_fake: 0.6942028999328613
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 306 / 500 ============================
+D loss: 0.2677887976169586, G loss: 0.6236976385116577, cost time: 4.4915618896484375
+d_loss_real: 0.7691481113433838, d_loss_fake: 0.2282046377658844, g_loss_fake: 0.5506637096405029
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 307 / 500 ============================
+D loss: 0.37071943283081055, G loss: 0.4577692151069641, cost time: 4.520915269851685
+d_loss_real: 0.6682213544845581, d_loss_fake: 0.19399932026863098, g_loss_fake: 0.6488323211669922
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 308 / 500 ============================
+D loss: 0.34435325860977173, G loss: 0.3497203588485718, cost time: 4.395434141159058
+d_loss_real: 0.6428822875022888, d_loss_fake: 0.1805182695388794, g_loss_fake: 0.7784930467605591
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 309 / 500 ============================
+D loss: 0.3182411193847656, G loss: 0.42423349618911743, cost time: 4.205022811889648
+d_loss_real: 0.5877942442893982, d_loss_fake: 0.056319963186979294, g_loss_fake: 0.6714497208595276
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 310 / 500 ============================
+D loss: 0.3650997281074524, G loss: 0.45888957381248474, cost time: 4.461298227310181
+d_loss_real: 0.7495938539505005, d_loss_fake: 0.3081742525100708, g_loss_fake: 0.6693430542945862
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 311 / 500 ============================
+D loss: 0.3349403142929077, G loss: 1.0303318500518799, cost time: 4.238935232162476
+d_loss_real: 0.7130110859870911, d_loss_fake: 0.2696268856525421, g_loss_fake: 0.4830283522605896
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 312 / 500 ============================
+D loss: 0.22061198949813843, G loss: 0.8159195184707642, cost time: 4.191164255142212
+d_loss_real: 0.8320148587226868, d_loss_fake: 0.21605175733566284, g_loss_fake: 0.4911184310913086
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 313 / 500 ============================
+D loss: 0.1822788417339325, G loss: 0.752078652381897, cost time: 4.885079383850098
+d_loss_real: 0.8431589603424072, d_loss_fake: 0.1706210821866989, g_loss_fake: 0.5077291131019592
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 314 / 500 ============================
+D loss: 0.4269968271255493, G loss: 0.7613527178764343, cost time: 4.201697587966919
+d_loss_real: 0.9161084890365601, d_loss_fake: 0.48674875497817993, g_loss_fake: 0.48971810936927795
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 315 / 500 ============================
+D loss: 0.24864022433757782, G loss: 0.5265176892280579, cost time: 4.270264625549316
+d_loss_real: 0.7344323992729187, d_loss_fake: 0.14488287270069122, g_loss_fake: 0.6249418258666992
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 316 / 500 ============================
+D loss: 0.33159929513931274, G loss: 0.5655689835548401, cost time: 4.150172710418701
+d_loss_real: 0.7096158266067505, d_loss_fake: 0.24286720156669617, g_loss_fake: 0.5786374807357788
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 317 / 500 ============================
+D loss: 0.32961025834083557, G loss: 0.424164354801178, cost time: 4.310304880142212
+d_loss_real: 0.7900545001029968, d_loss_fake: 0.3350124955177307, g_loss_fake: 0.6675323247909546
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 318 / 500 ============================
+D loss: 0.5662817358970642, G loss: 0.36961889266967773, cost time: 4.224510192871094
+d_loss_real: 0.38980963826179504, d_loss_fake: 0.09208859503269196, g_loss_fake: 0.7115438580513
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 319 / 500 ============================
+D loss: 0.34752193093299866, G loss: 0.8716304302215576, cost time: 4.27541708946228
+d_loss_real: 0.7428168058395386, d_loss_fake: 0.2914654016494751, g_loss_fake: 0.4971485733985901
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 320 / 500 ============================
+D loss: 0.31275492906570435, G loss: 0.3932398557662964, cost time: 4.293645143508911
+d_loss_real: 0.6989689469337463, d_loss_fake: 0.18186603486537933, g_loss_fake: 0.6808127164840698
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 321 / 500 ============================
+D loss: 0.23692992329597473, G loss: 1.174277424812317, cost time: 4.264736890792847
+d_loss_real: 0.9291842579841614, d_loss_fake: 0.30921849608421326, g_loss_fake: 0.34396106004714966
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 322 / 500 ============================
+D loss: 0.35520705580711365, G loss: 0.5738515257835388, cost time: 4.167383432388306
+d_loss_real: 0.6367186903953552, d_loss_fake: 0.19463041424751282, g_loss_fake: 0.6032769680023193
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 323 / 500 ============================
+D loss: 0.32337409257888794, G loss: 0.7766530513763428, cost time: 4.365533113479614
+d_loss_real: 0.7458024024963379, d_loss_fake: 0.27055108547210693, g_loss_fake: 0.4891279637813568
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 324 / 500 ============================
+D loss: 0.26320022344589233, G loss: 0.6930515170097351, cost time: 4.4953742027282715
+d_loss_real: 0.714418888092041, d_loss_fake: 0.16324488818645477, g_loss_fake: 0.5205228924751282
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 325 / 500 ============================
+D loss: 0.22475957870483398, G loss: 1.1688487529754639, cost time: 4.19483208656311
+d_loss_real: 0.8685932159423828, d_loss_fake: 0.2393321692943573, g_loss_fake: 0.35610002279281616
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 326 / 500 ============================
+D loss: 0.1918218582868576, G loss: 0.6806699633598328, cost time: 4.2962095737457275
+d_loss_real: 0.8784425854682922, d_loss_fake: 0.20724576711654663, g_loss_fake: 0.5452070236206055
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 327 / 500 ============================
+D loss: 0.3893183469772339, G loss: 0.733250081539154, cost time: 4.171682119369507
+d_loss_real: 0.8688831329345703, d_loss_fake: 0.4291265904903412, g_loss_fake: 0.5880619883537292
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 328 / 500 ============================
+D loss: 0.16659805178642273, G loss: 0.35589003562927246, cost time: 4.533890962600708
+d_loss_real: 0.8504935503005981, d_loss_fake: 0.14140969514846802, g_loss_fake: 0.7159877419471741
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 329 / 500 ============================
+D loss: 0.27813720703125, G loss: 0.3548377752304077, cost time: 4.298297643661499
+d_loss_real: 0.6711099743843079, d_loss_fake: 0.12744197249412537, g_loss_fake: 0.7175989151000977
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 330 / 500 ============================
+D loss: 0.23074179887771606, G loss: 0.9809629917144775, cost time: 4.2382001876831055
+d_loss_real: 0.8095972537994385, d_loss_fake: 0.19421666860580444, g_loss_fake: 0.40304356813430786
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 331 / 500 ============================
+D loss: 0.2298332154750824, G loss: 0.4328102171421051, cost time: 4.178850889205933
+d_loss_real: 0.7924749851226807, d_loss_fake: 0.17007160186767578, g_loss_fake: 0.6574521660804749
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 332 / 500 ============================
+D loss: 0.30171430110931396, G loss: 0.9575409889221191, cost time: 4.417690277099609
+d_loss_real: 0.7386010885238647, d_loss_fake: 0.24846047163009644, g_loss_fake: 0.40832430124282837
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 333 / 500 ============================
+D loss: 0.41007328033447266, G loss: 0.15333308279514313, cost time: 4.209460258483887
+d_loss_real: 0.6039538383483887, d_loss_fake: 0.028563842177391052, g_loss_fake: 0.8602428436279297
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 334 / 500 ============================
+D loss: 0.38197892904281616, G loss: 0.2044149935245514, cost time: 4.484929084777832
+d_loss_real: 0.5739806890487671, d_loss_fake: 0.16505227982997894, g_loss_fake: 0.8241373896598816
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 335 / 500 ============================
+D loss: 0.3095472753047943, G loss: 0.5979604721069336, cost time: 4.307351112365723
+d_loss_real: 0.8643409013748169, d_loss_fake: 0.36592721939086914, g_loss_fake: 0.5727100968360901
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 336 / 500 ============================
+D loss: 0.23510000109672546, G loss: 0.3177986741065979, cost time: 4.512948036193848
+d_loss_real: 0.9331990480422974, d_loss_fake: 0.32023394107818604, g_loss_fake: 0.7320306897163391
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 337 / 500 ============================
+D loss: 0.2033611536026001, G loss: 0.6234844923019409, cost time: 4.294580698013306
+d_loss_real: 0.8930653929710388, d_loss_fake: 0.24804243445396423, g_loss_fake: 0.5795340538024902
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 338 / 500 ============================
+D loss: 0.2313561588525772, G loss: 0.5267621874809265, cost time: 4.905272483825684
+d_loss_real: 0.7577822208404541, d_loss_fake: 0.12135535478591919, g_loss_fake: 0.6045168042182922
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 339 / 500 ============================
+D loss: 0.20148921012878418, G loss: 0.4685485363006592, cost time: 4.364192247390747
+d_loss_real: 0.8624444007873535, d_loss_fake: 0.21923261880874634, g_loss_fake: 0.6438264846801758
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 340 / 500 ============================
+D loss: 0.2226603925228119, G loss: 0.9189385175704956, cost time: 4.361230134963989
+d_loss_real: 0.9245556592941284, d_loss_fake: 0.29490524530410767, g_loss_fake: 0.4929223656654358
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 341 / 500 ============================
+D loss: 0.19504649937152863, G loss: 0.8418514132499695, cost time: 4.462182998657227
+d_loss_real: 0.9550122618675232, d_loss_fake: 0.2828962802886963, g_loss_fake: 0.46230006217956543
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 342 / 500 ============================
+D loss: 0.18525561690330505, G loss: 0.5694230198860168, cost time: 4.396579027175903
+d_loss_real: 0.8364129662513733, d_loss_fake: 0.16992013156414032, g_loss_fake: 0.5950037240982056
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 343 / 500 ============================
+D loss: 0.23724862933158875, G loss: 0.5800174474716187, cost time: 4.409883737564087
+d_loss_real: 0.8132014274597168, d_loss_fake: 0.21579819917678833, g_loss_fake: 0.6182394027709961
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 344 / 500 ============================
+D loss: 0.16245651245117188, G loss: 0.7161899209022522, cost time: 4.2464823722839355
+d_loss_real: 0.8478054404258728, d_loss_fake: 0.14530833065509796, g_loss_fake: 0.5658473372459412
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 345 / 500 ============================
+D loss: 0.26202479004859924, G loss: 0.418578565120697, cost time: 4.377275466918945
+d_loss_real: 0.6423996090888977, d_loss_fake: 0.0666550025343895, g_loss_fake: 0.6742232441902161
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 346 / 500 ============================
+D loss: 0.2491399496793747, G loss: 1.3392717838287354, cost time: 4.5105814933776855
+d_loss_real: 0.8319739699363708, d_loss_fake: 0.25459498167037964, g_loss_fake: 0.3057820796966553
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 347 / 500 ============================
+D loss: 0.2152697890996933, G loss: 1.2025399208068848, cost time: 4.19985556602478
+d_loss_real: 0.777706503868103, d_loss_fake: 0.1517261415719986, g_loss_fake: 0.3396769165992737
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 348 / 500 ============================
+D loss: 0.17692944407463074, G loss: 0.5000355243682861, cost time: 4.396216154098511
+d_loss_real: 0.8070223331451416, d_loss_fake: 0.11820602416992188, g_loss_fake: 0.6294231414794922
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 349 / 500 ============================
+D loss: 0.25738760828971863, G loss: 1.6102890968322754, cost time: 4.5154643058776855
+d_loss_real: 0.6830243468284607, d_loss_fake: 0.0974239930510521, g_loss_fake: 0.2547622323036194
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 350 / 500 ============================
+D loss: 0.6460455656051636, G loss: 0.7516704797744751, cost time: 4.374614715576172
+d_loss_real: 0.5145387053489685, d_loss_fake: 0.07831397652626038, g_loss_fake: 0.5240315794944763
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 351 / 500 ============================
+D loss: 0.4352927505970001, G loss: 0.5193836688995361, cost time: 4.243430137634277
+d_loss_real: 0.9374312162399292, d_loss_fake: 0.5133771896362305, g_loss_fake: 0.6199268102645874
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 352 / 500 ============================
+D loss: 0.21922741830348969, G loss: 0.21875353157520294, cost time: 4.557865858078003
+d_loss_real: 0.7167466282844543, d_loss_fake: 0.09283050149679184, g_loss_fake: 0.8110986351966858
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 353 / 500 ============================
+D loss: 0.21429060399532318, G loss: 0.8358079195022583, cost time: 4.67589545249939
+d_loss_real: 0.8055646419525146, d_loss_fake: 0.17365294694900513, g_loss_fake: 0.4805043935775757
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 354 / 500 ============================
+D loss: 0.4242088198661804, G loss: 1.5435538291931152, cost time: 4.288875341415405
+d_loss_real: 0.8238061666488647, d_loss_fake: 0.46118563413619995, g_loss_fake: 0.2717418670654297
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 355 / 500 ============================
+D loss: 0.07816087454557419, G loss: 0.32583287358283997, cost time: 4.426534414291382
+d_loss_real: 0.954918384552002, d_loss_fake: 0.0974893569946289, g_loss_fake: 0.7446476221084595
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 356 / 500 ============================
+D loss: 0.07537177950143814, G loss: 5.166399955749512, cost time: 4.367006301879883
+d_loss_real: 0.9130202531814575, d_loss_fake: 0.05394873768091202, g_loss_fake: 0.015867182984948158
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 357 / 500 ============================
+D loss: 0.09862104803323746, G loss: 1.5738019943237305, cost time: 4.557300090789795
+d_loss_real: 0.8797661066055298, d_loss_fake: 0.03698278218507767, g_loss_fake: 0.31474557518959045
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 358 / 500 ============================
+D loss: 0.3693482577800751, G loss: 0.7992579936981201, cost time: 4.218232154846191
+d_loss_real: 0.9160885214805603, d_loss_fake: 0.40069228410720825, g_loss_fake: 0.48753049969673157
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 359 / 500 ============================
+D loss: 0.32974445819854736, G loss: 0.9813942313194275, cost time: 4.314436197280884
+d_loss_real: 0.8120719194412231, d_loss_fake: 0.31454575061798096, g_loss_fake: 0.3996090292930603
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 360 / 500 ============================
+D loss: 0.5176215767860413, G loss: 0.337138295173645, cost time: 4.554723024368286
+d_loss_real: 0.4766346514225006, d_loss_fake: 0.16720297932624817, g_loss_fake: 0.7232683897018433
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 361 / 500 ============================
+D loss: 0.2846739888191223, G loss: 0.26245060563087463, cost time: 4.272181034088135
+d_loss_real: 0.8603466749191284, d_loss_fake: 0.3226867914199829, g_loss_fake: 0.7758469581604004
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 362 / 500 ============================
+D loss: 0.2005343735218048, G loss: 0.40265536308288574, cost time: 4.297466993331909
+d_loss_real: 0.7320592403411865, d_loss_fake: 0.07613176107406616, g_loss_fake: 0.6768063902854919
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 363 / 500 ============================
+D loss: 0.29469671845436096, G loss: 0.4397101402282715, cost time: 4.607564687728882
+d_loss_real: 0.6538212299346924, d_loss_fake: 0.10683299601078033, g_loss_fake: 0.6804001927375793
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 364 / 500 ============================
+D loss: 0.48176833987236023, G loss: 0.1817353516817093, cost time: 4.208368301391602
+d_loss_real: 0.4868025481700897, d_loss_fake: 0.05433054268360138, g_loss_fake: 0.8372697830200195
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 365 / 500 ============================
+D loss: 0.4594736695289612, G loss: 0.8065732717514038, cost time: 4.411618947982788
+d_loss_real: 0.7550381422042847, d_loss_fake: 0.4416125416755676, g_loss_fake: 0.4555739164352417
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 366 / 500 ============================
+D loss: 0.2222515046596527, G loss: 0.43964311480522156, cost time: 4.570217132568359
+d_loss_real: 0.7888154983520508, d_loss_fake: 0.1788383424282074, g_loss_fake: 0.6599253416061401
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 367 / 500 ============================
+D loss: 0.2919881343841553, G loss: 0.34779468178749084, cost time: 4.368412494659424
+d_loss_real: 0.9118860960006714, d_loss_fake: 0.3698238134384155, g_loss_fake: 0.7327512502670288
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 368 / 500 ============================
+D loss: 0.2945793867111206, G loss: 0.31678369641304016, cost time: 4.220944404602051
+d_loss_real: 0.7704306244850159, d_loss_fake: 0.26143568754196167, g_loss_fake: 0.7467445731163025
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 369 / 500 ============================
+D loss: 0.14016854763031006, G loss: 0.26810815930366516, cost time: 4.393115758895874
+d_loss_real: 0.8269248604774475, d_loss_fake: 0.07675352692604065, g_loss_fake: 0.7660351395606995
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 370 / 500 ============================
+D loss: 0.34469693899154663, G loss: 0.42299264669418335, cost time: 4.297710180282593
+d_loss_real: 0.7434437274932861, d_loss_fake: 0.28933924436569214, g_loss_fake: 0.662165641784668
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 371 / 500 ============================
+D loss: 0.2486436814069748, G loss: 0.5172297954559326, cost time: 4.295935869216919
+d_loss_real: 0.8551356196403503, d_loss_fake: 0.28019702434539795, g_loss_fake: 0.6138865947723389
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 372 / 500 ============================
+D loss: 0.15283969044685364, G loss: 0.5615056157112122, cost time: 4.169417381286621
+d_loss_real: 0.8334298133850098, d_loss_fake: 0.10807927697896957, g_loss_fake: 0.6075130701065063
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 373 / 500 ============================
+D loss: 0.24771983921527863, G loss: 0.3835718631744385, cost time: 4.161884307861328
+d_loss_real: 0.86878901720047, d_loss_fake: 0.2889913320541382, g_loss_fake: 0.6883654594421387
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 374 / 500 ============================
+D loss: 0.12689681351184845, G loss: 0.2598249316215515, cost time: 4.208913564682007
+d_loss_real: 0.9210996627807617, d_loss_fake: 0.15495425462722778, g_loss_fake: 0.7784601449966431
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 375 / 500 ============================
+D loss: 0.33394768834114075, G loss: 0.24473203718662262, cost time: 4.37950587272644
+d_loss_real: 0.6279722452163696, d_loss_fake: 0.16217100620269775, g_loss_fake: 0.789810299873352
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 376 / 500 ============================
+D loss: 0.28294649720191956, G loss: 0.3853023648262024, cost time: 4.27859902381897
+d_loss_real: 0.7169215679168701, d_loss_fake: 0.1891459822654724, g_loss_fake: 0.6890800595283508
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 377 / 500 ============================
+D loss: 0.2492256611585617, G loss: 0.1827312409877777, cost time: 4.580373764038086
+d_loss_real: 0.7318421602249146, d_loss_fake: 0.1637166440486908, g_loss_fake: 0.8339099287986755
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 378 / 500 ============================
+D loss: 0.27259641885757446, G loss: 2.4909491539001465, cost time: 4.269312858581543
+d_loss_real: 0.822265088558197, d_loss_fake: 0.27933618426322937, g_loss_fake: 0.08705493807792664
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 379 / 500 ============================
+D loss: 0.32353314757347107, G loss: 0.4485454857349396, cost time: 4.380906105041504
+d_loss_real: 0.9041210412979126, d_loss_fake: 0.401652455329895, g_loss_fake: 0.6603532433509827
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 380 / 500 ============================
+D loss: 0.2838743329048157, G loss: 0.6449241042137146, cost time: 4.167084455490112
+d_loss_real: 0.9403986930847168, d_loss_fake: 0.384709894657135, g_loss_fake: 0.5422105193138123
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 381 / 500 ============================
+D loss: 0.2824223041534424, G loss: 0.16121222078800201, cost time: 4.502686977386475
+d_loss_real: 0.6495684385299683, d_loss_fake: 0.10079801082611084, g_loss_fake: 0.8525879383087158
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 382 / 500 ============================
+D loss: 0.2181098312139511, G loss: 0.645258367061615, cost time: 4.6462671756744385
+d_loss_real: 0.8123652935028076, d_loss_fake: 0.19484999775886536, g_loss_fake: 0.5720575451850891
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 383 / 500 ============================
+D loss: 0.40479177236557007, G loss: 0.9419571161270142, cost time: 4.234428644180298
+d_loss_real: 0.8297128677368164, d_loss_fake: 0.4533660411834717, g_loss_fake: 0.39534562826156616
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 384 / 500 ============================
+D loss: 0.23886294662952423, G loss: 0.2770034074783325, cost time: 4.179854393005371
+d_loss_real: 0.6964163184165955, d_loss_fake: 0.09050507843494415, g_loss_fake: 0.7646045684814453
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 385 / 500 ============================
+D loss: 0.2250412553548813, G loss: 0.5446434020996094, cost time: 4.380956649780273
+d_loss_real: 0.7742347717285156, d_loss_fake: 0.15004247426986694, g_loss_fake: 0.6208046674728394
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 386 / 500 ============================
+D loss: 0.25238925218582153, G loss: 0.4709133505821228, cost time: 4.657538890838623
+d_loss_real: 0.7685514092445374, d_loss_fake: 0.20683999359607697, g_loss_fake: 0.6315934062004089
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 387 / 500 ============================
+D loss: 0.28143584728240967, G loss: 1.912860631942749, cost time: 4.415793418884277
+d_loss_real: 0.8149211406707764, d_loss_fake: 0.2929409146308899, g_loss_fake: 0.16471238434314728
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 388 / 500 ============================
+D loss: 0.09115210920572281, G loss: 1.127675175666809, cost time: 4.273844003677368
+d_loss_real: 0.9233046174049377, d_loss_fake: 0.09487515687942505, g_loss_fake: 0.3415845036506653
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 389 / 500 ============================
+D loss: 0.2407994568347931, G loss: 0.3976798951625824, cost time: 4.489715099334717
+d_loss_real: 0.7302629947662354, d_loss_fake: 0.14031094312667847, g_loss_fake: 0.6876266002655029
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 390 / 500 ============================
+D loss: 0.25259464979171753, G loss: 0.31599462032318115, cost time: 4.4838995933532715
+d_loss_real: 0.7502132654190063, d_loss_fake: 0.18017199635505676, g_loss_fake: 0.7355945706367493
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 391 / 500 ============================
+D loss: 0.17320528626441956, G loss: 0.4832250475883484, cost time: 4.406213045120239
+d_loss_real: 0.9034522771835327, d_loss_fake: 0.2098153978586197, g_loss_fake: 0.6398493051528931
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 392 / 500 ============================
+D loss: 0.0990498960018158, G loss: 0.2559698224067688, cost time: 4.299092054367065
+d_loss_real: 0.8996416330337524, d_loss_fake: 0.08616504073143005, g_loss_fake: 0.7789127826690674
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 393 / 500 ============================
+D loss: 0.13988348841667175, G loss: 0.28983697295188904, cost time: 4.389623403549194
+d_loss_real: 0.8811492919921875, d_loss_fake: 0.13946574926376343, g_loss_fake: 0.7577624917030334
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 394 / 500 ============================
+D loss: 0.19280385971069336, G loss: 0.3724699020385742, cost time: 4.30613899230957
+d_loss_real: 0.7873121500015259, d_loss_fake: 0.1253928691148758, g_loss_fake: 0.6931707859039307
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 395 / 500 ============================
+D loss: 0.15080051124095917, G loss: 0.5891645550727844, cost time: 4.202783584594727
+d_loss_real: 0.869281530380249, d_loss_fake: 0.13926583528518677, g_loss_fake: 0.6067181825637817
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 396 / 500 ============================
+D loss: 0.2700844407081604, G loss: 1.852875828742981, cost time: 4.714588403701782
+d_loss_real: 0.8174104690551758, d_loss_fake: 0.27604585886001587, g_loss_fake: 0.17290690541267395
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 397 / 500 ============================
+D loss: 0.2824484407901764, G loss: 1.8749990463256836, cost time: 4.463824272155762
+d_loss_real: 0.6584010720252991, d_loss_fake: 0.12413728982210159, g_loss_fake: 0.2032758891582489
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 398 / 500 ============================
+D loss: 0.0593196302652359, G loss: 3.246516227722168, cost time: 4.612950086593628
+d_loss_real: 0.9601485729217529, d_loss_fake: 0.07152621448040009, g_loss_fake: 0.048147328197956085
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 399 / 500 ============================
+D loss: 0.09148479998111725, G loss: 0.5214543342590332, cost time: 4.377645492553711
+d_loss_real: 0.9628562927246094, d_loss_fake: 0.1301541030406952, g_loss_fake: 0.6107130646705627
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 400 / 500 ============================
+D loss: 0.4148256182670593, G loss: 0.3550035357475281, cost time: 4.9017980098724365
+d_loss_real: 0.5420690774917603, d_loss_fake: 0.17554807662963867, g_loss_fake: 0.7136729955673218
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 401 / 500 ============================
+D loss: 0.16970479488372803, G loss: 0.5482239127159119, cost time: 4.4215497970581055
+d_loss_real: 0.8307714462280273, d_loss_fake: 0.13927951455116272, g_loss_fake: 0.6147783994674683
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 402 / 500 ============================
+D loss: 0.16748365759849548, G loss: 0.3584182858467102, cost time: 4.409818887710571
+d_loss_real: 0.7961792945861816, d_loss_fake: 0.07944696396589279, g_loss_fake: 0.7091832756996155
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 403 / 500 ============================
+D loss: 0.41902732849121094, G loss: 0.30002284049987793, cost time: 4.583523511886597
+d_loss_real: 0.473983496427536, d_loss_fake: 0.06271219998598099, g_loss_fake: 0.7446249723434448
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 404 / 500 ============================
+D loss: 0.31419941782951355, G loss: 0.29109978675842285, cost time: 4.50986647605896
+d_loss_real: 0.697264552116394, d_loss_fake: 0.22768649458885193, g_loss_fake: 0.7554006576538086
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 405 / 500 ============================
+D loss: 0.39206039905548096, G loss: 0.7131134271621704, cost time: 4.331336498260498
+d_loss_real: 0.6930274963378906, d_loss_fake: 0.3003351390361786, g_loss_fake: 0.5109828114509583
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 406 / 500 ============================
+D loss: 0.12718980014324188, G loss: 0.42634016275405884, cost time: 4.27663516998291
+d_loss_real: 0.8850736618041992, d_loss_fake: 0.12011406570672989, g_loss_fake: 0.6680494546890259
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 407 / 500 ============================
+D loss: 0.18575285375118256, G loss: 0.10919813811779022, cost time: 4.408853769302368
+d_loss_real: 0.7810668349266052, d_loss_fake: 0.04636787623167038, g_loss_fake: 0.897497832775116
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 408 / 500 ============================
+D loss: 0.3261573612689972, G loss: 0.818504810333252, cost time: 4.801140785217285
+d_loss_real: 0.8845651149749756, d_loss_fake: 0.37253719568252563, g_loss_fake: 0.48384830355644226
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 409 / 500 ============================
+D loss: 0.2452671080827713, G loss: 1.818413257598877, cost time: 4.281065225601196
+d_loss_real: 0.681742787361145, d_loss_fake: 0.08026541024446487, g_loss_fake: 0.17740881443023682
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 410 / 500 ============================
+D loss: 0.593096137046814, G loss: 0.9532960653305054, cost time: 4.232962608337402
+d_loss_real: 0.921177864074707, d_loss_fake: 0.5979009866714478, g_loss_fake: 0.4761233329772949
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 411 / 500 ============================
+D loss: 0.1288071870803833, G loss: 0.7826923727989197, cost time: 4.264878034591675
+d_loss_real: 0.8744892477989197, d_loss_fake: 0.11365967988967896, g_loss_fake: 0.521587610244751
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 412 / 500 ============================
+D loss: 0.17816612124443054, G loss: 1.053471326828003, cost time: 4.679981231689453
+d_loss_real: 0.7947282791137695, d_loss_fake: 0.09827297180891037, g_loss_fake: 0.37349990010261536
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 413 / 500 ============================
+D loss: 0.3037949800491333, G loss: 0.31303930282592773, cost time: 4.500684022903442
+d_loss_real: 0.6569476127624512, d_loss_fake: 0.15354366600513458, g_loss_fake: 0.738113522529602
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 414 / 500 ============================
+D loss: 0.2113284319639206, G loss: 0.5715748071670532, cost time: 4.799654722213745
+d_loss_real: 0.8031048774719238, d_loss_fake: 0.17291754484176636, g_loss_fake: 0.6011772155761719
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 415 / 500 ============================
+D loss: 0.16411343216896057, G loss: 0.7550100088119507, cost time: 4.38576865196228
+d_loss_real: 0.7856786251068115, d_loss_fake: 0.07592616230249405, g_loss_fake: 0.4999558925628662
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 416 / 500 ============================
+D loss: 0.1655675172805786, G loss: 1.7601484060287476, cost time: 4.571071147918701
+d_loss_real: 0.7661103010177612, d_loss_fake: 0.05574135482311249, g_loss_fake: 0.19311104714870453
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 417 / 500 ============================
+D loss: 0.07680704444646835, G loss: 0.8619605898857117, cost time: 4.278622388839722
+d_loss_real: 0.8933849334716797, d_loss_fake: 0.038657207041978836, g_loss_fake: 0.49010610580444336
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 418 / 500 ============================
+D loss: 0.07707004994153976, G loss: 3.6618618965148926, cost time: 4.491461753845215
+d_loss_real: 0.9435774683952332, d_loss_fake: 0.08957182615995407, g_loss_fake: 0.029796648770570755
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 419 / 500 ============================
+D loss: 0.01855115219950676, G loss: 3.8351802825927734, cost time: 4.2951436042785645
+d_loss_real: 0.9879097938537598, d_loss_fake: 0.02444574050605297, g_loss_fake: 0.04242795705795288
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 420 / 500 ============================
+D loss: 0.06583176553249359, G loss: 0.3138163983821869, cost time: 4.191176652908325
+d_loss_real: 0.973159909248352, d_loss_fake: 0.09655115008354187, g_loss_fake: 0.7377102375030518
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 421 / 500 ============================
+D loss: 0.7607578635215759, G loss: 0.35543811321258545, cost time: 4.615288496017456
+d_loss_real: 0.24983137845993042, d_loss_fake: 0.04389069974422455, g_loss_fake: 0.7232968211174011
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 422 / 500 ============================
+D loss: 0.34554386138916016, G loss: 0.2612067461013794, cost time: 4.522502899169922
+d_loss_real: 0.6797481179237366, d_loss_fake: 0.2545635402202606, g_loss_fake: 0.7739195823669434
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 423 / 500 ============================
+D loss: 0.4925985336303711, G loss: 0.38159269094467163, cost time: 4.266403675079346
+d_loss_real: 0.5897117257118225, d_loss_fake: 0.31240078806877136, g_loss_fake: 0.6933637261390686
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 424 / 500 ============================
+D loss: 0.2831434905529022, G loss: 0.36501073837280273, cost time: 4.4581522941589355
+d_loss_real: 0.756895899772644, d_loss_fake: 0.22997388243675232, g_loss_fake: 0.7092024683952332
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 425 / 500 ============================
+D loss: 0.22126568853855133, G loss: 0.4035951495170593, cost time: 4.411300897598267
+d_loss_real: 0.7801294326782227, d_loss_fake: 0.16949881613254547, g_loss_fake: 0.7827208042144775
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 426 / 500 ============================
+D loss: 0.14346525073051453, G loss: 0.6883776187896729, cost time: 4.190878391265869
+d_loss_real: 0.8349281549453735, d_loss_fake: 0.09798562526702881, g_loss_fake: 0.5266690850257874
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 427 / 500 ============================
+D loss: 0.29464852809906006, G loss: 0.3156326413154602, cost time: 4.289372682571411
+d_loss_real: 0.762847363948822, d_loss_fake: 0.25577059388160706, g_loss_fake: 0.7374032735824585
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 428 / 500 ============================
+D loss: 0.24370351433753967, G loss: 0.5005021095275879, cost time: 4.211470603942871
+d_loss_real: 0.8701125383377075, d_loss_fake: 0.2899012565612793, g_loss_fake: 0.6113196611404419
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 429 / 500 ============================
+D loss: 0.1856112778186798, G loss: 0.3268778920173645, cost time: 4.272375822067261
+d_loss_real: 0.8609040975570679, d_loss_fake: 0.18290427327156067, g_loss_fake: 0.7256557941436768
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 430 / 500 ============================
+D loss: 0.3116506040096283, G loss: 0.9169797897338867, cost time: 4.438719034194946
+d_loss_real: 0.6446863412857056, d_loss_fake: 0.13947482407093048, g_loss_fake: 0.44917988777160645
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 431 / 500 ============================
+D loss: 0.11087468266487122, G loss: 0.29802143573760986, cost time: 4.60909104347229
+d_loss_real: 0.8562703132629395, d_loss_fake: 0.05440472438931465, g_loss_fake: 0.7555578947067261
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 432 / 500 ============================
+D loss: 0.24371430277824402, G loss: 2.2855734825134277, cost time: 4.271624803543091
+d_loss_real: 0.7054450511932373, d_loss_fake: 0.11995072662830353, g_loss_fake: 0.12114940583705902
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 433 / 500 ============================
+D loss: 0.036592431366443634, G loss: 0.4717180132865906, cost time: 4.253781318664551
+d_loss_real: 0.9449474215507507, d_loss_fake: 0.015300148166716099, g_loss_fake: 0.6508852243423462
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 434 / 500 ============================
+D loss: 0.28554314374923706, G loss: 0.1388193815946579, cost time: 4.2327985763549805
+d_loss_real: 0.8780509233474731, d_loss_fake: 0.34841105341911316, g_loss_fake: 0.871788501739502
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 435 / 500 ============================
+D loss: 0.42115283012390137, G loss: 0.26703208684921265, cost time: 4.644813299179077
+d_loss_real: 0.5729069709777832, d_loss_fake: 0.21308533847332, g_loss_fake: 0.7688741683959961
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 436 / 500 ============================
+D loss: 0.45596563816070557, G loss: 0.44756054878234863, cost time: 4.587800741195679
+d_loss_real: 0.5068649053573608, d_loss_fake: 0.191291943192482, g_loss_fake: 0.6507742404937744
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 437 / 500 ============================
+D loss: 0.41570207476615906, G loss: 0.6135237812995911, cost time: 4.50588321685791
+d_loss_real: 0.7458797693252563, d_loss_fake: 0.40470588207244873, g_loss_fake: 0.5610699653625488
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 438 / 500 ============================
+D loss: 0.5272353887557983, G loss: 0.4804205298423767, cost time: 4.479326963424683
+d_loss_real: 0.8699628114700317, d_loss_fake: 0.5838419198989868, g_loss_fake: 0.6246362924575806
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 439 / 500 ============================
+D loss: 0.4152264893054962, G loss: 0.23375234007835388, cost time: 4.320370674133301
+d_loss_real: 0.5588475465774536, d_loss_fake: 0.20378945767879486, g_loss_fake: 0.7942519187927246
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 440 / 500 ============================
+D loss: 0.3306845724582672, G loss: 0.4458152651786804, cost time: 4.208653926849365
+d_loss_real: 0.788412868976593, d_loss_fake: 0.338423490524292, g_loss_fake: 0.6464056968688965
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 441 / 500 ============================
+D loss: 0.21849685907363892, G loss: 0.7966943979263306, cost time: 4.503508567810059
+d_loss_real: 0.8372316956520081, d_loss_fake: 0.2200017273426056, g_loss_fake: 0.4857105612754822
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 442 / 500 ============================
+D loss: 0.4498538374900818, G loss: 0.429927259683609, cost time: 4.515853643417358
+d_loss_real: 0.49566540122032166, d_loss_fake: 0.1360521912574768, g_loss_fake: 0.6645517349243164
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 443 / 500 ============================
+D loss: 0.4710962772369385, G loss: 1.5109167098999023, cost time: 4.3525166511535645
+d_loss_real: 0.7254076600074768, d_loss_fake: 0.4520410895347595, g_loss_fake: 0.2308078408241272
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 444 / 500 ============================
+D loss: 0.2491236925125122, G loss: 0.46856579184532166, cost time: 4.29035496711731
+d_loss_real: 0.6969163417816162, d_loss_fake: 0.11188722401857376, g_loss_fake: 0.6423315405845642
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 445 / 500 ============================
+D loss: 0.36284005641937256, G loss: 1.545325517654419, cost time: 4.274855136871338
+d_loss_real: 0.6307695508003235, d_loss_fake: 0.22011573612689972, g_loss_fake: 0.25032222270965576
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 446 / 500 ============================
+D loss: 0.27284833788871765, G loss: 0.8243008852005005, cost time: 4.1938629150390625
+d_loss_real: 0.6998467445373535, d_loss_fake: 0.150783509016037, g_loss_fake: 0.4598202705383301
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 447 / 500 ============================
+D loss: 0.14579501748085022, G loss: 1.398831844329834, cost time: 4.269583702087402
+d_loss_real: 0.8921821713447571, d_loss_fake: 0.1572607159614563, g_loss_fake: 0.285983681678772
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 448 / 500 ============================
+D loss: 0.11581923812627792, G loss: 0.9606524705886841, cost time: 4.206575632095337
+d_loss_real: 0.8409947156906128, d_loss_fake: 0.04813515394926071, g_loss_fake: 0.4021497964859009
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 449 / 500 ============================
+D loss: 0.06159155070781708, G loss: 3.2746126651763916, cost time: 4.382002592086792
+d_loss_real: 0.9401624202728271, d_loss_fake: 0.05864022299647331, g_loss_fake: 0.052755117416381836
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 450 / 500 ============================
+D loss: 0.19795860350131989, G loss: 2.3387413024902344, cost time: 4.326098918914795
+d_loss_real: 0.7773150205612183, d_loss_fake: 0.08744023740291595, g_loss_fake: 0.13266727328300476
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 451 / 500 ============================
+D loss: 0.08354924619197845, G loss: 3.7253870964050293, cost time: 4.6073689460754395
+d_loss_real: 0.8961791396141052, d_loss_fake: 0.05302489548921585, g_loss_fake: 0.026813918724656105
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 452 / 500 ============================
+D loss: 0.10104390233755112, G loss: 0.3913515508174896, cost time: 4.36078953742981
+d_loss_real: 0.8957115411758423, d_loss_fake: 0.08425916731357574, g_loss_fake: 0.6811951398849487
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 453 / 500 ============================
+D loss: 0.39163923263549805, G loss: 0.3861355483531952, cost time: 4.343450546264648
+d_loss_real: 0.94983971118927, d_loss_fake: 0.5034423470497131, g_loss_fake: 0.6826165914535522
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 454 / 500 ============================
+D loss: 0.3289492726325989, G loss: 0.26310503482818604, cost time: 4.265517234802246
+d_loss_real: 0.7018773555755615, d_loss_fake: 0.25022387504577637, g_loss_fake: 0.7758079171180725
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 455 / 500 ============================
+D loss: 0.2914457321166992, G loss: 0.3877805471420288, cost time: 4.407340049743652
+d_loss_real: 0.784741997718811, d_loss_fake: 0.27658307552337646, g_loss_fake: 0.6878343820571899
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 456 / 500 ============================
+D loss: 0.2614891827106476, G loss: 0.4578548073768616, cost time: 4.40541934967041
+d_loss_real: 0.7578206062316895, d_loss_fake: 0.210493266582489, g_loss_fake: 0.6447367668151855
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 457 / 500 ============================
+D loss: 0.2701225280761719, G loss: 0.48472297191619873, cost time: 4.593175888061523
+d_loss_real: 0.6830518245697021, d_loss_fake: 0.14044718444347382, g_loss_fake: 0.6354508399963379
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 458 / 500 ============================
+D loss: 0.3186487853527069, G loss: 0.37763115763664246, cost time: 4.4216015338897705
+d_loss_real: 0.729865312576294, d_loss_fake: 0.264520525932312, g_loss_fake: 0.7010615468025208
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 459 / 500 ============================
+D loss: 0.22544848918914795, G loss: 0.4307343363761902, cost time: 4.249750375747681
+d_loss_real: 0.7266724109649658, d_loss_fake: 0.11275941133499146, g_loss_fake: 0.6582944989204407
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 460 / 500 ============================
+D loss: 0.30081552267074585, G loss: 0.5852380990982056, cost time: 4.354146480560303
+d_loss_real: 0.6876316666603088, d_loss_fake: 0.18572640419006348, g_loss_fake: 0.5911223888397217
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 461 / 500 ============================
+D loss: 0.33010292053222656, G loss: 0.8180314302444458, cost time: 4.537704706192017
+d_loss_real: 0.7693071365356445, d_loss_fake: 0.3116011619567871, g_loss_fake: 0.4646024703979492
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 462 / 500 ============================
+D loss: 0.28206872940063477, G loss: 1.6676883697509766, cost time: 4.289010524749756
+d_loss_real: 0.6841232776641846, d_loss_fake: 0.1543096899986267, g_loss_fake: 0.21870672702789307
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 463 / 500 ============================
+D loss: 0.08574961125850677, G loss: 1.0186939239501953, cost time: 4.278664827346802
+d_loss_real: 0.9416437149047852, d_loss_fake: 0.10132130235433578, g_loss_fake: 0.4174434542655945
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 464 / 500 ============================
+D loss: 0.15029895305633545, G loss: 1.842017650604248, cost time: 4.597612619400024
+d_loss_real: 0.8045357465744019, d_loss_fake: 0.07012449204921722, g_loss_fake: 0.2137814164161682
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 465 / 500 ============================
+D loss: 0.0784238651394844, G loss: 0.24821889400482178, cost time: 4.6267170906066895
+d_loss_real: 0.9577560424804688, d_loss_fake: 0.10382412374019623, g_loss_fake: 0.7879689335823059
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 466 / 500 ============================
+D loss: 0.3894888162612915, G loss: 4.2592668533325195, cost time: 4.307101249694824
+d_loss_real: 0.8823349475860596, d_loss_fake: 0.4612426161766052, g_loss_fake: 0.022697336971759796
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 467 / 500 ============================
+D loss: 0.3515129089355469, G loss: 0.3525019586086273, cost time: 4.315251111984253
+d_loss_real: 0.957062840461731, d_loss_fake: 0.4683820903301239, g_loss_fake: 0.708372175693512
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 468 / 500 ============================
+D loss: 0.19740347564220428, G loss: 0.44182759523391724, cost time: 4.317192554473877
+d_loss_real: 0.7564960718154907, d_loss_fake: 0.10246305167675018, g_loss_fake: 0.6501187682151794
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 469 / 500 ============================
+D loss: 0.2716100513935089, G loss: 0.23493628203868866, cost time: 4.247233152389526
+d_loss_real: 0.686387836933136, d_loss_fake: 0.14443963766098022, g_loss_fake: 0.7931082248687744
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 470 / 500 ============================
+D loss: 0.2792772650718689, G loss: 0.6756337881088257, cost time: 4.285691261291504
+d_loss_real: 0.920542299747467, d_loss_fake: 0.37606415152549744, g_loss_fake: 0.5434326529502869
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 471 / 500 ============================
+D loss: 0.17274382710456848, G loss: 0.44592058658599854, cost time: 4.288529872894287
+d_loss_real: 0.9580084085464478, d_loss_fake: 0.2571205496788025, g_loss_fake: 0.6505095958709717
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 472 / 500 ============================
+D loss: 0.12893342971801758, G loss: 0.13157011568546295, cost time: 4.773195266723633
+d_loss_real: 0.9271985292434692, d_loss_fake: 0.16396376490592957, g_loss_fake: 0.8817827701568604
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 473 / 500 ============================
+D loss: 0.23654131591320038, G loss: 0.24653984606266022, cost time: 4.537081718444824
+d_loss_real: 0.8576698899269104, d_loss_fake: 0.2692636251449585, g_loss_fake: 0.7833367586135864
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 474 / 500 ============================
+D loss: 0.20107191801071167, G loss: 0.4771304130554199, cost time: 4.552551984786987
+d_loss_real: 0.7570145130157471, d_loss_fake: 0.10455876588821411, g_loss_fake: 0.6316705942153931
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 475 / 500 ============================
+D loss: 0.1437121331691742, G loss: 0.11377072334289551, cost time: 4.1715171337127686
+d_loss_real: 0.880131185054779, d_loss_fake: 0.10970057547092438, g_loss_fake: 0.8936861753463745
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 476 / 500 ============================
+D loss: 0.37549030780792236, G loss: 3.5175094604492188, cost time: 4.172710657119751
+d_loss_real: 0.7262884378433228, d_loss_fake: 0.33557894825935364, g_loss_fake: 0.039314113557338715
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 477 / 500 ============================
+D loss: 0.13139015436172485, G loss: 2.7018120288848877, cost time: 4.2223920822143555
+d_loss_real: 0.8158910870552063, d_loss_fake: 0.055436551570892334, g_loss_fake: 0.11540952324867249
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 478 / 500 ============================
+D loss: 0.11366280913352966, G loss: 5.772904872894287, cost time: 4.499170541763306
+d_loss_real: 0.8955494165420532, d_loss_fake: 0.10450197011232376, g_loss_fake: 0.004089083522558212
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 479 / 500 ============================
+D loss: 0.016465548425912857, G loss: 0.36611631512641907, cost time: 4.28917121887207
+d_loss_real: 0.9753295183181763, d_loss_fake: 0.007804103195667267, g_loss_fake: 0.7048543691635132
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 480 / 500 ============================
+D loss: 0.45176905393600464, G loss: 0.2837415039539337, cost time: 4.353843450546265
+d_loss_real: 0.43950849771499634, d_loss_fake: 0.0358230397105217, g_loss_fake: 0.7585375905036926
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 481 / 500 ============================
+D loss: 0.3689817786216736, G loss: 0.42765164375305176, cost time: 4.388667106628418
+d_loss_real: 0.6622054576873779, d_loss_fake: 0.23450039327144623, g_loss_fake: 0.6785218715667725
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 482 / 500 ============================
+D loss: 0.2079419493675232, G loss: 0.21199925243854523, cost time: 4.414892673492432
+d_loss_real: 0.8463407754898071, d_loss_fake: 0.2105010449886322, g_loss_fake: 0.8176720142364502
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 483 / 500 ============================
+D loss: 0.2768718898296356, G loss: 0.326347678899765, cost time: 4.5309576988220215
+d_loss_real: 0.8405237197875977, d_loss_fake: 0.3069130778312683, g_loss_fake: 0.7251560688018799
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 484 / 500 ============================
+D loss: 0.1979738026857376, G loss: 0.37530624866485596, cost time: 4.449285984039307
+d_loss_real: 0.8573064804077148, d_loss_fake: 0.21033276617527008, g_loss_fake: 0.6964781284332275
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 485 / 500 ============================
+D loss: 0.17736893892288208, G loss: 1.7774536609649658, cost time: 4.399359464645386
+d_loss_real: 0.8461252450942993, d_loss_fake: 0.16316451132297516, g_loss_fake: 0.21373936533927917
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 486 / 500 ============================
+D loss: 0.09879417717456818, G loss: 0.508314311504364, cost time: 4.357449293136597
+d_loss_real: 0.9205762147903442, d_loss_fake: 0.10572284460067749, g_loss_fake: 0.6217084527015686
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 487 / 500 ============================
+D loss: 0.3709694445133209, G loss: 5.734302997589111, cost time: 4.415592193603516
+d_loss_real: 0.793274462223053, d_loss_fake: 0.38567298650741577, g_loss_fake: 0.004356252495199442
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 488 / 500 ============================
+D loss: 0.1199898049235344, G loss: 0.4054911732673645, cost time: 4.377500772476196
+d_loss_real: 0.8662812113761902, d_loss_fake: 0.08447635173797607, g_loss_fake: 0.6914854049682617
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 489 / 500 ============================
+D loss: 0.09547974169254303, G loss: 0.17698583006858826, cost time: 4.567543983459473
+d_loss_real: 0.9703109264373779, d_loss_fake: 0.14560437202453613, g_loss_fake: 0.8399378061294556
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 490 / 500 ============================
+D loss: 0.11434077471494675, G loss: 0.3141697645187378, cost time: 4.228672742843628
+d_loss_real: 0.872850239276886, d_loss_fake: 0.07541143894195557, g_loss_fake: 0.7553756237030029
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 491 / 500 ============================
+D loss: 0.2951222062110901, G loss: 0.522153913974762, cost time: 4.408115386962891
+d_loss_real: 0.8830769062042236, d_loss_fake: 0.3421204388141632, g_loss_fake: 0.6018201112747192
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 492 / 500 ============================
+D loss: 0.31826072931289673, G loss: 8.126543045043945, cost time: 4.292861223220825
+d_loss_real: 0.8249757289886475, d_loss_fake: 0.32199493050575256, g_loss_fake: 0.0003320913529023528
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 493 / 500 ============================
+D loss: 0.022981490939855576, G loss: 0.21877947449684143, cost time: 4.387607097625732
+d_loss_real: 0.9670460224151611, d_loss_fake: 0.012243397533893585, g_loss_fake: 0.810727059841156
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 494 / 500 ============================
+D loss: 0.2033596932888031, G loss: 2.2350497245788574, cost time: 4.268678903579712
+d_loss_real: 0.7590796947479248, d_loss_fake: 0.09771233797073364, g_loss_fake: 0.17642860114574432
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 495 / 500 ============================
+D loss: 0.024066921323537827, G loss: 0.40658965706825256, cost time: 4.291414499282837
+d_loss_real: 0.9550889730453491, d_loss_fake: 0.0019166175043210387, g_loss_fake: 0.6734061241149902
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 496 / 500 ============================
+D loss: 0.05506151542067528, G loss: 3.791898250579834, cost time: 4.423517465591431
+d_loss_real: 0.9484226703643799, d_loss_fake: 0.05469214916229248, g_loss_fake: 0.025277553126215935
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 497 / 500 ============================
+D loss: 0.021341443061828613, G loss: 1.639275074005127, cost time: 4.262907981872559
+d_loss_real: 0.9718693494796753, d_loss_fake: 0.01392483152449131, g_loss_fake: 0.215518057346344
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 498 / 500 ============================
+D loss: 0.04078269004821777, G loss: 7.217439651489258, cost time: 4.311941862106323
+d_loss_real: 0.9532230496406555, d_loss_fake: 0.032829005271196365, g_loss_fake: 0.001125596696510911
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 499 / 500 ============================
+D loss: 0.06971712410449982, G loss: 7.9866042137146, cost time: 4.494613885879517
+d_loss_real: 0.9653409123420715, d_loss_fake: 0.0966600626707077, g_loss_fake: 0.00041739584412425756
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 
+Epoch: 500 / 500 ============================
+D loss: 0.010371262207627296, G loss: 1.7632696628570557, cost time: 4.193017482757568
+d_loss_real: 0.9804123044013977, d_loss_fake: 0.0008857426000759006, g_loss_fake: 0.21804480254650116
+Models save to sd-gan/standard-generatorg5d1.pth & sd-gan/standard-discriminatorg5d1.pth 

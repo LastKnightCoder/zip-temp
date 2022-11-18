@@ -1,0 +1,152 @@
+train on cuda
+Epoch: 1 / 100 ============================
+
+epoch 1 cost time: 111.11908006668091s, losses: 0.01132663618773222, save model success!
+Epoch: 2 / 100 ============================
+
+epoch 2 cost time: 112.17376947402954s, losses: 0.008475471287965775, save model success!
+Epoch: 3 / 100 ============================
+
+epoch 3 cost time: 118.72254538536072s, losses: 0.008931353688240051, save model success!
+Epoch: 4 / 100 ============================
+
+epoch 4 cost time: 112.25305032730103s, losses: 0.005955182481557131, save model success!
+Epoch: 5 / 100 ============================
+
+epoch 5 cost time: 112.00689125061035s, losses: 0.004400141537189484, save model success!
+Epoch: 6 / 100 ============================
+
+epoch 6 cost time: 112.1461820602417s, losses: 0.005908024962991476, save model success!
+Epoch: 7 / 100 ============================
+
+epoch 7 cost time: 133.9516282081604s, losses: 0.006178896874189377, save model success!
+Epoch: 8 / 100 ============================
+
+epoch 8 cost time: 112.29791283607483s, losses: 0.006319649051874876, save model success!
+Epoch: 9 / 100 ============================
+
+epoch 9 cost time: 112.5854377746582s, losses: 0.004944242537021637, save model success!
+Epoch: 10 / 100 ============================
+
+epoch 10 cost time: 126.46358609199524s, losses: 0.0064350333996117115, save model success!
+Epoch: 11 / 100 ============================
+
+epoch 11 cost time: 117.8443717956543s, losses: 0.004523580428212881, save model success!
+Epoch: 12 / 100 ============================
+
+epoch 12 cost time: 112.6942343711853s, losses: 0.004352431744337082, save model success!
+Epoch: 13 / 100 ============================
+
+epoch 13 cost time: 112.00878071784973s, losses: 0.004617478232830763, save model success!
+Epoch: 14 / 100 ============================
+
+epoch 14 cost time: 112.02673625946045s, losses: 0.0042382776737213135, save model success!
+Epoch: 15 / 100 ============================
+
+epoch 15 cost time: 112.17440700531006s, losses: 0.005216110963374376, save model success!
+Epoch: 16 / 100 ============================
+
+epoch 16 cost time: 112.18513512611389s, losses: 0.005084723234176636, save model success!
+Epoch: 17 / 100 ============================
+
+epoch 17 cost time: 112.33453178405762s, losses: 0.00519039761275053, save model success!
+Epoch: 18 / 100 ============================
+
+epoch 18 cost time: 112.09684944152832s, losses: 0.004571408964693546, save model success!
+Epoch: 19 / 100 ============================
+
+epoch 19 cost time: 112.08976030349731s, losses: 0.003990459721535444, save model success!
+Epoch: 20 / 100 ============================
+
+epoch 20 cost time: 111.98863410949707s, losses: 0.003770845476537943, save model success!
+Epoch: 21 / 100 ============================
+
+epoch 21 cost time: 111.80272483825684s, losses: 0.0043764556758105755, save model success!
+Epoch: 22 / 100 ============================
+
+epoch 22 cost time: 112.12524843215942s, losses: 0.003726234892383218, save model success!
+Epoch: 23 / 100 ============================
+
+epoch 23 cost time: 112.2028911113739s, losses: 0.0036761790979653597, save model success!
+Epoch: 24 / 100 ============================
+
+epoch 24 cost time: 111.89603877067566s, losses: 0.0054174731485545635, save model success!
+Epoch: 25 / 100 ============================
+
+epoch 25 cost time: 112.12869358062744s, losses: 0.004188815597444773, save model success!
+Epoch: 26 / 100 ============================
+
+epoch 26 cost time: 112.10474228858948s, losses: 0.0036012916825711727, save model success!
+Epoch: 27 / 100 ============================
+
+epoch 27 cost time: 112.31089115142822s, losses: 0.003574928268790245, save model success!
+Epoch: 28 / 100 ============================
+
+epoch 28 cost time: 112.36894202232361s, losses: 0.004471295513212681, save model success!
+Epoch: 29 / 100 ============================
+
+epoch 29 cost time: 112.31771087646484s, losses: 0.003689714940264821, save model success!
+Epoch: 30 / 100 ============================
+
+epoch 30 cost time: 112.31193256378174s, losses: 0.0038735875859856606, save model success!
+Epoch: 31 / 100 ============================
+
+epoch 31 cost time: 112.31386756896973s, losses: 0.004232803359627724, save model success!
+Epoch: 32 / 100 ============================
+
+epoch 32 cost time: 112.25996398925781s, losses: 0.0040871454402804375, save model success!
+Epoch: 33 / 100 ============================
+
+epoch 33 cost time: 112.3114902973175s, losses: 0.004388472530990839, save model success!
+Epoch: 34 / 100 ============================
+
+epoch 34 cost time: 112.45520853996277s, losses: 0.003745697671547532, save model success!
+Epoch: 35 / 100 ============================
+
+epoch 35 cost time: 112.38041925430298s, losses: 0.003955333959311247, save model success!
+Epoch: 36 / 100 ============================
+
+epoch 36 cost time: 126.42169380187988s, losses: 0.004093775060027838, save model success!
+Epoch: 37 / 100 ============================
+
+epoch 37 cost time: 117.48656582832336s, losses: 0.003307703649625182, save model success!
+Epoch: 38 / 100 ============================
+
+epoch 38 cost time: 112.62244629859924s, losses: 0.004549363162368536, save model success!
+Epoch: 39 / 100 ============================
+
+epoch 39 cost time: 112.50635719299316s, losses: 0.004712675232440233, save model success!
+Epoch: 40 / 100 ============================
+
+epoch 40 cost time: 112.59651374816895s, losses: 0.0042822048999369144, save model success!
+Epoch: 41 / 100 ============================
+
+epoch 41 cost time: 112.39100575447083s, losses: 0.004710541572421789, save model success!
+Epoch: 42 / 100 ============================
+
+epoch 42 cost time: 112.41406106948853s, losses: 0.004558672662824392, save model success!
+Epoch: 43 / 100 ============================
+
+epoch 43 cost time: 112.69740390777588s, losses: 0.004893457982689142, save model success!
+Epoch: 44 / 100 ============================
+
+epoch 44 cost time: 112.67838454246521s, losses: 0.0035687428899109364, save model success!
+Epoch: 45 / 100 ============================
+
+epoch 45 cost time: 112.55949187278748s, losses: 0.0048679024912416935, save model success!
+Epoch: 46 / 100 ============================
+
+epoch 46 cost time: 112.49860048294067s, losses: 0.004037197213619947, save model success!
+Epoch: 47 / 100 ============================
+
+epoch 47 cost time: 112.51011610031128s, losses: 0.0036896183155477047, save model success!
+Epoch: 48 / 100 ============================
+
+epoch 48 cost time: 112.47316694259644s, losses: 0.003804306033998728, save model success!
+Epoch: 49 / 100 ============================
+
+epoch 49 cost time: 112.74339079856873s, losses: 0.004357282537966967, save model success!
+Epoch: 50 / 100 ============================
+
+epoch 50 cost time: 112.55886006355286s, losses: 0.0038349684327840805, save model success!
+Epoch: 51 / 100 ============================

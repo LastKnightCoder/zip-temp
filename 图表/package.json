@@ -1,0 +1,15 @@
+{
+  "name": "process-datas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getLosses.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "neat-csv": "^7.0.0"
+  }
+}

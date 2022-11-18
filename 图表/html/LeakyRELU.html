@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <div id="container" style="width:500px; height:400px;"></div>
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/modules/exporting.js"></script>
+  <script src="https://code.highcharts.com/modules/offline-exporting.js"></script>
+  <script src="https://code.highcharts.com/modules/export-data.js"></script>
+  <script>
+    const chart = Highcharts.chart('container', {
+      chart: {
+        type: 'line'
+      },
+      title: {
+        text: ''
+      },
+      xAxis: {
+        title: {
+          text: 'x',
+          style: {
+            fontFamily: 'Times',
+            fontSize: '14px',
+            fontStyle: 'italic',
+            fontWeight: 'bold',
+            color: 'black'
+          }
+        }
+      },
+      yAxis: {
+        title: {
+          text: 'y',
+          style: {
+            fontFamily: 'Times',
+            fontSize: '14px',
+            fontStyle: 'italic',
+            fontWeight: 'bold',
+            color: 'black'
+          }
+        },
+        max: 4,
+        min: -1
+      },
+      legend: {
+        enabled: false,
+        align: 'right',
+        verticalAlign: 'top',
+        itemStyle: {
+          fontSize: '14px',
+          fontFamily: 'Times'
+        }
+      },
+      series: [{
+        name: 'Sigmoid',
+        data: (function () {
+          const x = [];
+          const y = [];
+          const res = []
+          for (let i = 0; i < 81; i++) {
+            x.push((i-40) / 10);
+            y.push(x[i] >= 0 ? x[i] : 0.2*x[i]);
+            res.push([x[i], y[i]]);
+          }
+          
+          return res;
+        })()
+      }],
+      credits: false
+    });
+  </script>
+</body>
+
+</html>
